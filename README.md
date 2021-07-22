@@ -10,11 +10,11 @@ I am not taking commission at this time.
 
 [![](https://i.playground.ru/p/4FYpmbRKekTEEs0MhdSJ8A.png)](https://www.nexusmods.com/users/61720101)
 ![](https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Blank_button.svg/146px-Blank_button.svg.png)
-[![](https://vgboxart.com/resources/logo/1636_bethesda_game_studios-prev.png)](https://bethesda.net/en/mods/skyrim?author_username=PierreDespereaux&number_results=20&order=desc&page=1&product=skyrim)
+[![](https://vgboxart.com/resources/logo/1636_bethesda_game_studios-prev.png)](https://bethesda.net/en/mods/skyrim?author_username=TateTaylorUSA&number_results=20&order=desc&page=1&product=skyrim)
 
 ## Keizaal
 
-[<img src="https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/Keizaal%20Banner%20Small.png">](https://keizaal.github.io/Keizaal/)
+[<img src="https://raw.githubusercontent.com/TateTaylorUSA/Keizaal/main/assets/images/Keizaal%20Banner%20Small.png">](https://keizaal.github.io/Keizaal/)
 
 Keizaal is a simple modlist that seeks to enhance and expand on Skyrim without compromising Bethesda’s original vision that we all fell in love with back in 2011. The following are the core pillars of this list:
 
@@ -27,7 +27,7 @@ Keizaal is a simple modlist that seeks to enhance and expand on Skyrim without c
 
 <center> <font size="1">MIT License<font size="1"> |
 
-<center> <font size="1">Copyright (c) 2021 Pierre Despereaux<font size="1"> |
+<center> <font size="1">Copyright (c) 2021 Tate Taylor<font size="1"> |
 
 <center> <font size="1">Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<font size="1"> |
 
