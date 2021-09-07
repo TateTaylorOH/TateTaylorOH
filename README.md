@@ -4,7 +4,7 @@ Hello all, my name is Tate Taylor and I am a Skyrim modder and Wabbajack modlist
 
 In addition to my mods I also curate the [Keizaal](https://keizaal.github.io/Keizaal/) Wabbajack modlist. It is a simple modlist that seeks to enhance and expand on Skyrim without compromising Bethesda’s original vision that we all fell in love with back in 2011. If you're interested in learning more about Keizaal be sure to visit [the website](https://keizaal.github.io/Keizaal/).
 
-I am not taking commission at this time. 
+I am not taking commissions at this time. 
 
 ## My Mods
 
