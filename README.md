@@ -1,4 +1,4 @@
-# About Me
+## About Me
 
 Hello all, my name is Tate Taylor and I am a Skyrim modder and Wabbajack modlist curator. I make a random mix of mods and don't really stay within any one category, just whatever I want to see added to the game. However, I am currently working on a larger project called "[Asya'la the Nordic Khajiit - A Fully Voiced Follower](https://www.youtube.com/watch?v=rbU1ubNYZbo)" alongside my wife, Cora. I can't wait to share the finished project with you all!
 
@@ -6,13 +6,13 @@ In addition to my mods I also curate the [Keizaal](https://keizaal.github.io/Kei
 
 I am not taking commissions at this time. 
 
-## My Mods
+### My Mods
 
 [![](https://i.playground.ru/p/4FYpmbRKekTEEs0MhdSJ8A.png)](https://www.nexusmods.com/users/61720101)
 ![](https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Blank_button.svg/146px-Blank_button.svg.png)
 [![](https://vgboxart.com/resources/logo/1636_bethesda_game_studios-prev.png)](https://bethesda.net/en/mods/skyrim?author_username=TateTaylorUSA&number_results=20&order=desc&page=1&product=skyrim)
 
-## Keizaal
+### Keizaal
 
 [<img src="https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/Keizaal%20Banner%20Small.png">](https://keizaal.github.io/Keizaal/)
 
