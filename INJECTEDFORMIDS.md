@@ -10,9 +10,9 @@ FormID Tag: 01DE5xxx
 01DE5004: DES_VanillaHomes
 
 ## [Twhack!](https://www.nexusmods.com/skyrimspecialedition/mods/42653)
-01DE5005: ccXB_StoreBolts
-01DE5006: ccXB_OrcBolt
-01DE5007: ccXB_SilverBolt
-01DE5008: ccXB_ElvenBolt
-01DE5009: ccXB_NordicBolt
+01DE5005: ccXB_StoreBolts\
+01DE5006: ccXB_OrcBolt\
+01DE5007: ccXB_SilverBolt\
+01DE5008: ccXB_ElvenBolt\
+01DE5009: ccXB_NordicBolt\
 01DE5010: ccXB_GlassBolt
