@@ -12,9 +12,7 @@ I am not taking commissions at this time.
 
 ## Keizaal
 
-<p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/reB-FtOKlG0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<p>
 
 Keizaal is a simple modlist that seeks to enhance and expand on Skyrim without compromising Bethesda’s original vision that we all fell in love with back in 2011. The following are the core pillars of this list:
 
