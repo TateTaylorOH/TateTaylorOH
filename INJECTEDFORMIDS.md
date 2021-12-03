@@ -8,3 +8,16 @@ FormID Tag: 01DE5xxx
 ## [Gladys](https://www.nexusmods.com/skyrimspecialedition/mods/50164)
 01DE5003: DES_DogBlessingKeyword\
 01DE5004: DES_VanillaHomes
+
+## SkyUI [Weapons Pack Icons Distributed]()
+01DE5005: WeapTypeSpear\
+01DE5006: WeapTypeJavelin\
+01DE5007: WeapTypePike\
+01DE5008: WeapTypeHalberd\
+01DE5009: WeapTypeRapier\
+01DE500A: WeapTypeQuarterstaff\
+01DE500B: WeapTypeClaw\
+01DE500C: WeapTypeScythe\
+01DE500D: WeapTypeWhip\
+01DE500E: WeapTypeKatana\
+01DE500F: WeapTypeGun
