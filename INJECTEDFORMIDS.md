@@ -21,3 +21,11 @@ FormID Tag: 01DE5xxx
 01DE500D: WeapTypeWhip\
 01DE500E: WeapTypeKatana\
 01DE500F: WeapTypeGun
+
+## [Ghosts of the Tribunal - Reduced Cut]()
+01DE5010: GRC_Relics\
+01DE5011: GRC_Cleaver\
+01DE5012: GRC_HerHandHead\
+01DE5013: GRC_HerHandGloves\
+01DE5014: GRC_HerHandBoots\
+01DE5015: GRC_HerHandArmor
