@@ -9,7 +9,7 @@ FormID Tag: 01DE5xxx
 01DE5003: DES_DogBlessingKeyword\
 01DE5004: DES_VanillaHomes
 
-## SkyUI [Weapons Pack Icons Distributed]()
+## [Automatic Animations - Including Icon Identification](https://www.nexusmods.com/skyrimspecialedition/mods/59484)
 01DE5005: WeapTypeSpear\
 01DE5006: WeapTypeJavelin\
 01DE5007: WeapTypePike\
@@ -22,6 +22,6 @@ FormID Tag: 01DE5xxx
 01DE500E: WeapTypeKatana\
 01DE500F: WeapTypeGun
 
-## [Ghosts of the Tribunal - Reduced Cut]()
+## [Ghosts of the Tribunal - Reduced Cut](https://www.nexusmods.com/skyrimspecialedition/mods/67019)
 01DE5010: GRC_Relics\
 01DE5011: GRC_Artifacts
