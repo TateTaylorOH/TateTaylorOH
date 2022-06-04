@@ -2,7 +2,7 @@
 
 Hello all, my name is Tate Taylor and I am a Skyrim modder and Wabbajack modlist curator. I make a random mix of mods and don't really stay within any one category, just whatever I want to see added to the game.
 
-In addition to my mods I also curate the [Keizaal](https://keizaal.github.io/Keizaal/) Wabbajack modlist. It is a simple modlist that seeks to enhance and expand on Skyrim without compromising Bethesda’s original vision that we all fell in love with back in 2011. If you're interested in learning more about Keizaal be sure to visit [the website](https://keizaal.github.io/Keizaal/).
+In addition to my mods I also curate the [Keizaal](https://www.nexusmods.com/skyrimspecialedition/mods/68997) Wabbajack modlist. It is a simple modlist that seeks to enhance and expand on Skyrim without compromising Bethesda’s original vision that we all fell in love with back in 2011. If you're interested in learning more about Keizaal be sure to visit [the website](https://keizaal.github.io/Keizaal/).
 
 I am not taking commissions at this time. 
 
@@ -14,7 +14,7 @@ I am not taking commissions at this time.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IVbp1xYIjWs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[Keizaal](https://keizaal.github.io/Keizaal/) is a simple modlist that seeks to enhance and expand on Skyrim without compromising Bethesda’s original vision that we all fell in love with back in 2011. The following are the core pillars of this list:
+[Keizaal](https://www.nexusmods.com/skyrimspecialedition/mods/68997) is a simple modlist that seeks to enhance and expand on Skyrim without compromising Bethesda’s original vision that we all fell in love with back in 2011. The following are the core pillars of this list:
 
 1. This modlist is lite and intends to maintain the Vanilla feel. A lot of the time modlists can become ridiculously huge and bloated, but this modlist wants to be nice and lean. Less is more.
 2. Immersion is paramount. I’m a lore buff and immersion is very important to me. If a mod is not lore accurate or takes me out of the game in any way it will be excluded. Consistency also falls into this category, if a mod has a completely different aesthetic from Vanilla or any of my other mods then it will probably not be included.
