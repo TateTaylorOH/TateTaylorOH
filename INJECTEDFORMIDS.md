@@ -25,3 +25,7 @@ FormID Tag: 01DE5xxx
 ## [Ghosts of the Tribunal - Reduced Cut](https://www.nexusmods.com/skyrimspecialedition/mods/67019)
 01DE5010: GRC_Relics\
 01DE5011: GRC_Artifacts
+
+## [C.O.I.N.](https://www.nexusmods.com/skyrimspecialedition/mods/51439)
+01DE5020: DES_GibberFront\
+01DE5021: DES_GibberBack
