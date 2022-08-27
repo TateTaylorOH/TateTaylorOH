@@ -4,6 +4,20 @@ FormID Tag: 01DE5xxx
 01DE5000: DES_NonCultFormlist\
 01DE5001: DES_ValeFormlist\
 01DE5002: DES_NonGoldCoins
+01DE5012: DES_DrakrDragon\
+01DE5013: DES_DrakrMoth\
+01DE5014: DES_DrakrNord\
+01DE5015: DES_DrakrOwl\
+01DE5016: DES_DrakrWhale\
+01DE5017: DES_GibberBack\
+01DE5018: DES_GibberFront\
+01DE5019: DES_Mala\
+01DE5020: DES_Mallari\
+01DE5021: DES_Mede\
+01DE5022: DES_Nchuark\
+01DE5023: DES_Sancar\
+01DE5024: DES_Ulfric\
+
 
 ## [Gladys](https://www.nexusmods.com/skyrimspecialedition/mods/50164)
 01DE5003: DES_DogBlessingKeyword\
@@ -25,18 +39,3 @@ FormID Tag: 01DE5xxx
 ## [Ghosts of the Tribunal - Reduced Cut](https://www.nexusmods.com/skyrimspecialedition/mods/67019)
 01DE5010: GRC_Relics\
 01DE5011: GRC_Artifacts
-
-## [C.O.I.N.](https://www.nexusmods.com/skyrimspecialedition/mods/51439)
-01DE5012: DES_DrakrDragon\
-01DE5013: DES_DrakrMoth\
-01DE5014: DES_DrakrNord\
-01DE5015: DES_DrakrOwl\
-01DE5016: DES_DrakrWhale\
-01DE5017: DES_GibberBack\
-01DE5018: DES_GibberFront\
-01DE5019: DES_Mala\
-01DE5020: DES_Mallari\
-01DE5021: DES_Mede\
-01DE5022: DES_Nchuark\
-01DE5023: DES_Sancar\
-01DE5024: DES_Ulfric
