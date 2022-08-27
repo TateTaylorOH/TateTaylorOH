@@ -3,7 +3,7 @@ FormID Tag: 01DE5xxx
 ## [C.O.I.N.](https://github.com/PierreDespereaux/C.O.I.N.)
 01DE5000: DES_NonCultFormlist\
 01DE5001: DES_ValeFormlist\
-01DE5002: DES_NonGoldCoins
+01DE5002: DES_NonGoldCoins\
 01DE5012: DES_DrakrDragon\
 01DE5013: DES_DrakrMoth\
 01DE5014: DES_DrakrNord\
@@ -16,7 +16,7 @@ FormID Tag: 01DE5xxx
 01DE5021: DES_Mede\
 01DE5022: DES_Nchuark\
 01DE5023: DES_Sancar\
-01DE5024: DES_Ulfric\
+01DE5024: DES_Ulfric
 
 
 ## [Gladys](https://www.nexusmods.com/skyrimspecialedition/mods/50164)
