@@ -39,5 +39,5 @@ FormID Tag: 01DE5xxx
 01DE5010: GRC_Relics\
 01DE5011: GRC_Artifacts
 
-## [LCO_IliacBay]
-01DE5025: [LCO_IB_LCharJehannaGuardFaces](https://www.nexusmods.com/skyrimspecialedition/mods/110277)
+## [LCO_IliacBay](https://www.nexusmods.com/skyrimspecialedition/mods/110277)
+01DE5025: LCO_IB_LCharJehannaGuardFaces
