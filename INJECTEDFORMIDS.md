@@ -18,7 +18,6 @@ FormID Tag: 01DE5xxx
 01DE5023: DES_Sancar\
 01DE5024: DES_Ulfric
 
-
 ## [Gladys](https://www.nexusmods.com/skyrimspecialedition/mods/50164)
 01DE5003: DES_DogBlessingKeyword\
 01DE5004: DES_VanillaHomes
@@ -39,3 +38,6 @@ FormID Tag: 01DE5xxx
 ## [Ghosts of the Tribunal - Reduced Cut](https://www.nexusmods.com/skyrimspecialedition/mods/67019)
 01DE5010: GRC_Relics\
 01DE5011: GRC_Artifacts
+
+## [LCO_IliacBay]
+01DE5025: [LCO_IB_LCharJehannaGuardFaces](https://www.nexusmods.com/skyrimspecialedition/mods/110277)
