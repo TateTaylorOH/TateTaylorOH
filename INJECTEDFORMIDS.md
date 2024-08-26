@@ -16,7 +16,9 @@ FormID Tag: 01DE5xxx
 01DE5021: DES_Mede\
 01DE5022: DES_Nchuark\
 01DE5023: DES_Sancar\
-01DE5024: DES_Ulfric
+01DE5024: DES_Ulfric\
+01DE5026: DES_NoExchange
+
 
 ## [Gladys](https://www.nexusmods.com/skyrimspecialedition/mods/50164)
 01DE5003: DES_DogBlessingKeyword\
