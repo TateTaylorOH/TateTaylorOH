@@ -44,5 +44,5 @@ FormID Tag: 01DE5xxx
 ## [LCO_IliacBay](https://www.nexusmods.com/skyrimspecialedition/mods/110277)
 01DE5025: LCO_IB_JehannaGuard
 
-## [Complete Gibberish](https://www.nexusmods.com/skyrimspecialedition/mods/110277](https://www.nexusmods.com/skyrimspecialedition/mods/127871)
+## [Complete Gibberish](https://www.nexusmods.com/skyrimspecialedition/mods/127871)
 01DE5027: DES_Gibber
