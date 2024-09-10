@@ -59,3 +59,4 @@ FormID Tag: 01DE5xxx
 01DE5036: DES_BarterWithSeptimsTopic PersuadeReject02
 01DE5037: DES_UlfricCurrencySwapperQuest
 01DE5038: DES_BarterWithUlfrics
+01DE5039: DES_CanBarterWithUlfrics
