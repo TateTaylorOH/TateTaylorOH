@@ -47,18 +47,3 @@ FormID Tag: 01DE5xxx
 
 ## [Complete Gibberish](https://www.nexusmods.com/skyrimspecialedition/mods/127871)
 01DE5027: DES_Gibber
-
-## Currency Swapper
-01DE5029: DES_CurrencyOptions\
-01DE5030: DES_ChooseCurrency\
-01DE5031: DES_BarterWithSeptims\
-01DE5032: DES_ChooseCurrencyTopic\
-01DE5033: DES_BarterWithSeptimsTopic\
-01DE5034: DES_ChooseCurrencyTopic|Understand\
-01DE5035: DES_BarterWithSeptimsTopic|OfCourse\
-01DE5036: DES_BarterWithSeptimsTopic|PersuadeReject02\
-01DE5037: DES_UlfricCurrencySwapperQuest\
-01DE5038: DES_BarterWithUlfrics\
-01DE5039: DES_BarterWithUlfricsTopic\
-01DE5040: DES_CanBarterWithUlfrics\
-01DE5041: DES_BarterWithSeptimsTopic|Ma'dran
