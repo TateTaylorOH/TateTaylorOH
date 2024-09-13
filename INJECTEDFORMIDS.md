@@ -18,7 +18,8 @@ FormID Tag: 01DE5xxx
 01DE5023: DES_Sancar\
 01DE5024: DES_Ulfric\
 01DE5026: DES_NoExchange\
-01DE5028: DES_NoMCM
+01DE5028: DES_NoMCM\
+01DE5029: DES_Dram
 
 
 ## [Gladys](https://www.nexusmods.com/skyrimspecialedition/mods/50164)
