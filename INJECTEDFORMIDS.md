@@ -15,7 +15,7 @@ FormID Tag: 01DE5xxx
 01DE500C: WeapTypeScythe\
 01DE500D: WeapTypeWhip\
 01DE500E: WeapTypeKatana\
-01DE500F: WeapTypeGun
+01DE500F: WeapTypeGun\
 01DE5010: GRC_Relics\
 01DE5011: GRC_Artifacts\
 01DE5012: DES_DrakrDragon\
