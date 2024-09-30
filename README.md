@@ -12,8 +12,6 @@ I am not taking commissions at this time.
 
 ## Keizaal
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IVbp1xYIjWs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 [Keizaal](https://www.nexusmods.com/skyrimspecialedition/mods/68997){:target="_blank" rel="noopener"} is a simple modlist that seeks to enhance and expand on Skyrim without compromising Bethesda’s original vision that we all fell in love with back in 2011. The following are the core pillars of this list:
 
 1. This modlist is lite and intends to maintain the Vanilla feel. A lot of the time, modlists can become ridiculously huge and bloated, but this modlist aims to be nice and lean. Less is more.
