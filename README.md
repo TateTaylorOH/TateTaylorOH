@@ -4,8 +4,6 @@ Hello all, my name is Tate Taylor, and I am a Skyrim mod author. I create a rand
 
 In addition to my mods, I also curate the [Keizaal](https://www.nexusmods.com/skyrimspecialedition/mods/68997){:target="_blank" rel="noopener"} Wabbajack modlist. It is a simple modlist that seeks to enhance and expand on Skyrim without compromising Bethesda’s original vision that we all fell in love with back in 2011. If you're interested in learning more about Keizaal, be sure to visit [the website](https://keizaal.github.io/Keizaal/){:target="_blank" rel="noopener"}.
 
-I am not taking commissions at this time.
-
 ## My Mods
 
 I have been making mods since 2020; covering a wide array of different mod types. However, I am probably best known for [Gladys](https://www.nexusmods.com/skyrimspecialedition/mods/50164){:target="_blank" rel="noopener"} and [Merlin the Corgis](https://www.nexusmods.com/skyrimspecialedition/mods/56433){:target="_blank" rel="noopener"}, [C.O.I.N.](https://www.nexusmods.com/skyrimspecialedition/mods/51439){:target="_blank" rel="noopener"}, or my contributions to [Skyrim: Extended Cut - Saints and Seducers](https://www.nexusmods.com/skyrimspecialedition/mods/72772){:target="_blank" rel="noopener"}.
