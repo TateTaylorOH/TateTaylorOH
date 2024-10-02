@@ -8,7 +8,9 @@ I am not taking commissions at this time.
 
 ## My Mods
 
-[![](https://raw.githubusercontent.com/TateTaylorOH/TateTaylorOH/main/assets/images/banners/Nexus.png)](https://www.nexusmods.com/users/61720101){:target="_blank" rel="noopener"}[![](https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Blank_button.svg/146px-Blank_button.svg.png)](https://youtu.be/dQw4w9WgXcQ)[![](https://raw.githubusercontent.com/TateTaylorOH/TateTaylorOH/main/assets/images/banners/Bethesda.png)](https://creations.bethesda.net/en/skyrim/all?author_displayname=TateTaylorOH){:target="_blank" rel="noopener"}
+I have been making mods since 2020; covering a wide array of different mod types. However, I am probably best known for [Gladys](https://www.nexusmods.com/skyrimspecialedition/mods/50164){:target="_blank" rel="noopener"} and [Merlin the Corgis](https://www.nexusmods.com/skyrimspecialedition/mods/56433){:target="_blank" rel="noopener"}, [C.O.I.N.](https://www.nexusmods.com/skyrimspecialedition/mods/51439){:target="_blank" rel="noopener"}, or my contributions to Skyrim: [Extended Cut - Saints and Seducers](https://www.nexusmods.com/skyrimspecialedition/mods/72772){:target="_blank" rel="noopener"}.
+
+If you want to look through my work, you can find it on [Nexus Mods](https://www.nexusmods.com/users/61720101){:target="_blank" rel="noopener"} and [BethNet](https://creations.bethesda.net/en/skyrim/all?author_displayname=TateTaylorOH){:target="_blank" rel="noopener"}.
 
 ## Keizaal
 
