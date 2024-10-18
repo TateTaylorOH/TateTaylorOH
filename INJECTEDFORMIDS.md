@@ -37,4 +37,5 @@ FormID Tag: 01DE5xxx
 01DE5028: DES_NoMCM\
 01DE5029: DES_Dram\
 01DE5030: DES_RentRoomLocationExclusions\
-01DE5031: DES_CurrencyIsReverting
+01DE5031: DES_CurrencyIsReverting\
+01DE5032: DES_ScionEnabled
