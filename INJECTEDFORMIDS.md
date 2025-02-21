@@ -42,4 +42,5 @@ FormID Tag: 01DE5xxx
 01DE5033: ActorTypeAyleid\
 01DE5034: ActorTypeSeaElf\
 01DE5035: ActorTypeSnowElf\
-01DE5036: ActorTypeTsaesci
+01DE5036: ActorTypeTsaesci\
+01DE5037: DES_ConvertCoins
