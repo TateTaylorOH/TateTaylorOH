@@ -2,9 +2,6 @@
 layout: default
 title: Screenshot Guide
 ---
-A while ago someone asked me about my process for taking screenshots. I responded with this reply that details some of the things I try to keep in mind. 
-
-It's a tad lengthy, I hope that's okay.
 # Basics of Screenshotting (for Mod Pages and Beyond)
 I use [Photo Mode](<https://www.nexusmods.com/skyrimspecialedition/mods/91701>) extensively. It has made getting good shots so much easier. Prior to its release I had to rely on a ton of console command and it was honestly kind of miserable.
 
