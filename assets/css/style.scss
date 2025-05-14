@@ -61,7 +61,7 @@ body {
 	display: flex;
 	align-self: start;
 	flex-direction: column;
-	position: relative;
+	position: fixed;
 	background-color: $sidebar-back-color;
 	color: $sidebar-text-color;
 }
