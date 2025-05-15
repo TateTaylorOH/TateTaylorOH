@@ -40,8 +40,8 @@ body {
    
 	background-color: $base-back-color;
    min-width:960px;
-   width:80%;
-   max-width:1280px;
+  //width:80%;
+   //max-width:1280px;
    margin:0 auto;
 }
 
@@ -331,7 +331,7 @@ details > summary {
 }
 
 #site-footer {
-  background-color: $base-back-color;
+  background-color: darken($base-back-color, 5%);
   color: $base-text-color;
   text-align: center;
   padding: 1.5em 2em;
