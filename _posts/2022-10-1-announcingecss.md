@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Announcing Skyrim: Extended Cut - Saints and Seducers
+title: Announcing Skyrim Extended Cut - Saints and Seducers
 author: Tate Taylor
 ---
 
