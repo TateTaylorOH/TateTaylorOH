@@ -27,7 +27,7 @@ That's all for now, hope you enjoy the new stuff!
         repo="{{ include.repo | default: site.utterances.repo | default: site.github.repository_nwo }}"
         issue-term="{{ include.issue-term | default: site.utterances.issue-term | default: 'pathname' }}"
         {% if site.utterances.issue_number %}
-        issue-number=18
+        issue-number="{{ site.utterances.issue_number }}"
         {% endif %}
         {%- if include.label or site.utterances.label -%}
         label="Comment"
@@ -70,7 +70,7 @@ This update has been a long time coming, and I apologize for all the delays. I h
         repo="{{ include.repo | default: site.utterances.repo | default: site.github.repository_nwo }}"
         issue-term="{{ include.issue-term | default: site.utterances.issue-term | default: 'pathname' }}"
         {% if site.utterances.issue_number %}
-        issue-number=17
+        issue-number="{{ site.utterances.issue_number }}"
         {% endif %}
         {%- if include.label or site.utterances.label -%}
         label="Comment"
@@ -113,7 +113,7 @@ That's all for now. I hope you enjoy!
         repo="{{ include.repo | default: site.utterances.repo | default: site.github.repository_nwo }}"
         issue-term="{{ include.issue-term | default: site.utterances.issue-term | default: 'pathname' }}"
         {% if site.utterances.issue_number %}
-        issue-number=16
+        issue-number="{{ site.utterances.issue_number }}"
         {% endif %}
         {%- if include.label or site.utterances.label -%}
         label="Comment"
@@ -142,7 +142,7 @@ I hope you enjoy the new feature!
         repo="{{ include.repo | default: site.utterances.repo | default: site.github.repository_nwo }}"
         issue-term="{{ include.issue-term | default: site.utterances.issue-term | default: 'pathname' }}"
         {% if site.utterances.issue_number %}
-        issue-number=15
+        issue-number="{{ site.utterances.issue_number }}"
         {% endif %}
         {%- if include.label or site.utterances.label -%}
         label="Comment"
@@ -177,7 +177,7 @@ I hope you enjoy!
         repo="{{ include.repo | default: site.utterances.repo | default: site.github.repository_nwo }}"
         issue-term="{{ include.issue-term | default: site.utterances.issue-term | default: 'pathname' }}"
         {% if site.utterances.issue_number %}
-        issue-number=14
+        issue-number="{{ site.utterances.issue_number }}"
         {% endif %}
         {%- if include.label or site.utterances.label -%}
         label="Comment"
@@ -208,7 +208,7 @@ I hope you enjoy!
         repo="{{ include.repo | default: site.utterances.repo | default: site.github.repository_nwo }}"
         issue-term="{{ include.issue-term | default: site.utterances.issue-term | default: 'pathname' }}"
         {% if site.utterances.issue_number %}
-        issue-number=13
+        issue-number="{{ site.utterances.issue_number }}"
         {% endif %}
         {%- if include.label or site.utterances.label -%}
         label="Comment"
@@ -241,7 +241,7 @@ I hope you all enjoy!
         repo="{{ include.repo | default: site.utterances.repo | default: site.github.repository_nwo }}"
         issue-term="{{ include.issue-term | default: site.utterances.issue-term | default: 'pathname' }}"
         {% if site.utterances.issue_number %}
-        issue-number=12
+        issue-number="{{ site.utterances.issue_number }}"
         {% endif %}
         {%- if include.label or site.utterances.label -%}
         label="Comment"
@@ -272,7 +272,7 @@ I hope you all enjoy!
         repo="{{ include.repo | default: site.utterances.repo | default: site.github.repository_nwo }}"
         issue-term="{{ include.issue-term | default: site.utterances.issue-term | default: 'pathname' }}"
         {% if site.utterances.issue_number %}
-        issue-number=11
+        issue-number="{{ site.utterances.issue_number }}"
         {% endif %}
         {%- if include.label or site.utterances.label -%}
         label="Comment"
@@ -299,7 +299,7 @@ I am very excited to finally be able to share this with everyone! It has been a 
         repo="{{ include.repo | default: site.utterances.repo | default: site.github.repository_nwo }}"
         issue-term="{{ include.issue-term | default: site.utterances.issue-term | default: 'pathname' }}"
         {% if site.utterances.issue_number %}
-        issue-number=10
+        issue-number="{{ site.utterances.issue_number }}"
         {% endif %}
         {%- if include.label or site.utterances.label -%}
         label="Comment"
@@ -326,7 +326,7 @@ Us at Extended cut will be having a very special premiere tomorrow! We're very e
         repo="{{ include.repo | default: site.utterances.repo | default: site.github.repository_nwo }}"
         issue-term="{{ include.issue-term | default: site.utterances.issue-term | default: 'pathname' }}"
         {% if site.utterances.issue_number %}
-        issue-number=9
+        issue-number="{{ site.utterances.issue_number }}"
         {% endif %}
         {%- if include.label or site.utterances.label -%}
         label="Comment"
@@ -357,7 +357,7 @@ Thank you everyone that either donated to me directly or just downloaded my mods
         repo="{{ include.repo | default: site.utterances.repo | default: site.github.repository_nwo }}"
         issue-term="{{ include.issue-term | default: site.utterances.issue-term | default: 'pathname' }}"
         {% if site.utterances.issue_number %}
-        issue-number=8
+        issue-number="{{ site.utterances.issue_number }}"
         {% endif %}
         {%- if include.label or site.utterances.label -%}
         label="Comment"
@@ -388,7 +388,7 @@ You can read more about Nexus Mods' donation drive here: [https://www.nexusmods.
         repo="{{ include.repo | default: site.utterances.repo | default: site.github.repository_nwo }}"
         issue-term="{{ include.issue-term | default: site.utterances.issue-term | default: 'pathname' }}"
         {% if site.utterances.issue_number %}
-        issue-number=7
+        issue-number="{{ site.utterances.issue_number }}"
         {% endif %}
         {%- if include.label or site.utterances.label -%}
         label="Comment"
@@ -413,7 +413,7 @@ You can read more about Nexus Mods' donation drive here: [https://www.nexusmods.
         repo="{{ include.repo | default: site.utterances.repo | default: site.github.repository_nwo }}"
         issue-term="{{ include.issue-term | default: site.utterances.issue-term | default: 'pathname' }}"
         {% if site.utterances.issue_number %}
-        issue-number=6
+        issue-number="{{ site.utterances.issue_number }}"
         {% endif %}
         {%- if include.label or site.utterances.label -%}
         label="Comment"
@@ -438,7 +438,7 @@ You can read more about Nexus Mods' donation drive here: [https://www.nexusmods.
         repo="{{ include.repo | default: site.utterances.repo | default: site.github.repository_nwo }}"
         issue-term="{{ include.issue-term | default: site.utterances.issue-term | default: 'pathname' }}"
         {% if site.utterances.issue_number %}
-        issue-number=5
+        issue-number="{{ site.utterances.issue_number }}"
         {% endif %}
         {%- if include.label or site.utterances.label -%}
         label="Comment"
@@ -467,7 +467,7 @@ I am happy to announce that development on "Merlin the Corgi" has begun.
         repo="{{ include.repo | default: site.utterances.repo | default: site.github.repository_nwo }}"
         issue-term="{{ include.issue-term | default: site.utterances.issue-term | default: 'pathname' }}"
         {% if site.utterances.issue_number %}
-        issue-number=4
+        issue-number="{{ site.utterances.issue_number }}"
         {% endif %}
         {%- if include.label or site.utterances.label -%}
         label="Comment"
@@ -494,7 +494,7 @@ Gladys the Corgi is an in-development corgi follower mod. This showcase demonstr
         repo="{{ include.repo | default: site.utterances.repo | default: site.github.repository_nwo }}"
         issue-term="{{ include.issue-term | default: site.utterances.issue-term | default: 'pathname' }}"
         {% if site.utterances.issue_number %}
-        issue-number=3
+        issue-number="{{ site.utterances.issue_number }}"
         {% endif %}
         {%- if include.label or site.utterances.label -%}
         label="Comment"
@@ -533,7 +533,7 @@ The main reason that Asya'la has traveled to Skyrim is to find herself. Skyrim i
         repo="{{ include.repo | default: site.utterances.repo | default: site.github.repository_nwo }}"
         issue-term="{{ include.issue-term | default: site.utterances.issue-term | default: 'pathname' }}"
         {% if site.utterances.issue_number %}
-        issue-number=2
+        issue-number="{{ site.utterances.issue_number }}"
         {% endif %}
         {%- if include.label or site.utterances.label -%}
         label="Comment"
@@ -562,7 +562,7 @@ It's all still work-in-progress, but I hope you like what I have so far!
         repo="{{ include.repo | default: site.utterances.repo | default: site.github.repository_nwo }}"
         issue-term="{{ include.issue-term | default: site.utterances.issue-term | default: 'pathname' }}"
         {% if site.utterances.issue_number %}
-        issue-number=1
+        issue-number="{{ site.utterances.issue_number }}"
         {% endif %}
         {%- if include.label or site.utterances.label -%}
         label="Comment"
