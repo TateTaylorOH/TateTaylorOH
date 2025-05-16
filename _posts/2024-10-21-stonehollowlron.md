@@ -3,6 +3,7 @@ layout: post
 title: Stonehollow Overhaul and Lost Races of Nirn
 author: Tate Taylor
 ---
+![](https://raw.githubusercontent.com/PierreDespereaux/PierreDespereaux/master/assets/images/UniqueStonehollow/UniqueStonehollowComparison.gif)
 
 Hi everyone, I just finished work on a few things!
 
@@ -17,5 +18,3 @@ The mod is also now split into separate plugins for each race as opposed to bein
 [https://www.nexusmods.com/skyrimspecialedition/mods/69467](https://www.nexusmods.com/skyrimspecialedition/mods/69467)
 
 That's all for now, hope you enjoy the new stuff!
-
-![](https://raw.githubusercontent.com/PierreDespereaux/PierreDespereaux/master/assets/images/UniqueStonehollow/UniqueStonehollowComparison.gif)
