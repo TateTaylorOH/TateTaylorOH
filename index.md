@@ -24,15 +24,9 @@ The mod is also now split into separate plugins for each race as opposed to bein
 That's all for now, hope you enjoy the new stuff!
 
 <script src="https://utteranc.es/client.js"
-        repo="{{ include.repo | default: site.utterances.repo | default: site.github.repository_nwo }}"
-        issue-term="{{ include.issue-term | default: site.utterances.issue-term | default: 'pathname' }}"
-        {% if site.utterances.issue_number %}
-        issue-number=18
-        {% endif %}
-        {%- if include.label or site.utterances.label -%}
-        label="Comment"
-        {%- endif -%}
-        theme="{{ include.theme | default: site.utterances.theme | default: 'github-light' }}"
+        repo="TateTaylorOH/TateTaylorOH"
+        issue-number="6"
+        theme="github-dark"
         crossorigin="anonymous"
         async>
 </script>
