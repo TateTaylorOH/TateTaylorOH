@@ -69,9 +69,6 @@ https://www.nexusmods.com/skyrimspecialedition/mods/129387
 
 That's all for now. I hope you enjoy!
 
-# "You seem quite skilled at doing nothing."
-**Posted Sep 16, 2024 by Tate Taylor**
-
 # Skyrim Silver 1.0.3 Update
 **Sep 11, 2024, 2024 by Tate Taylor**
 
@@ -95,9 +92,6 @@ https://www.nexusmods.com/skyrimspecialedition/mods/127897
 This mod also features voice work from the very talented MeekVoice!
 
 I hope you enjoy!
-
-# "Every coin exchanged is a thorn in the Emperor's side!"
-**Posted Aug 30, 2024 by Tate Taylor**
 
 # Gibberish Released
 **Posted Aug 28, 2024 by Tate Taylor**
