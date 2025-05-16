@@ -6,5 +6,4 @@ wabbajack:
   wabbajack_url: https://www.wabbajack.org/#/
 utterances:
   repo: TateTaylorOH/TateTaylorOH
-  issue_number: 1
   theme: github-dark
