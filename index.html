@@ -7,8 +7,8 @@ title: Home
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
-        <h1>{{ page.title }}</h1>
-        <p>{{ page.date | date_to_string }} - {{ page.author }}</p>
+        <h1>{{ post.title }}</h2>.
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }} - {{ page.author }}</span>
         <hr>
         {{ post.excerpt }}
         <hr>
