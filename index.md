@@ -23,26 +23,6 @@ The mod is also now split into separate plugins for each race as opposed to bein
 
 That's all for now, hope you enjoy the new stuff!
 
-<script src="https://utteranc.es/client.js"
-        repo="{{ include.repo | default: site.utterances.repo | default: site.github.repository_nwo }}"
-        issue-term="{{ include.issue-term | default: site.utterances.issue-term | default: 'pathname' }}"
-        {% if site.utterances.issue_number %}
-        issue-number="{{ site.utterances.issue_number }}"
-        {% endif %}
-        {%- if include.label or site.utterances.label -%}
-        label="Comment"
-        {%- endif -%}
-        theme="{{ include.theme | default: site.utterances.theme | default: 'github-light' }}"
-        crossorigin="anonymous"
-        async>
-</script>
-<noscript>
-<p>
-   This page requires JavaScript to function. However, you should still be able to read comments 
-   <a href="https://github.com/Keizaal/Keizaal-Testimonials/issues/1">hosted on Github</a>.
-</p>
-</noscript>
-
 # Keizaal 8.0.0 Released
 **Posted Sep 30, 2024 by Tate Taylor**
 
