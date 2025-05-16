@@ -3,9 +3,6 @@ layout: post
 author: Tate Taylor
 ---
 
-# Stonehollow Overhaul and Lost Races of Nirn
-**Posted Oct 21, 2024 by Tate Taylor**
-
 ![](https://raw.githubusercontent.com/PierreDespereaux/PierreDespereaux/master/assets/images/UniqueStonehollow/UniqueStonehollowComparison.gif)
 
 Hi everyone, I just finished work on a few things!
