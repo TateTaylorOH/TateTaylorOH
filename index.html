@@ -6,5 +6,5 @@ title: Home
   <h1>{{ post.title }}</h1>
   {{ post.excerpt }}
   <hr>
-  <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }} • {{ post.author }} • <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">Comments</a></span>
+  <span class="post-meta">{{ post.date | date_to_string }} • {{ post.author }} • <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">Comments</a></span>
 {% endfor %}
