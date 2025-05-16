@@ -2,6 +2,7 @@
 layout: default
 title: Rickard Calvert in the Isle of Madness
 ---
+# Rickard Calvert in the Isle of Madness
 
 ![](https://staticdelivery.nexusmods.com/images/1704/61720101-1665548201.png)
 
