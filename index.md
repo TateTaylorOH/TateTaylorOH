@@ -40,9 +40,9 @@ This update also marks a significant shift in design. Going forward, Keizaal's d
 
 Don’t worry, though! If you prefer the SimonRim experience, it’s still available! In the profile drop-down menu in Mod Organizer, you’ll find a second profile built around SimonRim. Unlike previous versions of Keizaal, I’ve made an effort to include *all* mods from the SimonRim suite, so you can enjoy the full intended experience!
 
-[https://www.nexusmods.com/skyrimspecialedition/mods/68997](https://www.nexusmods.com/skyrimspecialedition/mods/68997)
-
 For a full list of changes, refer to the changelog.
+
+[https://www.nexusmods.com/skyrimspecialedition/mods/68997](https://www.nexusmods.com/skyrimspecialedition/mods/68997)
 
 This update has been a long time coming, and I apologize for all the delays. I hope you all enjoy!
 
@@ -87,9 +87,9 @@ Happy Labor Day to all the Americans out there!
 
 To celebrate, I've released Skyrim Silver, a mod that changes the currency you spend in Windhelm from septims to ulfrics! Show your support for the hardworking people of Windhelm by spending a bit of silver at their shops!
 
-[https://www.nexusmods.com/skyrimspecialedition/mods/127897](https://www.nexusmods.com/skyrimspecialedition/mods/127897)
-
 This mod also features voice work from the very talented MeekVoice!
+
+[https://www.nexusmods.com/skyrimspecialedition/mods/127897](https://www.nexusmods.com/skyrimspecialedition/mods/127897)
 
 I hope you enjoy!
 
