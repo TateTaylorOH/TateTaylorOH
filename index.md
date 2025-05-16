@@ -162,7 +162,7 @@ For the month of March I will be forgoing all Donation Points I would normally e
 
 Similarly, I will be putting my regular Patreon income for this month towards a direct donation for this cause.
 
-You can read more about Nexus Mods' donation drive here: https://www.nexusmods.com/news/14653
+You can read more about Nexus Mods' donation drive here: [https://www.nexusmods.com/news/14653](https://www.nexusmods.com/news/14653)
 
 # Sanctus Walkthrough (Spoilers for the Northern Sea)
 **Posted Oct 10, 2021 by Tate Taylor**
