@@ -102,17 +102,17 @@ Find out next time on
 
 ![](https://staticdelivery.nexusmods.com/images/1704/61720101-1666506172.png)
 
-<center><h1>The Most Curious  
-Fauna and Flora  
-of  
-The Shivering Isles</h1>
-
-<h2>BY  
-Rickard Calvert</h2>
-
-<img src="https://raw.githubusercontent.com/TateTaylorOH/TateTaylorOH/main/assets/images/ECSS/FloraFauna01.png"
-
-[i]Published 4E 200, Imperial Geographic Society[/i]</center>
+<center><h1>The Most Curious<br>  
+Fauna and Flora<br>  
+of<br>  
+The Shivering Isles<br></h1>
+<br>
+<h2>BY<br>  
+Rickard Calvert<br></h2>
+<br>
+<img src="https://raw.githubusercontent.com/TateTaylorOH/TateTaylorOH/main/assets/images/ECSS/FloraFauna01.png"><br>
+<br>
+<i>Published 4E 200, Imperial Geographic Society</i></center>
 
 ### <center>Forward</center>
 
