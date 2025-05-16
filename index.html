@@ -8,11 +8,9 @@ title: Home
     {% for post in site.posts %}
       <li>
         <h1>{{ post.title }}</h2>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }} - {{ post.author }}</span>
-        <hr>
         {{ post.excerpt }}
         <hr>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">Comments</a>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }} • {{ post.author }} • <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">Comments</a></span>
       </li>
     {% endfor %}
   </ul>
