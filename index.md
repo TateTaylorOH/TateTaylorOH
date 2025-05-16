@@ -3,7 +3,6 @@ layout: default
 title: Home
 ---
 
-
 # Stonehollow Overhaul and Lost Races of Nirn
 **Posted Oct 21, 2024 by Tate Taylor**
 
@@ -24,9 +23,9 @@ The mod is also now split into separate plugins for each race as opposed to bein
 That's all for now, hope you enjoy the new stuff!
 
 <script src="https://utteranc.es/client.js"
-        repo="TateTaylorOH/TateTaylorOH"
-        issue-number="6"
-        theme="github-dark"
+        repo="{{ include.repo | default: site.utterances.repo | default: site.github.repository_nwo }}"
+        issue-number="26"
+        theme="{{ include.theme | default: site.utterances.theme | default: 'github-light' }}"
         crossorigin="anonymous"
         async>
 </script>
@@ -62,13 +61,7 @@ This update has been a long time coming, and I apologize for all the delays. I h
 
 <script src="https://utteranc.es/client.js"
         repo="{{ include.repo | default: site.utterances.repo | default: site.github.repository_nwo }}"
-        issue-term="{{ include.issue-term | default: site.utterances.issue-term | default: 'pathname' }}"
-        {% if site.utterances.issue_number %}
-        issue-number=17
-        {% endif %}
-        {%- if include.label or site.utterances.label -%}
-        label="Comment"
-        {%- endif -%}
+        issue-number="25"
         theme="{{ include.theme | default: site.utterances.theme | default: 'github-light' }}"
         crossorigin="anonymous"
         async>
@@ -105,13 +98,7 @@ That's all for now. I hope you enjoy!
 
 <script src="https://utteranc.es/client.js"
         repo="{{ include.repo | default: site.utterances.repo | default: site.github.repository_nwo }}"
-        issue-term="{{ include.issue-term | default: site.utterances.issue-term | default: 'pathname' }}"
-        {% if site.utterances.issue_number %}
-        issue-number=16
-        {% endif %}
-        {%- if include.label or site.utterances.label -%}
-        label="Comment"
-        {%- endif -%}
+        issue-number="24"
         theme="{{ include.theme | default: site.utterances.theme | default: 'github-light' }}"
         crossorigin="anonymous"
         async>
@@ -134,13 +121,7 @@ I hope you enjoy the new feature!
 
 <script src="https://utteranc.es/client.js"
         repo="{{ include.repo | default: site.utterances.repo | default: site.github.repository_nwo }}"
-        issue-term="{{ include.issue-term | default: site.utterances.issue-term | default: 'pathname' }}"
-        {% if site.utterances.issue_number %}
-        issue-number=15
-        {% endif %}
-        {%- if include.label or site.utterances.label -%}
-        label="Comment"
-        {%- endif -%}
+        issue-number="23"
         theme="{{ include.theme | default: site.utterances.theme | default: 'github-light' }}"
         crossorigin="anonymous"
         async>
@@ -169,13 +150,7 @@ I hope you enjoy!
 
 <script src="https://utteranc.es/client.js"
         repo="{{ include.repo | default: site.utterances.repo | default: site.github.repository_nwo }}"
-        issue-term="{{ include.issue-term | default: site.utterances.issue-term | default: 'pathname' }}"
-        {% if site.utterances.issue_number %}
-        issue-number=14
-        {% endif %}
-        {%- if include.label or site.utterances.label -%}
-        label="Comment"
-        {%- endif -%}
+        issue-number="22"
         theme="{{ include.theme | default: site.utterances.theme | default: 'github-light' }}"
         crossorigin="anonymous"
         async>
@@ -200,13 +175,7 @@ I hope you enjoy!
 
 <script src="https://utteranc.es/client.js"
         repo="{{ include.repo | default: site.utterances.repo | default: site.github.repository_nwo }}"
-        issue-term="{{ include.issue-term | default: site.utterances.issue-term | default: 'pathname' }}"
-        {% if site.utterances.issue_number %}
-        issue-number=13
-        {% endif %}
-        {%- if include.label or site.utterances.label -%}
-        label="Comment"
-        {%- endif -%}
+        issue-number="21"
         theme="{{ include.theme | default: site.utterances.theme | default: 'github-light' }}"
         crossorigin="anonymous"
         async>
@@ -233,13 +202,7 @@ I hope you all enjoy!
 
 <script src="https://utteranc.es/client.js"
         repo="{{ include.repo | default: site.utterances.repo | default: site.github.repository_nwo }}"
-        issue-term="{{ include.issue-term | default: site.utterances.issue-term | default: 'pathname' }}"
-        {% if site.utterances.issue_number %}
-        issue-number=12
-        {% endif %}
-        {%- if include.label or site.utterances.label -%}
-        label="Comment"
-        {%- endif -%}
+        issue-number="20"
         theme="{{ include.theme | default: site.utterances.theme | default: 'github-light' }}"
         crossorigin="anonymous"
         async>
@@ -264,13 +227,7 @@ I hope you all enjoy!
 
 <script src="https://utteranc.es/client.js"
         repo="{{ include.repo | default: site.utterances.repo | default: site.github.repository_nwo }}"
-        issue-term="{{ include.issue-term | default: site.utterances.issue-term | default: 'pathname' }}"
-        {% if site.utterances.issue_number %}
-        issue-number=11
-        {% endif %}
-        {%- if include.label or site.utterances.label -%}
-        label="Comment"
-        {%- endif -%}
+        issue-number="18"
         theme="{{ include.theme | default: site.utterances.theme | default: 'github-light' }}"
         crossorigin="anonymous"
         async>
@@ -291,13 +248,7 @@ I am very excited to finally be able to share this with everyone! It has been a 
 
 <script src="https://utteranc.es/client.js"
         repo="{{ include.repo | default: site.utterances.repo | default: site.github.repository_nwo }}"
-        issue-term="{{ include.issue-term | default: site.utterances.issue-term | default: 'pathname' }}"
-        {% if site.utterances.issue_number %}
-        issue-number=10
-        {% endif %}
-        {%- if include.label or site.utterances.label -%}
-        label="Comment"
-        {%- endif -%}
+        issue-number="17"
         theme="{{ include.theme | default: site.utterances.theme | default: 'github-light' }}"
         crossorigin="anonymous"
         async>
@@ -318,13 +269,7 @@ Us at Extended cut will be having a very special premiere tomorrow! We're very e
 
 <script src="https://utteranc.es/client.js"
         repo="{{ include.repo | default: site.utterances.repo | default: site.github.repository_nwo }}"
-        issue-term="{{ include.issue-term | default: site.utterances.issue-term | default: 'pathname' }}"
-        {% if site.utterances.issue_number %}
-        issue-number=9
-        {% endif %}
-        {%- if include.label or site.utterances.label -%}
-        label="Comment"
-        {%- endif -%}
+        issue-number="16"
         theme="{{ include.theme | default: site.utterances.theme | default: 'github-light' }}"
         crossorigin="anonymous"
         async>
@@ -349,13 +294,7 @@ Thank you everyone that either donated to me directly or just downloaded my mods
 
 <script src="https://utteranc.es/client.js"
         repo="{{ include.repo | default: site.utterances.repo | default: site.github.repository_nwo }}"
-        issue-term="{{ include.issue-term | default: site.utterances.issue-term | default: 'pathname' }}"
-        {% if site.utterances.issue_number %}
-        issue-number=8
-        {% endif %}
-        {%- if include.label or site.utterances.label -%}
-        label="Comment"
-        {%- endif -%}
+        issue-number="15"
         theme="{{ include.theme | default: site.utterances.theme | default: 'github-light' }}"
         crossorigin="anonymous"
         async>
@@ -380,13 +319,7 @@ You can read more about Nexus Mods' donation drive here: [https://www.nexusmods.
 
 <script src="https://utteranc.es/client.js"
         repo="{{ include.repo | default: site.utterances.repo | default: site.github.repository_nwo }}"
-        issue-term="{{ include.issue-term | default: site.utterances.issue-term | default: 'pathname' }}"
-        {% if site.utterances.issue_number %}
-        issue-number=7
-        {% endif %}
-        {%- if include.label or site.utterances.label -%}
-        label="Comment"
-        {%- endif -%}
+        issue-number="14"
         theme="{{ include.theme | default: site.utterances.theme | default: 'github-light' }}"
         crossorigin="anonymous"
         async>
@@ -405,13 +338,7 @@ You can read more about Nexus Mods' donation drive here: [https://www.nexusmods.
 
 <script src="https://utteranc.es/client.js"
         repo="{{ include.repo | default: site.utterances.repo | default: site.github.repository_nwo }}"
-        issue-term="{{ include.issue-term | default: site.utterances.issue-term | default: 'pathname' }}"
-        {% if site.utterances.issue_number %}
-        issue-number=6
-        {% endif %}
-        {%- if include.label or site.utterances.label -%}
-        label="Comment"
-        {%- endif -%}
+        issue-number="13"
         theme="{{ include.theme | default: site.utterances.theme | default: 'github-light' }}"
         crossorigin="anonymous"
         async>
@@ -430,13 +357,7 @@ You can read more about Nexus Mods' donation drive here: [https://www.nexusmods.
 
 <script src="https://utteranc.es/client.js"
         repo="{{ include.repo | default: site.utterances.repo | default: site.github.repository_nwo }}"
-        issue-term="{{ include.issue-term | default: site.utterances.issue-term | default: 'pathname' }}"
-        {% if site.utterances.issue_number %}
-        issue-number=5
-        {% endif %}
-        {%- if include.label or site.utterances.label -%}
-        label="Comment"
-        {%- endif -%}
+        issue-number="12"
         theme="{{ include.theme | default: site.utterances.theme | default: 'github-light' }}"
         crossorigin="anonymous"
         async>
@@ -459,13 +380,7 @@ I am happy to announce that development on "Merlin the Corgi" has begun.
 
 <script src="https://utteranc.es/client.js"
         repo="{{ include.repo | default: site.utterances.repo | default: site.github.repository_nwo }}"
-        issue-term="{{ include.issue-term | default: site.utterances.issue-term | default: 'pathname' }}"
-        {% if site.utterances.issue_number %}
-        issue-number=4
-        {% endif %}
-        {%- if include.label or site.utterances.label -%}
-        label="Comment"
-        {%- endif -%}
+        issue-number="11"
         theme="{{ include.theme | default: site.utterances.theme | default: 'github-light' }}"
         crossorigin="anonymous"
         async>
@@ -486,13 +401,7 @@ Gladys the Corgi is an in-development corgi follower mod. This showcase demonstr
 
 <script src="https://utteranc.es/client.js"
         repo="{{ include.repo | default: site.utterances.repo | default: site.github.repository_nwo }}"
-        issue-term="{{ include.issue-term | default: site.utterances.issue-term | default: 'pathname' }}"
-        {% if site.utterances.issue_number %}
-        issue-number=3
-        {% endif %}
-        {%- if include.label or site.utterances.label -%}
-        label="Comment"
-        {%- endif -%}
+        issue-number="10"
         theme="{{ include.theme | default: site.utterances.theme | default: 'github-light' }}"
         crossorigin="anonymous"
         async>
@@ -525,13 +434,7 @@ The main reason that Asya'la has traveled to Skyrim is to find herself. Skyrim i
 
 <script src="https://utteranc.es/client.js"
         repo="{{ include.repo | default: site.utterances.repo | default: site.github.repository_nwo }}"
-        issue-term="{{ include.issue-term | default: site.utterances.issue-term | default: 'pathname' }}"
-        {% if site.utterances.issue_number %}
-        issue-number=2
-        {% endif %}
-        {%- if include.label or site.utterances.label -%}
-        label="Comment"
-        {%- endif -%}
+        issue-number="9"
         theme="{{ include.theme | default: site.utterances.theme | default: 'github-light' }}"
         crossorigin="anonymous"
         async>
@@ -554,13 +457,7 @@ It's all still work-in-progress, but I hope you like what I have so far!
 
 <script src="https://utteranc.es/client.js"
         repo="{{ include.repo | default: site.utterances.repo | default: site.github.repository_nwo }}"
-        issue-term="{{ include.issue-term | default: site.utterances.issue-term | default: 'pathname' }}"
-        {% if site.utterances.issue_number %}
-        issue-number=1
-        {% endif %}
-        {%- if include.label or site.utterances.label -%}
-        label="Comment"
-        {%- endif -%}
+        issue-number="6"
         theme="{{ include.theme | default: site.utterances.theme | default: 'github-light' }}"
         crossorigin="anonymous"
         async>
@@ -568,6 +465,6 @@ It's all still work-in-progress, but I hope you like what I have so far!
 <noscript>
 <p>
    This page requires JavaScript to function. However, you should still be able to read comments 
-   <a href="https://github.com/TateTaylorOH/TateTaylorOH/issues/1">hosted on Github</a>.
+   <a href="https://github.com/TateTaylorOH/TateTaylorOH/issues/6">hosted on Github</a>.
 </p>
 </noscript>
