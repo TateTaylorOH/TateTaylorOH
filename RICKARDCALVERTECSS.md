@@ -110,9 +110,9 @@ The Shivering Isles</h1>
 <h2>BY  
 Rickard Calvert</h2>
 
-![](https://raw.githubusercontent.com/TateTaylorOH/TateTaylorOH/main/assets/images/ECSS/FloraFauna01.png)
+<img src="[img_girl.jpg](https://raw.githubusercontent.com/TateTaylorOH/TateTaylorOH/main/assets/images/ECSS/FloraFauna01.png)"
 
-*Published 4E 200, Imperial Geographic Society*</center>
+[i]Published 4E 200, Imperial Geographic Society[/i]</center>
 
 ### <center>Forward</center>
 
