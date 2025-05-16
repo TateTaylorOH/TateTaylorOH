@@ -107,6 +107,8 @@ I hope you enjoy!
 # C.O.I.N. 3.0.0 Released
 **Posted Aug 28, 2024 by Tate Taylor**
 
+![](https://staticdelivery.nexusmods.com/mods/1704/images/51439/51439-1727061348-982302705.png)
+
 I've released a big 3.0.0 update for C.O.I.N.!
 
 The mod is now dependent on Container Distribution Framework. This means that the mod will have even fewer conflicts as containers no longer need to be edited in order to distribute new coins.
@@ -129,7 +131,7 @@ I hope you all enjoy!
 # Announcing Skyrim: Extended Cut - Saints and Seducers
 **Posted Oct 1, 2022 by Tate Taylor**
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=neyrmlEtxNo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/neyrmlEtxNo?si=5AMyGL2Wf2BIvWG_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 I am very excited to finally be able to share this with everyone! It has been a long time coming and I think this mod contains some of my best work yet. I hope you'll all check it out next month!
 
