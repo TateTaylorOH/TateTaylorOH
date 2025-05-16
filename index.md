@@ -13,13 +13,13 @@ Hi everyone, I just finished work on a few things!
 
 First and foremost there's Stonehollow Overhaul, a mod that reworks the titular town from Wyrmstooth to make it feel a bit more unique and improve its consistency. It's a pretty simple mod, but I'm really happy with how it turned out. I think it helps Wyrmstooth stand out even more against normal Skyrim.
 
-https://www.nexusmods.com/skyrimspecialedition/mods/131619
+[https://www.nexusmods.com/skyrimspecialedition/mods/131619](https://www.nexusmods.com/skyrimspecialedition/mods/131619)
 
 The other big thing I've released in a complete overhaul of my race mod. It is now know as Lost Races of Nirn. The mod will no longer be designed exclusively around Aetherius, instead the base abilities will be in-line with vanilla with additional patches for Aetherius and Scion.
 
 The mod is also now split into separate plugins for each race as opposed to being merged into a single one. This should make it easier for people to only use certain races. I am hoping that it becomes easier to use the races as resources in other mods as well.
 
-https://www.nexusmods.com/skyrimspecialedition/mods/69467
+[https://www.nexusmods.com/skyrimspecialedition/mods/69467](https://www.nexusmods.com/skyrimspecialedition/mods/69467)
 
 That's all for now, hope you enjoy the new stuff!
 
@@ -40,7 +40,7 @@ This update also marks a significant shift in design. Going forward, Keizaal's d
 
 Don’t worry, though! If you prefer the SimonRim experience, it’s still available! In the profile drop-down menu in Mod Organizer, you’ll find a second profile built around SimonRim. Unlike previous versions of Keizaal, I’ve made an effort to include *all* mods from the SimonRim suite, so you can enjoy the full intended experience!
 
-https://www.nexusmods.com/skyrimspecialedition/mods/68997
+[https://www.nexusmods.com/skyrimspecialedition/mods/68997](https://www.nexusmods.com/skyrimspecialedition/mods/68997)
 
 For a full list of changes, refer to the changelog.
 
@@ -55,17 +55,17 @@ A lot of updates all at once! First and foremost C.O.I.N. 3.1.0 has been release
 
 So now there is a very clear line between ancient coins and modern coins. If it is a dead coin no longer in use C.O.I.N. will handle it. If it is a modern coin, it'll get a Currency Swapper mod.
 
-https://www.nexusmods.com/skyrimspecialedition/mods/51439
+[https://www.nexusmods.com/skyrimspecialedition/mods/51439](https://www.nexusmods.com/skyrimspecialedition/mods/51439)
 
 Second, sancars have gotten their own Currency Swapper mod. The meat of the mod is just distributing them to proper Thalmor NPCcs and locations, but the Kahjiit caravans will also accept them for trade alongside septims!
 
-https://www.nexusmods.com/skyrimspecialedition/mods/129717
+[https://www.nexusmods.com/skyrimspecialedition/mods/129717](https://www.nexusmods.com/skyrimspecialedition/mods/129717)
 
 Third, and what I am personally most excited about, I've made a Currency Swapper mod for Solstheim. I am personally really happy with this mod and I hope you all like it as well!
 
 It also features voice work from the very talented Alex Cain!
 
-https://www.nexusmods.com/skyrimspecialedition/mods/129387
+[https://www.nexusmods.com/skyrimspecialedition/mods/129387](https://www.nexusmods.com/skyrimspecialedition/mods/129387)
 
 That's all for now. I hope you enjoy!
 
@@ -87,7 +87,7 @@ Happy Labor Day to all the Americans out there!
 
 To celebrate, I've released Skyrim Silver, a mod that changes the currency you spend in Windhelm from septims to ulfrics! Show your support for the hardworking people of Windhelm by spending a bit of silver at their shops!
 
-https://www.nexusmods.com/skyrimspecialedition/mods/127897
+[https://www.nexusmods.com/skyrimspecialedition/mods/127897](https://www.nexusmods.com/skyrimspecialedition/mods/127897)
 
 This mod also features voice work from the very talented MeekVoice!
 
@@ -100,7 +100,7 @@ I hope you enjoy!
 
 I've released Gibberish, a mod that will change the currency you spend in the Shivering Isles from septims to gibbers!
 
-https://www.nexusmods.com/skyrimspecialedition/mods/127871
+[https://www.nexusmods.com/skyrimspecialedition/mods/127871](https://www.nexusmods.com/skyrimspecialedition/mods/127871)
 
 I hope you enjoy!
 
@@ -113,7 +113,7 @@ I've released a big 3.0.0 update for C.O.I.N.!
 
 The mod is now dependent on Container Distribution Framework. This means that the mod will have even fewer conflicts as containers no longer need to be edited in order to distribute new coins.
 
-https://www.nexusmods.com/skyrimspecialedition/mods/51439
+[https://www.nexusmods.com/skyrimspecialedition/mods/51439](https://www.nexusmods.com/skyrimspecialedition/mods/51439)
 
 I hope you all enjoy!
 
@@ -124,7 +124,7 @@ I hope you all enjoy!
 
 Hello everyone! 
 
-I just wanted to let you all know that I've pushed out a few small updates for Gladys, Merlin, and D.E.A.D.! I've addressed a few minor issues as well as adding support for The Dragonborn's Bestiary.
+I just wanted to let you all know that I've pushed out a few small updates for [Gladys](https://www.nexusmods.com/skyrimspecialedition/mods/50164), [Merlin](https://www.nexusmods.com/skyrimspecialedition/mods/56433), and [D.E.A.D.](https://www.nexusmods.com/skyrimspecialedition/mods/112431)! I've addressed a few minor issues as well as adding support for The Dragonborn's Bestiary.
 
 I hope you all enjoy!
 
