@@ -1,9 +1,10 @@
 ---
 layout: post
+title: Stonehollow Overhaul and Lost Races of Nirn
 author: Tate Taylor
 ---
 
-![](https://raw.githubusercontent.com/PierreDespereaux/PierreDespereaux/master/assets/images/UniqueStonehollow/UniqueStonehollowComparison.gif)
+<!-- ![](https://raw.githubusercontent.com/PierreDespereaux/PierreDespereaux/master/assets/images/UniqueStonehollow/UniqueStonehollowComparison.gif) -->
 
 Hi everyone, I just finished work on a few things!
 
