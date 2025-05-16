@@ -18,4 +18,4 @@ The mod is also now split into separate plugins for each race as opposed to bein
 
 That's all for now, hope you enjoy the new stuff!
 
-<!-- ![](https://raw.githubusercontent.com/PierreDespereaux/PierreDespereaux/master/assets/images/UniqueStonehollow/UniqueStonehollowComparison.gif) -->
+![](https://raw.githubusercontent.com/PierreDespereaux/PierreDespereaux/master/assets/images/UniqueStonehollow/UniqueStonehollowComparison.gif)
