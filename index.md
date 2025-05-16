@@ -39,7 +39,7 @@ That's all for now, hope you enjoy the new stuff!
 <noscript>
 <p>
    This page requires JavaScript to function. However, you should still be able to read comments 
-   <a href="https://github.com/TateTaylorOH/TateTaylorOH/issues/17">hosted on Github</a>.
+   <a href="https://github.com/TateTaylorOH/TateTaylorOH/issues/18">hosted on Github</a>.
 </p>
 </noscript>
 
@@ -82,7 +82,7 @@ This update has been a long time coming, and I apologize for all the delays. I h
 <noscript>
 <p>
    This page requires JavaScript to function. However, you should still be able to read comments 
-   <a href="https://github.com/TateTaylorOH/TateTaylorOH/issues/16">hosted on Github</a>.
+   <a href="https://github.com/TateTaylorOH/TateTaylorOH/issues/17">hosted on Github</a>.
 </p>
 </noscript>
 
@@ -125,7 +125,7 @@ That's all for now. I hope you enjoy!
 <noscript>
 <p>
    This page requires JavaScript to function. However, you should still be able to read comments 
-   <a href="https://github.com/TateTaylorOH/TateTaylorOH/issues/15">hosted on Github</a>.
+   <a href="https://github.com/TateTaylorOH/TateTaylorOH/issues/16">hosted on Github</a>.
 </p>
 </noscript>
 
@@ -154,7 +154,7 @@ I hope you enjoy the new feature!
 <noscript>
 <p>
    This page requires JavaScript to function. However, you should still be able to read comments 
-   <a href="https://github.com/TateTaylorOH/TateTaylorOH/issues/14">hosted on Github</a>.
+   <a href="https://github.com/TateTaylorOH/TateTaylorOH/issues/15">hosted on Github</a>.
 </p>
 </noscript>
 
@@ -189,7 +189,7 @@ I hope you enjoy!
 <noscript>
 <p>
    This page requires JavaScript to function. However, you should still be able to read comments 
-   <a href="https://github.com/TateTaylorOH/TateTaylorOH/issues/13">hosted on Github</a>.
+   <a href="https://github.com/TateTaylorOH/TateTaylorOH/issues/14">hosted on Github</a>.
 </p>
 </noscript>
 
@@ -220,7 +220,7 @@ I hope you enjoy!
 <noscript>
 <p>
    This page requires JavaScript to function. However, you should still be able to read comments 
-   <a href="https://github.com/TateTaylorOH/TateTaylorOH/issues/12">hosted on Github</a>.
+   <a href="https://github.com/TateTaylorOH/TateTaylorOH/issues/13">hosted on Github</a>.
 </p>
 </noscript>
 
@@ -253,7 +253,7 @@ I hope you all enjoy!
 <noscript>
 <p>
    This page requires JavaScript to function. However, you should still be able to read comments 
-   <a href="https://github.com/TateTaylorOH/TateTaylorOH/issues/11">hosted on Github</a>.
+   <a href="https://github.com/TateTaylorOH/TateTaylorOH/issues/12">hosted on Github</a>.
 </p>
 </noscript>
 
@@ -284,7 +284,7 @@ I hope you all enjoy!
 <noscript>
 <p>
    This page requires JavaScript to function. However, you should still be able to read comments 
-   <a href="https://github.com/TateTaylorOH/TateTaylorOH/issues/10">hosted on Github</a>.
+   <a href="https://github.com/TateTaylorOH/TateTaylorOH/issues/11">hosted on Github</a>.
 </p>
 </noscript>
 
@@ -311,7 +311,7 @@ I am very excited to finally be able to share this with everyone! It has been a 
 <noscript>
 <p>
    This page requires JavaScript to function. However, you should still be able to read comments 
-   <a href="https://github.com/TateTaylorOH/TateTaylorOH/issues/9">hosted on Github</a>.
+   <a href="https://github.com/TateTaylorOH/TateTaylorOH/issues/10">hosted on Github</a>.
 </p>
 </noscript>
 
@@ -338,7 +338,7 @@ Us at Extended cut will be having a very special premiere tomorrow! We're very e
 <noscript>
 <p>
    This page requires JavaScript to function. However, you should still be able to read comments 
-   <a href="https://github.com/TateTaylorOH/TateTaylorOH/issues/8">hosted on Github</a>.
+   <a href="https://github.com/TateTaylorOH/TateTaylorOH/issues/9">hosted on Github</a>.
 </p>
 </noscript>
 
@@ -369,7 +369,7 @@ Thank you everyone that either donated to me directly or just downloaded my mods
 <noscript>
 <p>
    This page requires JavaScript to function. However, you should still be able to read comments 
-   <a href="https://github.com/TateTaylorOH/TateTaylorOH/issues/7">hosted on Github</a>.
+   <a href="https://github.com/TateTaylorOH/TateTaylorOH/issues/8">hosted on Github</a>.
 </p>
 </noscript>
 
@@ -400,7 +400,7 @@ You can read more about Nexus Mods' donation drive here: [https://www.nexusmods.
 <noscript>
 <p>
    This page requires JavaScript to function. However, you should still be able to read comments 
-   <a href="https://github.com/TateTaylorOH/TateTaylorOH/issues/6">hosted on Github</a>.
+   <a href="https://github.com/TateTaylorOH/TateTaylorOH/issues/7">hosted on Github</a>.
 </p>
 </noscript>
 
@@ -425,7 +425,7 @@ You can read more about Nexus Mods' donation drive here: [https://www.nexusmods.
 <noscript>
 <p>
    This page requires JavaScript to function. However, you should still be able to read comments 
-   <a href="https://github.com/TateTaylorOH/TateTaylorOH/issues/5">hosted on Github</a>.
+   <a href="https://github.com/TateTaylorOH/TateTaylorOH/issues/6">hosted on Github</a>.
 </p>
 </noscript>
 
@@ -450,7 +450,7 @@ You can read more about Nexus Mods' donation drive here: [https://www.nexusmods.
 <noscript>
 <p>
    This page requires JavaScript to function. However, you should still be able to read comments 
-   <a href="https://github.com/TateTaylorOH/TateTaylorOH/issues/4">hosted on Github</a>.
+   <a href="https://github.com/TateTaylorOH/TateTaylorOH/issues/5">hosted on Github</a>.
 </p>
 </noscript>
 
@@ -479,7 +479,7 @@ I am happy to announce that development on "Merlin the Corgi" has begun.
 <noscript>
 <p>
    This page requires JavaScript to function. However, you should still be able to read comments 
-   <a href="https://github.com/TateTaylorOH/TateTaylorOH/issues/3">hosted on Github</a>.
+   <a href="https://github.com/TateTaylorOH/TateTaylorOH/issues/4">hosted on Github</a>.
 </p>
 </noscript>
 
@@ -506,7 +506,7 @@ Gladys the Corgi is an in-development corgi follower mod. This showcase demonstr
 <noscript>
 <p>
    This page requires JavaScript to function. However, you should still be able to read comments 
-   <a href="https://github.com/TateTaylorOH/TateTaylorOH/issues/2">hosted on Github</a>.
+   <a href="https://github.com/TateTaylorOH/TateTaylorOH/issues/3">hosted on Github</a>.
 </p>
 </noscript>
 
@@ -528,6 +528,26 @@ So that is how this mod came to be what it is, but what is the character of Asya
 This leads us to Asya'la's primary conflict: she does not know who she is. Asya'la is neither Nord nor Khajiit and she feels as though she doesn't quite fit in as either race. If you were to ask her, she would tell you she was a Nord, she was raised a Nord and was only taught to be a Khaiit, however that does not silence the fact that she is different from any Nord.
 
 The main reason that Asya'la has traveled to Skyrim is to find herself. Skyrim is the homeland of the Nord and she had a feeling that it may contain the answers as to who she is. The Player meets her during a very transformative time in her life, she isn't sure who she is or where she is going. Asya'la will be up for just about anything, being a Nord at heart she is brave and couragous, sometimes to a fault, and wants to prove herself. Her adventures here is Skyrim will define who she is, weather it be a daring hero or a dastardly rogue.
+
+<script src="https://utteranc.es/client.js"
+        repo="{{ include.repo | default: site.utterances.repo | default: site.github.repository_nwo }}"
+        issue-term="{{ include.issue-term | default: site.utterances.issue-term | default: 'pathname' }}"
+        {% if site.utterances.issue_number %}
+        issue-number="{{ site.utterances.issue_number }}"
+        {% endif %}
+        {%- if include.label or site.utterances.label -%}
+        label="Comment"
+        {%- endif -%}
+        theme="{{ include.theme | default: site.utterances.theme | default: 'github-light' }}"
+        crossorigin="anonymous"
+        async>
+</script>
+<noscript>
+<p>
+   This page requires JavaScript to function. However, you should still be able to read comments 
+   <a href="https://github.com/TateTaylorOH/TateTaylorOH/issues/2">hosted on Github</a>.
+</p>
+</noscript>
 
 # Asya'la Dungeon Walk-up
 **Posted Mar 8, 2021 by Tate Taylor**
