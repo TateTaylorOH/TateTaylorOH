@@ -23,6 +23,26 @@ The mod is also now split into separate plugins for each race as opposed to bein
 
 That's all for now, hope you enjoy the new stuff!
 
+<script src="https://utteranc.es/client.js"
+        repo="{{ include.repo | default: site.utterances.repo | default: site.github.repository_nwo }}"
+        issue-term="{{ include.issue-term | default: site.utterances.issue-term | default: 'pathname' }}"
+        {% if site.utterances.issue_number %}
+        issue-number="{{ site.utterances.issue_number }}"
+        {% endif %}
+        {%- if include.label or site.utterances.label -%}
+        label="Comment"
+        {%- endif -%}
+        theme="{{ include.theme | default: site.utterances.theme | default: 'github-light' }}"
+        crossorigin="anonymous"
+        async>
+</script>
+<noscript>
+<p>
+   This page requires JavaScript to function. However, you should still be able to read comments 
+   <a href="https://github.com/TateTaylorOH/TateTaylorOH/issues/17">hosted on Github</a>.
+</p>
+</noscript>
+
 # Keizaal 8.0.0 Released
 **Posted Sep 30, 2024 by Tate Taylor**
 
@@ -45,6 +65,26 @@ For a full list of changes, refer to the changelog.
 [https://www.nexusmods.com/skyrimspecialedition/mods/68997](https://www.nexusmods.com/skyrimspecialedition/mods/68997)
 
 This update has been a long time coming, and I apologize for all the delays. I hope you all enjoy!
+
+<script src="https://utteranc.es/client.js"
+        repo="{{ include.repo | default: site.utterances.repo | default: site.github.repository_nwo }}"
+        issue-term="{{ include.issue-term | default: site.utterances.issue-term | default: 'pathname' }}"
+        {% if site.utterances.issue_number %}
+        issue-number="{{ site.utterances.issue_number }}"
+        {% endif %}
+        {%- if include.label or site.utterances.label -%}
+        label="Comment"
+        {%- endif -%}
+        theme="{{ include.theme | default: site.utterances.theme | default: 'github-light' }}"
+        crossorigin="anonymous"
+        async>
+</script>
+<noscript>
+<p>
+   This page requires JavaScript to function. However, you should still be able to read comments 
+   <a href="https://github.com/TateTaylorOH/TateTaylorOH/issues/16">hosted on Github</a>.
+</p>
+</noscript>
 
 # Morrowind Mint, Elven Supremacy, and more!
 **Posted Sep 21, 2024 by Tate Taylor**
@@ -69,6 +109,26 @@ It also features voice work from the very talented Alex Cain!
 
 That's all for now. I hope you enjoy!
 
+<script src="https://utteranc.es/client.js"
+        repo="{{ include.repo | default: site.utterances.repo | default: site.github.repository_nwo }}"
+        issue-term="{{ include.issue-term | default: site.utterances.issue-term | default: 'pathname' }}"
+        {% if site.utterances.issue_number %}
+        issue-number="{{ site.utterances.issue_number }}"
+        {% endif %}
+        {%- if include.label or site.utterances.label -%}
+        label="Comment"
+        {%- endif -%}
+        theme="{{ include.theme | default: site.utterances.theme | default: 'github-light' }}"
+        crossorigin="anonymous"
+        async>
+</script>
+<noscript>
+<p>
+   This page requires JavaScript to function. However, you should still be able to read comments 
+   <a href="https://github.com/TateTaylorOH/TateTaylorOH/issues/15">hosted on Github</a>.
+</p>
+</noscript>
+
 # Skyrim Silver 1.0.3 Update
 **Sep 11, 2024, 2024 by Tate Taylor**
 
@@ -77,6 +137,26 @@ That's all for now. I hope you enjoy!
 Big update for Skyrim Silver! You will now be able to ask vendors outside of Windhelm if they'd be willing to trade in ulfrics (see the modpage for more details about the mechanic).
 
 I hope you enjoy the new feature!
+
+<script src="https://utteranc.es/client.js"
+        repo="{{ include.repo | default: site.utterances.repo | default: site.github.repository_nwo }}"
+        issue-term="{{ include.issue-term | default: site.utterances.issue-term | default: 'pathname' }}"
+        {% if site.utterances.issue_number %}
+        issue-number="{{ site.utterances.issue_number }}"
+        {% endif %}
+        {%- if include.label or site.utterances.label -%}
+        label="Comment"
+        {%- endif -%}
+        theme="{{ include.theme | default: site.utterances.theme | default: 'github-light' }}"
+        crossorigin="anonymous"
+        async>
+</script>
+<noscript>
+<p>
+   This page requires JavaScript to function. However, you should still be able to read comments 
+   <a href="https://github.com/TateTaylorOH/TateTaylorOH/issues/14">hosted on Github</a>.
+</p>
+</noscript>
 
 # Skyrim Silver Released
 **Posted Sep 2, 2024 by Tate Taylor**
@@ -93,6 +173,26 @@ This mod also features voice work from the very talented MeekVoice!
 
 I hope you enjoy!
 
+<script src="https://utteranc.es/client.js"
+        repo="{{ include.repo | default: site.utterances.repo | default: site.github.repository_nwo }}"
+        issue-term="{{ include.issue-term | default: site.utterances.issue-term | default: 'pathname' }}"
+        {% if site.utterances.issue_number %}
+        issue-number="{{ site.utterances.issue_number }}"
+        {% endif %}
+        {%- if include.label or site.utterances.label -%}
+        label="Comment"
+        {%- endif -%}
+        theme="{{ include.theme | default: site.utterances.theme | default: 'github-light' }}"
+        crossorigin="anonymous"
+        async>
+</script>
+<noscript>
+<p>
+   This page requires JavaScript to function. However, you should still be able to read comments 
+   <a href="https://github.com/TateTaylorOH/TateTaylorOH/issues/13">hosted on Github</a>.
+</p>
+</noscript>
+
 # Gibberish Released
 **Posted Aug 28, 2024 by Tate Taylor**
 
@@ -103,6 +203,26 @@ I've released Gibberish, a mod that will change the currency you spend in the Sh
 [https://www.nexusmods.com/skyrimspecialedition/mods/127871](https://www.nexusmods.com/skyrimspecialedition/mods/127871)
 
 I hope you enjoy!
+
+<script src="https://utteranc.es/client.js"
+        repo="{{ include.repo | default: site.utterances.repo | default: site.github.repository_nwo }}"
+        issue-term="{{ include.issue-term | default: site.utterances.issue-term | default: 'pathname' }}"
+        {% if site.utterances.issue_number %}
+        issue-number="{{ site.utterances.issue_number }}"
+        {% endif %}
+        {%- if include.label or site.utterances.label -%}
+        label="Comment"
+        {%- endif -%}
+        theme="{{ include.theme | default: site.utterances.theme | default: 'github-light' }}"
+        crossorigin="anonymous"
+        async>
+</script>
+<noscript>
+<p>
+   This page requires JavaScript to function. However, you should still be able to read comments 
+   <a href="https://github.com/TateTaylorOH/TateTaylorOH/issues/12">hosted on Github</a>.
+</p>
+</noscript>
 
 # C.O.I.N. 3.0.0 Released
 **Posted Aug 28, 2024 by Tate Taylor**
@@ -117,6 +237,26 @@ The mod is now dependent on Container Distribution Framework. This means that th
 
 I hope you all enjoy!
 
+<script src="https://utteranc.es/client.js"
+        repo="{{ include.repo | default: site.utterances.repo | default: site.github.repository_nwo }}"
+        issue-term="{{ include.issue-term | default: site.utterances.issue-term | default: 'pathname' }}"
+        {% if site.utterances.issue_number %}
+        issue-number="{{ site.utterances.issue_number }}"
+        {% endif %}
+        {%- if include.label or site.utterances.label -%}
+        label="Comment"
+        {%- endif -%}
+        theme="{{ include.theme | default: site.utterances.theme | default: 'github-light' }}"
+        crossorigin="anonymous"
+        async>
+</script>
+<noscript>
+<p>
+   This page requires JavaScript to function. However, you should still be able to read comments 
+   <a href="https://github.com/TateTaylorOH/TateTaylorOH/issues/11">hosted on Github</a>.
+</p>
+</noscript>
+
 # Gladys, Merlin, and D.E.A.D. Updates
 **Posted Aug 19, 2024 by Tate Taylor**
 
@@ -128,6 +268,26 @@ I just wanted to let you all know that I've pushed out a few small updates for [
 
 I hope you all enjoy!
 
+<script src="https://utteranc.es/client.js"
+        repo="{{ include.repo | default: site.utterances.repo | default: site.github.repository_nwo }}"
+        issue-term="{{ include.issue-term | default: site.utterances.issue-term | default: 'pathname' }}"
+        {% if site.utterances.issue_number %}
+        issue-number="{{ site.utterances.issue_number }}"
+        {% endif %}
+        {%- if include.label or site.utterances.label -%}
+        label="Comment"
+        {%- endif -%}
+        theme="{{ include.theme | default: site.utterances.theme | default: 'github-light' }}"
+        crossorigin="anonymous"
+        async>
+</script>
+<noscript>
+<p>
+   This page requires JavaScript to function. However, you should still be able to read comments 
+   <a href="https://github.com/TateTaylorOH/TateTaylorOH/issues/10">hosted on Github</a>.
+</p>
+</noscript>
+
 # Announcing Skyrim: Extended Cut - Saints and Seducers
 **Posted Oct 1, 2022 by Tate Taylor**
 
@@ -135,12 +295,52 @@ I hope you all enjoy!
 
 I am very excited to finally be able to share this with everyone! It has been a long time coming and I think this mod contains some of my best work yet. I hope you'll all check it out next month!
 
+<script src="https://utteranc.es/client.js"
+        repo="{{ include.repo | default: site.utterances.repo | default: site.github.repository_nwo }}"
+        issue-term="{{ include.issue-term | default: site.utterances.issue-term | default: 'pathname' }}"
+        {% if site.utterances.issue_number %}
+        issue-number="{{ site.utterances.issue_number }}"
+        {% endif %}
+        {%- if include.label or site.utterances.label -%}
+        label="Comment"
+        {%- endif -%}
+        theme="{{ include.theme | default: site.utterances.theme | default: 'github-light' }}"
+        crossorigin="anonymous"
+        async>
+</script>
+<noscript>
+<p>
+   This page requires JavaScript to function. However, you should still be able to read comments 
+   <a href="https://github.com/TateTaylorOH/TateTaylorOH/issues/9">hosted on Github</a>.
+</p>
+</noscript>
+
 # Special Announcement from Extended Cut!
 **Posted Sep 30, 2022 by Tate Taylor**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/neyrmlEtxNo?si=eiO7QZlacEORxdyh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Us at Extended cut will be having a very special premiere tomorrow! We're very excited about this announcement so I hope you can make it!
+
+<script src="https://utteranc.es/client.js"
+        repo="{{ include.repo | default: site.utterances.repo | default: site.github.repository_nwo }}"
+        issue-term="{{ include.issue-term | default: site.utterances.issue-term | default: 'pathname' }}"
+        {% if site.utterances.issue_number %}
+        issue-number="{{ site.utterances.issue_number }}"
+        {% endif %}
+        {%- if include.label or site.utterances.label -%}
+        label="Comment"
+        {%- endif -%}
+        theme="{{ include.theme | default: site.utterances.theme | default: 'github-light' }}"
+        crossorigin="anonymous"
+        async>
+</script>
+<noscript>
+<p>
+   This page requires JavaScript to function. However, you should still be able to read comments 
+   <a href="https://github.com/TateTaylorOH/TateTaylorOH/issues/8">hosted on Github</a>.
+</p>
+</noscript>
 
 # Slava Ukraini!
 **Posted Apr 4, 2022 by Tate Taylor**
@@ -153,6 +353,26 @@ It is April 4 and I am happy to tell you that with Nexus Donation Points, Patreo
 
 Thank you everyone that either donated to me directly or just downloaded my mods off of Nexus. All of you helped to reach this number.
 
+<script src="https://utteranc.es/client.js"
+        repo="{{ include.repo | default: site.utterances.repo | default: site.github.repository_nwo }}"
+        issue-term="{{ include.issue-term | default: site.utterances.issue-term | default: 'pathname' }}"
+        {% if site.utterances.issue_number %}
+        issue-number="{{ site.utterances.issue_number }}"
+        {% endif %}
+        {%- if include.label or site.utterances.label -%}
+        label="Comment"
+        {%- endif -%}
+        theme="{{ include.theme | default: site.utterances.theme | default: 'github-light' }}"
+        crossorigin="anonymous"
+        async>
+</script>
+<noscript>
+<p>
+   This page requires JavaScript to function. However, you should still be able to read comments 
+   <a href="https://github.com/TateTaylorOH/TateTaylorOH/issues/7">hosted on Github</a>.
+</p>
+</noscript>
+
 # Red Cross Ukrainian Relief Effort
 **Posted Mar 3, 2022 by Tate Taylor**
 
@@ -164,15 +384,75 @@ Similarly, I will be putting my regular Patreon income for this month towards a 
 
 You can read more about Nexus Mods' donation drive here: [https://www.nexusmods.com/news/14653](https://www.nexusmods.com/news/14653)
 
+<script src="https://utteranc.es/client.js"
+        repo="{{ include.repo | default: site.utterances.repo | default: site.github.repository_nwo }}"
+        issue-term="{{ include.issue-term | default: site.utterances.issue-term | default: 'pathname' }}"
+        {% if site.utterances.issue_number %}
+        issue-number="{{ site.utterances.issue_number }}"
+        {% endif %}
+        {%- if include.label or site.utterances.label -%}
+        label="Comment"
+        {%- endif -%}
+        theme="{{ include.theme | default: site.utterances.theme | default: 'github-light' }}"
+        crossorigin="anonymous"
+        async>
+</script>
+<noscript>
+<p>
+   This page requires JavaScript to function. However, you should still be able to read comments 
+   <a href="https://github.com/TateTaylorOH/TateTaylorOH/issues/6">hosted on Github</a>.
+</p>
+</noscript>
+
 # Sanctus Walkthrough (Spoilers for the Northern Sea)
 **Posted Oct 10, 2021 by Tate Taylor**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/n1ixCKqH1RY?si=RdUio8djyG14Q7t2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<script src="https://utteranc.es/client.js"
+        repo="{{ include.repo | default: site.utterances.repo | default: site.github.repository_nwo }}"
+        issue-term="{{ include.issue-term | default: site.utterances.issue-term | default: 'pathname' }}"
+        {% if site.utterances.issue_number %}
+        issue-number="{{ site.utterances.issue_number }}"
+        {% endif %}
+        {%- if include.label or site.utterances.label -%}
+        label="Comment"
+        {%- endif -%}
+        theme="{{ include.theme | default: site.utterances.theme | default: 'github-light' }}"
+        crossorigin="anonymous"
+        async>
+</script>
+<noscript>
+<p>
+   This page requires JavaScript to function. However, you should still be able to read comments 
+   <a href="https://github.com/TateTaylorOH/TateTaylorOH/issues/5">hosted on Github</a>.
+</p>
+</noscript>
+
 # "Japhet's folly will be our fortune."
 **Posted Sep 8, 2021 by Tate Taylor**
 
 ![](https://c10.patreonusercontent.com/4/patreon-media/p/post/55940214/4d387169c547449694e95718cde943ef/eyJxIjoxMDAsIndlYnAiOjB9/1.png?token-hash=mh1PoMhS8hxKUdmRGBUgomN-_rXGTBDph30-LQCzeg0%3D&token-time=1748649600)
+
+<script src="https://utteranc.es/client.js"
+        repo="{{ include.repo | default: site.utterances.repo | default: site.github.repository_nwo }}"
+        issue-term="{{ include.issue-term | default: site.utterances.issue-term | default: 'pathname' }}"
+        {% if site.utterances.issue_number %}
+        issue-number="{{ site.utterances.issue_number }}"
+        {% endif %}
+        {%- if include.label or site.utterances.label -%}
+        label="Comment"
+        {%- endif -%}
+        theme="{{ include.theme | default: site.utterances.theme | default: 'github-light' }}"
+        crossorigin="anonymous"
+        async>
+</script>
+<noscript>
+<p>
+   This page requires JavaScript to function. However, you should still be able to read comments 
+   <a href="https://github.com/TateTaylorOH/TateTaylorOH/issues/4">hosted on Github</a>.
+</p>
+</noscript>
 
 # Merlin the Corgi
 **Posted Aug 31, 2021 by Tate Taylor**
@@ -183,12 +463,52 @@ Jelidity has kindly provided me with a Cardigan Corgi asset for Merlin.
 
 I am happy to announce that development on "Merlin the Corgi" has begun.
 
+<script src="https://utteranc.es/client.js"
+        repo="{{ include.repo | default: site.utterances.repo | default: site.github.repository_nwo }}"
+        issue-term="{{ include.issue-term | default: site.utterances.issue-term | default: 'pathname' }}"
+        {% if site.utterances.issue_number %}
+        issue-number="{{ site.utterances.issue_number }}"
+        {% endif %}
+        {%- if include.label or site.utterances.label -%}
+        label="Comment"
+        {%- endif -%}
+        theme="{{ include.theme | default: site.utterances.theme | default: 'github-light' }}"
+        crossorigin="anonymous"
+        async>
+</script>
+<noscript>
+<p>
+   This page requires JavaScript to function. However, you should still be able to read comments 
+   <a href="https://github.com/TateTaylorOH/TateTaylorOH/issues/3">hosted on Github</a>.
+</p>
+</noscript>
+
 # Fetch Showcase
 **Posted May 30, 2021 by Tate Taylor**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FEMLn0v32po?si=hTYTH5dK2zvv4eUW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Gladys the Corgi is an in-development corgi follower mod. This showcase demonstrates Gladys playing fetch!
+
+<script src="https://utteranc.es/client.js"
+        repo="{{ include.repo | default: site.utterances.repo | default: site.github.repository_nwo }}"
+        issue-term="{{ include.issue-term | default: site.utterances.issue-term | default: 'pathname' }}"
+        {% if site.utterances.issue_number %}
+        issue-number="{{ site.utterances.issue_number }}"
+        {% endif %}
+        {%- if include.label or site.utterances.label -%}
+        label="Comment"
+        {%- endif -%}
+        theme="{{ include.theme | default: site.utterances.theme | default: 'github-light' }}"
+        crossorigin="anonymous"
+        async>
+</script>
+<noscript>
+<p>
+   This page requires JavaScript to function. However, you should still be able to read comments 
+   <a href="https://github.com/TateTaylorOH/TateTaylorOH/issues/2">hosted on Github</a>.
+</p>
+</noscript>
 
 # Who is Asya'la?
 **Posted Mar 16, 2021 by Tate Taylor**
@@ -217,3 +537,23 @@ The main reason that Asya'la has traveled to Skyrim is to find herself. Skyrim i
 I've been working on Asya'la a lot recently, both in level design and dialogue. I've just finished up the exterior walk-up to the mod's dungeon.
 
 It's all still work-in-progress, but I hope you like what I have so far!
+
+<script src="https://utteranc.es/client.js"
+        repo="{{ include.repo | default: site.utterances.repo | default: site.github.repository_nwo }}"
+        issue-term="{{ include.issue-term | default: site.utterances.issue-term | default: 'pathname' }}"
+        {% if site.utterances.issue_number %}
+        issue-number="{{ site.utterances.issue_number }}"
+        {% endif %}
+        {%- if include.label or site.utterances.label -%}
+        label="Comment"
+        {%- endif -%}
+        theme="{{ include.theme | default: site.utterances.theme | default: 'github-light' }}"
+        crossorigin="anonymous"
+        async>
+</script>
+<noscript>
+<p>
+   This page requires JavaScript to function. However, you should still be able to read comments 
+   <a href="https://github.com/TateTaylorOH/TateTaylorOH/issues/1">hosted on Github</a>.
+</p>
+</noscript>
