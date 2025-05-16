@@ -7,3 +7,4 @@ wabbajack:
 utterances:
   repo: TateTaylorOH/TateTaylorOH
   theme: github-dark
+baseurl: "/TateTaylorOH"
