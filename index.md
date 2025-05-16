@@ -131,14 +131,14 @@ I hope you all enjoy!
 # Announcing Skyrim: Extended Cut - Saints and Seducers
 **Posted Oct 1, 2022 by Tate Taylor**
 
-<iframe width="560" height="315" src="https://youtu.be/neyrmlEtxNo?si=5AMyGL2Wf2BIvWG_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/neyrmlEtxNo?si=eiO7QZlacEORxdyh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 I am very excited to finally be able to share this with everyone! It has been a long time coming and I think this mod contains some of my best work yet. I hope you'll all check it out next month!
 
 # Special Announcement from Extended Cut!
 **Posted Sep 30, 2022 by Tate Taylor**
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=neyrmlEtxNo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/neyrmlEtxNo?si=eiO7QZlacEORxdyh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Us at Extended cut will be having a very special premiere tomorrow! We're very excited about this announcement so I hope you can make it!
 
@@ -167,7 +167,7 @@ You can read more about Nexus Mods' donation drive here: https://www.nexusmods.c
 # Sanctus Walkthrough (Spoilers for the Northern Sea)
 **Posted Oct 10, 2021 by Tate Taylor**
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=n1ixCKqH1RY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n1ixCKqH1RY?si=RdUio8djyG14Q7t2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # "Japhet's folly will be our fortune."
 **Posted Sep 8, 2021 by Tate Taylor**
@@ -186,7 +186,7 @@ I am happy to announce that development on "Merlin the Corgi" has begun.
 # Fetch Showcase
 **Posted May 30, 2021 by Tate Taylor**
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=FEMLn0v32po" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FEMLn0v32po?si=hTYTH5dK2zvv4eUW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Gladys the Corgi is an in-development corgi follower mod. This showcase demonstrates Gladys playing fetch!
 
@@ -212,7 +212,7 @@ The main reason that Asya'la has traveled to Skyrim is to find herself. Skyrim i
 # Asya'la Dungeon Walk-up
 **Posted Mar 8, 2021 by Tate Taylor**
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=anL6vjRUJUg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/anL6vjRUJUg?si=PMTfPtb2b_MD0Tj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 I've been working on Asya'la a lot recently, both in level design and dialogue. I've just finished up the exterior walk-up to the mod's dungeon.
 
