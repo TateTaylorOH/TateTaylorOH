@@ -3,6 +3,7 @@ layout: post
 title: Skyrim Silver Released
 author: Tate Taylor
 ---
+![](https://staticdelivery.nexusmods.com/mods/1704/images/127897/127897-1725142696-867347056.png)
 
 Happy Labor Day to all the Americans out there!
 
@@ -13,5 +14,3 @@ This mod also features voice work from the very talented MeekVoice!
 [https://www.nexusmods.com/skyrimspecialedition/mods/127897](https://www.nexusmods.com/skyrimspecialedition/mods/127897)
 
 I hope you enjoy!
-
-![](https://staticdelivery.nexusmods.com/mods/1704/images/127897/127897-1725142696-867347056.png)
