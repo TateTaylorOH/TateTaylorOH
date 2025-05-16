@@ -1,3 +1,8 @@
+---
+layout: default
+title: About Me
+---
+
 # About Me
 
 Hello all, my name is Tate Taylor, and I am a Skyrim mod author. I create a random mix of mods and don't really stay within any one category; I just add whatever I want to see in the game.
