@@ -381,3 +381,19 @@ It had been quite the adventure. I regret that I wasn't able to make it to Theod
 *Begin your own adventure exploring the Shivering Isles in*  
 [**SKYRIM EXTENDED CUT: SAINTS AND SEDUCERS**](https://www.nexusmods.com/skyrimspecialedition/mods/72772)  
 *Premiering Friday, November 11 at 12:00 PM EDT!*
+
+---
+
+<script src="https://utteranc.es/client.js"
+        repo="{{ include.repo | default: site.utterances.repo | default: site.github.repository_nwo }}"
+        issue-term={{ page.title }}
+        theme="{{ include.theme | default: site.utterances.theme | default: 'github-light' }}"
+        crossorigin="anonymous"
+        async>
+</script>
+<noscript>
+<p>
+   This page requires JavaScript to function. However, you should still be able to read comments 
+   <a href="https://github.com/TateTaylorOH/TateTaylorOH/issues/">hosted on Github</a>.
+</p>
+</noscript>
