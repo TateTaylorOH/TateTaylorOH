@@ -63,6 +63,8 @@ For some less theoretical tips to use with Photo Mode:
 - Brightness and contrast can help to make the subject pop. It isn't always possible to fix a bad background with this, but it is possible.
 - Saturation helps sell mood. If it's a happy photo, bring it up a bit, otherwise, bring it down a bit. Just don't go too crazy with the slider.
 
+I hope this guide was of use to you! If you have any comments or questions feel free to leave them below or contact me on my [community Discord server](https://discord.com/invite/eYZJFP8).
+
 ---
 
 <script src="https://utteranc.es/client.js"
