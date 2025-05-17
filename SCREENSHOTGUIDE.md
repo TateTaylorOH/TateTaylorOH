@@ -61,3 +61,19 @@ For some less theoretical tips to use with Photo Mode:
 - Editing field of view can help you frame things up in new ways. You can get a better view of the subject while not needing to get the actual camera up their nostrils.
 - Brightness and contrast can help to make the subject pop. It isn't always possible to fix a bad background with this, but it is possible.
 - Saturation helps sell mood. If it's a happy photo, bring it up a bit, otherwise, bring it down a bit. Just don't go too crazy with the slider.
+
+---
+
+<script src="https://utteranc.es/client.js"
+        repo="{{ include.repo | default: site.utterances.repo | default: site.github.repository_nwo }}"
+        issue-term={{ page.title }}
+        theme="{{ include.theme | default: site.utterances.theme | default: 'github-light' }}"
+        crossorigin="anonymous"
+        async>
+</script>
+<noscript>
+<p>
+   This page requires JavaScript to function. However, you should still be able to read comments 
+   <a href="https://github.com/TateTaylorOH/TateTaylorOH/issues/">hosted on Github</a>.
+</p>
+</noscript>
