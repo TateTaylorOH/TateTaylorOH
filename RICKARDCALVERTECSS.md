@@ -102,13 +102,13 @@ Find out next time on
 
 ![](https://staticdelivery.nexusmods.com/images/1704/61720101-1666506172.png)
 
-<center><font size="24">The Most Curious<br>  
+<center><font size="20">The Most Curious<br>  
 Fauna and Flora<br>  
 of<br>  
 The Shivering Isles<br></font>
 <br>
-<h2>BY<br>  
-Rickard Calvert<br></h2>
+<font size="18">BY<br>  
+Rickard Calvert<br></font>
 <br>
 <img src="https://raw.githubusercontent.com/TateTaylorOH/TateTaylorOH/main/assets/images/ECSS/FloraFauna01.png"><br>
 <br>
