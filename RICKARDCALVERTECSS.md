@@ -294,7 +294,7 @@ They slowly dispersed, some returning from where they came, others going deeper 
 
 I jumped as I heard a voice from inside the thicket directly in front of me.
 
-> “I see you have met our captors.” it said.
+“I see you have met our captors.” it said.
 
 ![](https://raw.githubusercontent.com/TateTaylorOH/TateTaylorOH/main/assets/images/ECSS/SheogorathsFaithful05.png)
 
