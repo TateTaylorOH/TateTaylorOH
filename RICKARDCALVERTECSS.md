@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Rickard Calvert in the Isle of Madness
-description: Into the Shivering Isles — with Rickard Calvert, adventurer extraordinaire!
+description: Into the Shivering Isles with Rickard Calvert, adventurer extraordinaire!
 ---
 # Rickard Calvert in the Isle of Madness
 
