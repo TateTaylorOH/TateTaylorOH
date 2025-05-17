@@ -45,11 +45,7 @@ And so I knew where I needed to go next. It is the duty of an explorer to see wh
 
 ![](https://raw.githubusercontent.com/TateTaylorOH/TateTaylorOH/main/assets/images/ECSS/Mania05.png)
 
-***What will happen to Rickard Calvert next? Will he unravel the secrets of this strange new land, or be lost forever in this wild and unfamiliar region?***
-
-Find out next week in  
-**[RICKARD CALVERT IN THE ISLES OF MADNESS: PART II - DEMENTIA](https://www.nexusmods.com/skyrimspecialedition/images/167239)**  
-*Premiering next Saturday at 1:00 PM EDT!*
+*What will happen to Rickard Calvert next? Will he unravel the secrets of this strange new land, or be lost forever in this wild and unfamiliar region? Find out next week in* **RICKARD CALVERT IN THE ISLES OF MADNESS: PART II - DEMENTIA**, *premiering next Saturday at 1:00 PM EDT!*
 
 ---
 
@@ -93,11 +89,7 @@ I finished my sketch, and wrote a brief description of the plant. I felt a new d
 
 ![](https://raw.githubusercontent.com/TateTaylorOH/TateTaylorOH/main/assets/images/ECSS/Dementia06.png)
 
-*Will Rickard uncover all the new fauna and flora of these strange lands, or will he become their dinner?*
-
-Find out next time on  
-**[RICKARD CALVERT IN THE ISLE OF MADNESS: PART III - FAUNA AND FLORA](https://www.nexusmods.com/skyrimspecialedition/images/168064)**  
-*Premiering next Saturday at 1:00 PM EDT!*
+*Will Rickard uncover all the new fauna and flora of these strange lands, or will he become their dinner? Find out next time on* **RICKARD CALVERT IN THE ISLE OF MADNESS: PART III - FAUNA AND FLORA**, *premiering next Saturday at 1:00 PM EDT!*
 
 ---
 
@@ -207,7 +199,7 @@ I hope all that have read this guide have come out of it knowing more than when 
 
 ![](https://raw.githubusercontent.com/TateTaylorOH/TateTaylorOH/main/assets/images/ECSS/FloraFauna10.png)
 
-*Now, with his research notes completed, tune in next week to see what happens next in [RICKARD CALVERT IN THE ISLE OF MADNESS: PART IV - SHEOGORATH’S FAITHFUL](https://www.nexusmods.com/skyrimspecialedition/images/168693), premiering Saturday at 1:00 PM EDT!*
+*Now, with his research notes completed, tune in next week to see what happens next in* **RICKARD CALVERT IN THE ISLE OF MADNESS: PART IV - SHEOGORATH’S FAITHFUL**, *premiering Saturday at 1:00 PM EDT!*
 
 ---
 
@@ -299,7 +291,7 @@ I jumped as I heard a voice from inside the thicket directly in front of me.
 
 ![](https://raw.githubusercontent.com/TateTaylorOH/TateTaylorOH/main/assets/images/ECSS/SheogorathsFaithful05.png)
 
-***Who has appeared to Rickard in this dark hour? Find out next time in the finale of [RICKARD CALVERT IN THE ISLE OF MADNESS: PART V - THORON’S FAITHFUL](https://www.nexusmods.com/skyrimspecialedition/images/169422), premiering Saturday at 1:00 PM EDT!***
+***Who has appeared to Rickard in this dark hour? Find out next time in the finale of* **RICKARD CALVERT IN THE ISLE OF MADNESS: PART V - THORON’S FAITHFUL**, *premiering Saturday at 1:00 PM EDT!*
 
 ---
 
@@ -379,9 +371,7 @@ It had been quite the adventure. I regret that I wasn't able to make it to Theod
 
 ![](https://raw.githubusercontent.com/TateTaylorOH/TateTaylorOH/refs/heads/main/assets/images/ECSS/ThoronsFaithful05.png)
 
-*Begin your own adventure exploring the Shivering Isles in*  
-[**SKYRIM EXTENDED CUT: SAINTS AND SEDUCERS**](https://www.nexusmods.com/skyrimspecialedition/mods/72772)  
-*Premiering Friday, November 11 at 12:00 PM EDT!*
+*Begin your own adventure exploring the Shivering Isles in* [**SKYRIM EXTENDED CUT: SAINTS AND SEDUCERS**](https://www.nexusmods.com/skyrimspecialedition/mods/72772), *premiering Friday, November 11 at 12:00 PM EDT!*
 
 ---
 
