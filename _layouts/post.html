@@ -8,7 +8,7 @@ layout: default
 
 <script src="https://utteranc.es/client.js"
         repo="{{ include.repo | default: site.utterances.repo | default: site.github.repository_nwo }}"
-        issue-term={{ page.url }}
+        issue-term="{{ page.title }}"
         theme="{{ include.theme | default: site.utterances.theme | default: 'github-light' }}"
         crossorigin="anonymous"
         async>
