@@ -102,10 +102,10 @@ Find out next time on
 
 ![](https://staticdelivery.nexusmods.com/images/1704/61720101-1666506172.png)
 
-<center><h1>The Most Curious<br>  
+<center><font size="24">The Most Curious<br>  
 Fauna and Flora<br>  
 of<br>  
-The Shivering Isles<br></h1>
+The Shivering Isles<br></font>
 <br>
 <h2>BY<br>  
 Rickard Calvert<br></h2>
