@@ -10,23 +10,22 @@ Join adventurer extraordinaire Rickard Calvert as he treks across Tamriel with n
 
 ## Rickard Calvert in the Isles of Madness
 
+![](https://raw.githubusercontent.com/TateTaylorOH/TateTaylorOH/main/assets/images/ECSS/Mania04.png)
+
 Follow Rickard as he ventures into the enigmatic Shivering Isles.
 
-<center><a href="https://tatetayloroh.github.io/TateTaylorOH/rickardcalvert/ecss/2022/10/08/mania.html"><img src="https://staticdelivery.nexusmods.com/images/1704/61720101-1665548201.png" 
-     width="495" 
-     height="278" /></a> <a href="https://tatetayloroh.github.io/TateTaylorOH/rickardcalvert/ecss/2022/10/15/dementia.html"><img src="https://staticdelivery.nexusmods.com/images/1704/61720101-1665855957.png" 
-     width="495" 
-     height="278" /></a>
-     
-<a href="https://tatetayloroh.github.io/TateTaylorOH/rickardcalvert/ecss/2022/10/22/floraandfauna.html"><img src="https://staticdelivery.nexusmods.com/images/1704/61720101-1666506172.png" 
-     width="495" 
-     height="278" /></a> <a href="https://tatetayloroh.github.io/TateTaylorOH/rickardcalvert/ecss/2022/10/29/sheogorathsfaithful.html"><img src="https://staticdelivery.nexusmods.com/images/1704/61720101-1667064520.png" 
-     width="495" 
-     height="278" /></a>
-     
-<a href="https://tatetayloroh.github.io/TateTaylorOH/rickardcalvert/ecss/2022/11/05/thoronsfaithful.html"><img src="https://staticdelivery.nexusmods.com/images/1704/61720101-1667667974.png" 
-     width="495" 
-     height="278" /></a></center>
+<ul>
+  {% assign rc_posts = site.posts | where_exp: "post", "post.categories contains 'rickardcalvert'" %}
+  {% assign sorted_rc_posts = rc_posts | sort: "order" %}
+
+  {% for post in sorted_rc_posts %}
+    <h1>{{ post.title }}</h1>
+    {{ post.excerpt | replace: '<img', '<x-img' }}
+    <font size="4">
+      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">Read more...</a>
+    </font>
+  {% endfor %}
+</ul>
 
 <!-- ## Rickard's Outtakes
 
