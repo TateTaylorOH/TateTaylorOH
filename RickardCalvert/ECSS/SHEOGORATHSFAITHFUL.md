@@ -3,6 +3,8 @@ layout: default
 title: Sheogorath's Faithful
 description: Into the Shivering Isles with Rickard Calvert, adventurer extraordinaire!
 ---
+---
+
 ![](https://staticdelivery.nexusmods.com/images/1704/61720101-1667064520.png)
 
 I closed my journal after finishing a sketch of a particularly bulbous glowing plant. It was invigorating to catalog so many mysterious creatures and unfamiliar flora; I’d not felt this good since my 3-month stay on Cathnoquey. With my research notes completed, I knew that I’d be better equipped than ever to explore these weird and wonderful lands. I stood and looked up at the weird orange-yellow clouds that dotted the sky above me. What a place to be shipwrecked.
@@ -92,3 +94,12 @@ I jumped as I heard a voice from inside the thicket directly in front of me.
 ![](https://raw.githubusercontent.com/TateTaylorOH/TateTaylorOH/main/assets/images/ECSS/SheogorathsFaithful05.png)
 
 *Who has appeared to Rickard in this dark hour? Find out next time in the finale of* **RICKARD CALVERT IN THE ISLE OF MADNESS: PART V - THORON’S FAITHFUL**, *premiering Saturday at 1:00 PM EDT!*
+
+---
+
+<font size="4"><p style="text-align:left;">
+    <a href="https://tatetayloroh.github.io/TateTaylorOH/RickardCalvert/ECSS/FLORAANDFAUNA.html">Previous</a>
+    <span style="float:right;">
+        <a href="https://tatetayloroh.github.io/TateTaylorOH/RickardCalvert/ECSS/THORONSFAITHFUL.html">Next</a>
+    </span>
+</p></font>
