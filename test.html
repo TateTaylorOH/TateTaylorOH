@@ -8,7 +8,7 @@ description: Follow the journey of Rickard Calvert, adventurer extraordinaire!
     {% if post.categories contains "rickardcalvert" %}
       <h1>{{ post.title }}</h1>
       {{ post.excerpt }}
-      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">Read more...</a>
+      <font size="4"><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">Read more...</a></font>
       </span>
     {% endif %}
   {% endfor %}
