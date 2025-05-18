@@ -20,11 +20,11 @@ Follow Rickard as he ventures into the enigmatic Shivering Isles.
      
 <a href="https://tatetayloroh.github.io/TateTaylorOH/RickardCalvert/ECSS/FLORAANDFAUNA.html"><img src="https://staticdelivery.nexusmods.com/images/1704/61720101-1666506172.png" 
      width="445" 
-     height="250" /></a> <a href="https://tatetayloroh.github.io/TateTaylorOH/RickardCalvert/ECSS/SHEOGORATHSFAITHFUL.html"><img src="https://staticdelivery.nexusmods.com/images/1704/61720101-1667667974.png" 
+     height="250" /></a> <a href="https://tatetayloroh.github.io/TateTaylorOH/RickardCalvert/ECSS/SHEOGORATHSFAITHFUL.html"><img src="https://staticdelivery.nexusmods.com/images/1704/61720101-1667064520.png" 
      width="445" 
      height="250" /></a>
      
-<a href="https://tatetayloroh.github.io/TateTaylorOH/RickardCalvert/ECSS/THORONSFAITHFUL.html"><img src="https://staticdelivery.nexusmods.com/images/1704/61720101-1667064520.png" 
+<a href="https://tatetayloroh.github.io/TateTaylorOH/RickardCalvert/ECSS/THORONSFAITHFUL.html"><img src="https://staticdelivery.nexusmods.com/images/1704/61720101-1667667974.png" 
      width="445" 
      height="250" /></a></center>
 
