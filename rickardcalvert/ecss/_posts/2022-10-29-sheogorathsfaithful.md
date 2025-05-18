@@ -15,7 +15,8 @@ Suddenly I felt my body freeze in place. I fell, paralyzed, and hit the ground h
 
 Even though I couldn’t move my head I was able to make out the forms of three tall women clad in shining golden armor, with skin nearly as gold. The untrained eye might mistake them for Altmer, but my eyes are honed by years of adventure. No, these were not elves. These were something else.
 
-One of them must have rolled me over, and suddenly I was laying on my back facing upward. The three women peered down at me.  
+One of them must have rolled me over, and suddenly I was laying on my back facing upward. The three women peered down at me.
+
 ![](https://raw.githubusercontent.com/TateTaylorOH/TateTaylorOH/main/assets/images/ECSS/SheogorathsFaithful01.png)
 
 “What is this? He is not a prisoner,” said one.  
@@ -35,7 +36,8 @@ As they lifted me from the ground, I felt my limbs loosen, but before I could re
 
 These mysterious women had made a mistake. They must have assumed that the bindings had me trapped as well as their paralysis. What they didn’t know is that during my eight-month voyage on the Maormer vessel *Silver Serpent*, I’d become one of the most proficient knot makers on Tamriel. Escaping these binds would be child’s play. For now, I chose to play along as they forced me up the path. This was the first sign of intelligent life since I stepped foot on this island. Whatever new quirk of this island they were, it was my duty to catalog it!
 
-They led me over a hill and along a short ridge, alongside the massive walls I’d observed earlier, until we reached a fortified camp. They pushed me past some simple fences and into a paved clearing. At the back of the clearing, massive doors made of solid brown wood were set into the wall. I wondered vaguely what was on the other side.  
+They led me over a hill and along a short ridge, alongside the massive walls I’d observed earlier, until we reached a fortified camp. They pushed me past some simple fences and into a paved clearing. At the back of the clearing, massive doors made of solid brown wood were set into the wall. I wondered vaguely what was on the other side.
+
 ![](https://raw.githubusercontent.com/TateTaylorOH/TateTaylorOH/main/assets/images/ECSS/SheogorathsFaithful02.png)
 
 I took a moment to observe the area around me. Simple barricades and shacks ringed the clearing, which appeared to be a small checkpoint. A few barrels and target dummies lined what I assumed was a training yard of some point. Most interesting was a sign that simply read:
@@ -54,7 +56,8 @@ The Warden smiled, much like a wolf who's sighted a small, limping animal.
 
 “Well, isn’t that interesting?” she said.
 
-She took me by the front of my shirt and hurled me on the pavement.  
+She took me by the front of my shirt and hurled me on the pavement.
+
 ![](https://raw.githubusercontent.com/TateTaylorOH/TateTaylorOH/main/assets/images/ECSS/SheogorathsFaithful03.png)
 
 “How did you get into the Asylum, mortal? Answer me!”
