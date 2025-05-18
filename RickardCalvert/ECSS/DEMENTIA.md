@@ -47,7 +47,7 @@ I finished my sketch, and wrote a brief description of the plant. I felt a new d
 
 ---
 
-<font size="5"><p style="text-align:left;">
+<font size="4"><p style="text-align:left;">
     <a href="https://tatetayloroh.github.io/TateTaylorOH/RickardCalvert/ECSS/MANIA.html">Previous</a>
     <span style="float:right;">
         <a href="https://tatetayloroh.github.io/TateTaylorOH/RickardCalvert/ECSS/FLORAANDFAUNA.html">Next</a>
