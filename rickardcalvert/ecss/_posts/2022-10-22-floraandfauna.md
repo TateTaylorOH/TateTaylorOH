@@ -4,7 +4,6 @@ title: Flora and Fauna
 description: Into the Shivering Isles with Rickard Calvert, adventurer extraordinaire!
 order: 3
 excerpt: Nearly two years ago, I found myself shipwrecked on what I believed at the time was an island somewhere in the Abecean Sea. I now know that this was no ordinary land — it was not even on this same plane of existence. Somehow, I had been shipwrecked on none other than the Shivering Isles, a plane of Oblivion ruled by the Daedric Prince Sheogorath.
-<br>
 ---
 ![](https://staticdelivery.nexusmods.com/images/1704/61720101-1666506172.png)
 
