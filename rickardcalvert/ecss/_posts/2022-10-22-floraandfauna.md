@@ -2,7 +2,6 @@
 layout: page
 title: Flora and Fauna
 author: Tate Tayor, edited by Catir and VictorF
-description: Into the Shivering Isles with Rickard Calvert, adventurer extraordinaire!
 order: 3
 ---
 ![](https://staticdelivery.nexusmods.com/images/1704/61720101-1666506172.png)
