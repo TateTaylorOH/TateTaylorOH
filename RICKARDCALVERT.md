@@ -27,6 +27,7 @@ Follow Rickard as he ventures into the enigmatic Shivering Isles.
       {{ post.date | date_to_string }} • {{ post.author }}
     </span>
   {% endfor %}
+  </ul>
 
 <!-- ## Rickard's Outtakes
 
