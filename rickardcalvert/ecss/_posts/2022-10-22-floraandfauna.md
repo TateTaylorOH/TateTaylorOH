@@ -2,6 +2,7 @@
 layout: page
 title: Flora and Fauna
 description: Into the Shivering Isles with Rickard Calvert, adventurer extraordinaire!
+excerpt: Nearly two years ago, I found myself shipwrecked on what I believed at the time was an island somewhere in the Abecean Sea. I now know that this was no ordinary land: it was not even on this same plane of existence. Somehow, I had been shipwrecked on none other than the Shivering Isles, a plane of Oblivion ruled by the Daedric Prince Sheogorath.
 ---
 ![](https://staticdelivery.nexusmods.com/images/1704/61720101-1666506172.png)
 
@@ -18,7 +19,7 @@ Rickard Calvert<br></font>
 <i>Published 4E 200, Imperial Geographic Society</i></center>
 <br>
 <center><font size="5">Forward</font></center>
-<!--more-->
+
 Nearly two years ago, I found myself shipwrecked on what I believed at the time was an island somewhere in the Abecean Sea. I now know that this was no ordinary land: it was not even on this same plane of existence. Somehow, I had been shipwrecked on none other than the Shivering Isles, a plane of Oblivion ruled by the Daedric Prince Sheogorath.
 
 In the first two days, I wandered the strange landscape, uncomprehending of what my eyes were seeing. I will not lie to you, this land truly tested me. However, my resolve is strong, and I turned my predicament into a most insightful and informative expedition of the like I had never seen before. As is customary in my expeditions, I began to compile research notes regarding the curious new types of fauna and flora I was discovering. As I am sure many of you know, I have published no less than 45 books, each documenting unique regions from the Ashlands of Morrowind to the Ashpits of Malacath.
