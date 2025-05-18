@@ -12,19 +12,19 @@ Join adventurer extraordinaire Rickard Calvert as he treks across Tamriel with n
 
 Follow Rickard as he ventures into the enigmatic Shivering Isles.
 
-<center><a href="https://tatetayloroh.github.io/TateTaylorOH/RickardCalvert/ECSS/MANIA.html"><img src="https://staticdelivery.nexusmods.com/images/1704/61720101-1665548201.png" 
+<center><a href="https://tatetayloroh.github.io/TateTaylorOH/rickardcalvert/ecss/2022/10/08/mania.html"><img src="https://staticdelivery.nexusmods.com/images/1704/61720101-1665548201.png" 
      width="495" 
-     height="278" /></a> <a href="https://tatetayloroh.github.io/TateTaylorOH/RickardCalvert/ECSS/DEMENTIA.html"><img src="https://staticdelivery.nexusmods.com/images/1704/61720101-1665855957.png" 
-     width="495" 
-     height="278" /></a>
-     
-<a href="https://tatetayloroh.github.io/TateTaylorOH/RickardCalvert/ECSS/FLORAANDFAUNA.html"><img src="https://staticdelivery.nexusmods.com/images/1704/61720101-1666506172.png" 
-     width="495" 
-     height="278" /></a> <a href="https://tatetayloroh.github.io/TateTaylorOH/RickardCalvert/ECSS/SHEOGORATHSFAITHFUL.html"><img src="https://staticdelivery.nexusmods.com/images/1704/61720101-1667064520.png" 
+     height="278" /></a> <a href="https://tatetayloroh.github.io/TateTaylorOH/rickardcalvert/ecss/2022/10/15/dementia.html"><img src="https://staticdelivery.nexusmods.com/images/1704/61720101-1665855957.png" 
      width="495" 
      height="278" /></a>
      
-<a href="https://tatetayloroh.github.io/TateTaylorOH/RickardCalvert/ECSS/THORONSFAITHFUL.html"><img src="https://staticdelivery.nexusmods.com/images/1704/61720101-1667667974.png" 
+<a href="https://tatetayloroh.github.io/TateTaylorOH/rickardcalvert/ecss/2022/22/floraandfauna.html"><img src="https://staticdelivery.nexusmods.com/images/1704/61720101-1666506172.png" 
+     width="495" 
+     height="278" /></a> <a href="https://tatetayloroh.github.io/TateTaylorOH/rickardcalvert/ecss/2022/10/29/sheogorathsfaithful.html"><img src="https://staticdelivery.nexusmods.com/images/1704/61720101-1667064520.png" 
+     width="495" 
+     height="278" /></a>
+     
+<a href="https://tatetayloroh.github.io/TateTaylorOH/rickardcalvert/ecss/2022/11/05/thoronsfaithful.html"><img src="https://staticdelivery.nexusmods.com/images/1704/61720101-1667667974.png" 
      width="495" 
      height="278" /></a></center>
 
