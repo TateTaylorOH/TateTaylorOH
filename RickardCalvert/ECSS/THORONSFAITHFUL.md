@@ -1,3 +1,10 @@
+---
+layout: page
+title: Thoron's Faithful
+description: Into the Shivering Isles with Rickard Calvert, adventurer extraordinaire!
+---
+---
+
 ![](https://staticdelivery.nexusmods.com/images/1704/61720101-1667667974.png)
 
 I looked up to see a man, hidden in the shadows of the vegetation. He was not like the golden and purpled-skinned beings that I'd just been accosted by. Instead, he appeared to be human.  
@@ -75,3 +82,12 @@ It had been quite the adventure. I regret that I wasn't able to make it to Theod
 ![](https://raw.githubusercontent.com/TateTaylorOH/TateTaylorOH/refs/heads/main/assets/images/ECSS/ThoronsFaithful05.png)
 
 *Begin your own adventure exploring the Shivering Isles in* [**SKYRIM EXTENDED CUT: SAINTS AND SEDUCERS**](https://www.nexusmods.com/skyrimspecialedition/mods/72772), *premiering Friday, November 11 at 12:00 PM EDT!*
+
+---
+
+<font size="4"><p style="text-align:left;">
+    <a href="https://tatetayloroh.github.io/TateTaylorOH/RickardCalvert/ECSS/SHEOGORATHSFAITHFUL.html">Previous</a>
+    <span style="float:right;">
+        <!-- <a href="https://tatetayloroh.github.io/TateTaylorOH/RickardCalvert/ECSS/THORONSFAITHFUL.html">Next</a> -->
+    </span>
+</p></font>
