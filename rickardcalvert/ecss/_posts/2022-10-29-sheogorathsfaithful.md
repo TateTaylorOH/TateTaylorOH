@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sheogorath's Faithful
-author: Tate Tayor, edited by VictorF and Catir
+author: Tate Tayor, edited by Catir and VictorF
 description: Into the Shivering Isles with Rickard Calvert, adventurer extraordinaire!
 order: 4
 ---
