@@ -1,0 +1,8 @@
+{% assign sorted_pages = site.pages | sort: "order" %}
+
+{% for page in sorted_pages %}
+  {% if page.url contains "/RickardCalvert/ECSS/" %}
+    <h2><a href="{{ page.url }}">{{ page.title }}</a></h2>
+    {{ page.excerpt }}
+  {% endif %}
+{% endfor %}
