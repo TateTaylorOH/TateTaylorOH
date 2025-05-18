@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Flora and Fauna
 description: Into the Shivering Isles with Rickard Calvert, adventurer extraordinaire!
 ---
