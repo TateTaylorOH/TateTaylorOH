@@ -28,7 +28,7 @@ Follow Rickard as he ventures into the enigmatic Shivering Isles.
      width="445" 
      height="250" /></a></center>
 
-# Rickard's Photo Gallery
+# Rickard's Outtakes
 
 <center><a href="https://raw.githubusercontent.com/TateTaylorOH/TateTaylorOH/refs/heads/main/assets/images/RickardCalvert/RickardMelonNose.png"><img src="https://raw.githubusercontent.com/TateTaylorOH/TateTaylorOH/refs/heads/main/assets/images/RickardCalvert/RickardMelonNose.png" 
      width="445" 
