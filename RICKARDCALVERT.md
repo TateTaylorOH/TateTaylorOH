@@ -21,12 +21,11 @@ Follow Rickard as he ventures into the enigmatic Shivering Isles.
   {% for post in sorted_rc_posts %}
     <h3>{{ post.title }}</h3>
     {{ post.excerpt | replace: '<img', '<x-img' }}
-    <hr>
-    <br>
-    {{ post.date | date_to_string }} • {{ post.author }}
     <font size="4">
       <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">Read more...</a>
     </font>
+    <br>
+    {{ post.date | date_to_string }} • {{ post.author }}
   {% endfor %}
 </ul>
 
