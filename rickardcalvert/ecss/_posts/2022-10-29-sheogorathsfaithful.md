@@ -3,8 +3,6 @@ layout: page
 title: Sheogorath's Faithful
 description: Into the Shivering Isles with Rickard Calvert, adventurer extraordinaire!
 ---
----
-
 ![](https://staticdelivery.nexusmods.com/images/1704/61720101-1667064520.png)
 
 I closed my journal after finishing a sketch of a particularly bulbous glowing plant. It was invigorating to catalog so many mysterious creatures and unfamiliar flora; I’d not felt this good since my 3-month stay on Cathnoquey. With my research notes completed, I knew that I’d be better equipped than ever to explore these weird and wonderful lands. I stood and looked up at the weird orange-yellow clouds that dotted the sky above me. What a place to be shipwrecked.
