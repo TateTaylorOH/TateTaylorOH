@@ -114,8 +114,8 @@ I hope all that have read this guide have come out of it knowing more than when 
 ---
 
 <font size="4"><p style="text-align:left;">
-    <a href="https://tatetayloroh.github.io/TateTaylorOH/RickardCalvert/ECSS/DEMENTIA.html">Previous</a>
+    <a href="https://tatetayloroh.github.io/TateTaylorOH/rickardcalvert/ecss/2022/10/15/dementia.html">Previous</a>
     <span style="float:right;">
-        <a href="https://tatetayloroh.github.io/TateTaylorOH/RickardCalvert/ECSS/SHEOGORATHSFAITHFUL.html">Next</a>
+        <a href="https://tatetayloroh.github.io/TateTaylorOH/rickardcalvert/ecss/2022/10/29/sheogorathsfaithful.html">Next</a>
     </span>
 </p></font>
