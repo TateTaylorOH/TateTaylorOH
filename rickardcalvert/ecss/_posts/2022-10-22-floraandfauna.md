@@ -3,8 +3,6 @@ layout: page
 title: Flora and Fauna
 description: Into the Shivering Isles with Rickard Calvert, adventurer extraordinaire!
 ---
----
-
 ![](https://staticdelivery.nexusmods.com/images/1704/61720101-1666506172.png)
 
 <center><font size="6">The Most Curious<br>  
