@@ -2,6 +2,7 @@
 layout: page
 title: Thoron's Faithful
 description: Into the Shivering Isles with Rickard Calvert, adventurer extraordinaire!
+order: 5
 ---
 ![](https://staticdelivery.nexusmods.com/images/1704/61720101-1667667974.png)
 
