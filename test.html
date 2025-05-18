@@ -1,16 +1,15 @@
 ---
-layout: default
+layout: post
 title: Home
 ---
 {% for post in site.posts %}
-
+  {% if post.categories contains "RickardCalvert" %}
     <h1>{{ post.title }}</h1>
     {{ post.excerpt }}
-    <!--more-->
     <hr>
     <span class="post-meta">
       {{ post.date | date_to_string }} • {{ post.author }}
       • <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">Comments</a>
     </span>
-
+  {% endif %}
 {% endfor %}
