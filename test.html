@@ -6,7 +6,7 @@ description: Follow the journey of Rickard Calvert, adventurer extraordinaire!
 {% for post in site.posts %}
   {% if post.categories contains "rickardcalvert" %}
     <h1>{{ post.title }}</h1>
-    {{ post.content }}
+    {{ post.excerpt }}
     <hr>
     <span class="post-meta">
       {{ post.date | date_to_string }} • {{ post.author }}
