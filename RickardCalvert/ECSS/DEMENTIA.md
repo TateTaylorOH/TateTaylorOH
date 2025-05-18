@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Dementia
 description: Into the Shivering Isles with Rickard Calvert, adventurer extraordinaire!
 ---
@@ -44,3 +44,11 @@ I finished my sketch, and wrote a brief description of the plant. I felt a new d
 ![](https://raw.githubusercontent.com/TateTaylorOH/TateTaylorOH/main/assets/images/ECSS/Dementia06.png)
 
 *Will Rickard uncover all the new fauna and flora of these strange lands, or will he become their dinner? Find out next time on* **RICKARD CALVERT IN THE ISLE OF MADNESS: PART III - FAUNA AND FLORA**, *premiering next Saturday at 1:00 PM EDT!*
+
+---
+<p style="text-align:left;">
+    <a href="[https://github.com/TateTaylorOH/TateTaylorOH/issues/](https://tatetayloroh.github.io/TateTaylorOH/RickardCalvert/ECSS/MANIA.html)">Previous</a>
+    <span style="float:right;">
+        <a href="[https://tatetayloroh.github.io/TateTaylorOH/RickardCalvert/ECSS/FLORAANDFAUNA.html)">Next</a>
+    </span>
+</p>
