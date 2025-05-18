@@ -3,6 +3,7 @@ layout: page
 title: Mania
 description: Into the Shivering Isles with Rickard Calvert, adventurer extraordinaire!
 ---
+---
 ![](https://staticdelivery.nexusmods.com/images/1704/61720101-1665548201.png)
 
 Dearest reader,
@@ -45,3 +46,11 @@ And so I knew where I needed to go next. It is the duty of an explorer to see wh
 
 *What will happen to Rickard Calvert next? Will he unravel the secrets of this strange new land, or be lost forever in this wild and unfamiliar region? Find out next week in* **RICKARD CALVERT IN THE ISLES OF MADNESS: PART II - DEMENTIA**, *premiering next Saturday at 1:00 PM EDT!*
 
+---
+
+<font size="4"><p style="text-align:left;">
+    <!-- <a href="https://tatetayloroh.github.io/TateTaylorOH/RickardCalvert/ECSS/MANIA.html">Previous</a> -->
+    <span style="float:right;">
+        <a href="https://tatetayloroh.github.io/TateTaylorOH/RickardCalvert/ECSS/DEMENTIA.html">Next</a>
+    </span>
+</p></font>
