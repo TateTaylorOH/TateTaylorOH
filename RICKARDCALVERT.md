@@ -14,21 +14,7 @@ Join adventurer extraordinaire Rickard Calvert as he treks across Tamriel with n
 
 Follow Rickard as he ventures into the enigmatic Shivering Isles.
 
-<ul>
-  {% assign filtered_posts = site.posts | where_exp: "post", "post.categories contains 'rickardcalvert' and post.categories contains 'ecss'" %}
-  {% assign sorted_posts = filtered_posts | sort: "order" %}
 
-  {% for post in sorted_posts %}
-    <h1>{{ post.title }}</h1>
-    {{ post.excerpt 
-       | replace: '<img', '<x-img' 
-       | replace: '<hr', '<x-hr' 
-    }}
-    <font size="4">
-      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">Read more...</a>
-    </font>
-  {% endfor %}
-</ul>
 
 <!-- ## Rickard's Outtakes
 
