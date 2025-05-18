@@ -21,7 +21,7 @@ Follow Rickard as he ventures into the enigmatic Shivering Isles.
 
 .column {
   float: left;
-  width: 33.33%;
+  width: 100%;
   padding: 5px;
 }
 
