@@ -15,12 +15,12 @@ Join adventurer extraordinaire Rickard Calvert as he treks across Tamriel with n
 Follow Rickard as he ventures into the enigmatic Shivering Isles.
 
 <ul>
-  {% assign filtered_posts = site.posts | where_exp: "post", "post.categories contains 'rickardcalvert' and post.categories contains 'ecss'" %}
-  {% assign sorted_posts = filtered_posts | sort: "order" %}
+  {% assign rc_posts = site.posts | where_exp: "post", "post.categories contains 'rickardcalvert'" %}
+  {% assign sorted_rc_posts = rc_posts | sort: "order" %}
 
-  {% for post in sorted_posts %}
+  {% for post in sorted_rc_posts %}
     <h3>{{ post.title }}</h3>
-    {{ post.excerpt | strip_html }}
+    {{ post.excerpt | replace: '<img', '<x-img' }}
     <font size="4">
       <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">Read more...</a>
     </font>
