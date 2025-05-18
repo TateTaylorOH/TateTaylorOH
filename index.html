@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Home
+excerpt_separator: "<!--more-->"
 ---
 {% for post in site.posts %}
   {% if post.categories contains "blog" %}
     <h1>{{ post.title }}</h1>
     {{ post.excerpt }}
-    <!--more-->
     <hr>
     <span class="post-meta">
       {{ post.date | date_to_string }} • {{ post.author }}
