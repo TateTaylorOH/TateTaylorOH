@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: The Adventures of Rickard Calvert
 description: Follow the journey of Rickard Calvert, adventurer extraordinaire!
 ---
