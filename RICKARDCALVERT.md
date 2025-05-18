@@ -10,7 +10,7 @@ Join adventurer extraordinaire Rickard Calvert as he treks across Tamriel with n
 
 ## Rickard Calvert in the Isles of Madness
 
-![](https://raw.githubusercontent.com/TateTaylorOH/TateTaylorOH/main/assets/images/ECSS/Mania04.png)
+
 
 Follow Rickard as he ventures into the enigmatic Shivering Isles.
 
