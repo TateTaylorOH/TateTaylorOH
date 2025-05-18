@@ -20,7 +20,10 @@ Follow Rickard as he ventures into the enigmatic Shivering Isles.
 
   {% for post in sorted_posts %}
     <h1>{{ post.title }}</h1>
-    {{ post.excerpt | replace: '<img', '<x-img' }}
+    {{ post.excerpt 
+       | replace: '<img', '<x-img' 
+       | replace: '<hr', '<x-hr' 
+    }}
     <font size="4">
       <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">Read more...</a>
     </font>
