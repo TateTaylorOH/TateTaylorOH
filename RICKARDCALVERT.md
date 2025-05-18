@@ -18,7 +18,7 @@ Follow Rickard as he ventures into the enigmatic Shivering Isles.
      width="495" 
      height="278" /></a>
      
-<a href="https://tatetayloroh.github.io/TateTaylorOH/rickardcalvert/ecss/2022/22/floraandfauna.html"><img src="https://staticdelivery.nexusmods.com/images/1704/61720101-1666506172.png" 
+<a href="https://tatetayloroh.github.io/TateTaylorOH/rickardcalvert/ecss/2022/10/22/floraandfauna.html"><img src="https://staticdelivery.nexusmods.com/images/1704/61720101-1666506172.png" 
      width="495" 
      height="278" /></a> <a href="https://tatetayloroh.github.io/TateTaylorOH/rickardcalvert/ecss/2022/10/29/sheogorathsfaithful.html"><img src="https://staticdelivery.nexusmods.com/images/1704/61720101-1667064520.png" 
      width="495" 
