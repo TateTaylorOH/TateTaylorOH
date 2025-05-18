@@ -19,13 +19,16 @@ Follow Rickard as he ventures into the enigmatic Shivering Isles.
   {% assign sorted_posts = filtered_posts | sort: "order" %}
 
   {% for post in sorted_posts %}
-    <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
-    {{ post.excerpt | replace: '<img', '<x-img' | truncate: 350 }}
-    <br>
-    <br>
-    <span class="post-meta">
-      {{ post.date | date_to_string }} • {{ post.author }}
-    </span>
+    <li>
+      <h3>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </h3>
+      {{ post.excerpt | replace: '<img', '<x-img' | replace: '<hr', '<x-hr' | truncate: 350 }}
+      <br><br>
+      <span class="post-meta">
+        {{ post.date | date_to_string }} • {{ post.author }}
+      </span>
+    </li>
   {% endfor %}
 </ul>
 
