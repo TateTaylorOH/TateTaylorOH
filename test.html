@@ -8,6 +8,6 @@ description: Follow the journey of Rickard Calvert, adventurer extraordinaire!
 {% for page in sorted_pages %}
   {% if page.url contains "/RickardCalvert/ECSS/" %}
     <h2><a href="{{ page.url }}">{{ page.title }}</a></h2>
-    {{ page.excerpt }}
+    {{ sorted_page.excerpt }}
   {% endif %}
 {% endfor %}
