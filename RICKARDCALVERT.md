@@ -20,7 +20,7 @@ Follow Rickard as he ventures into the enigmatic Shivering Isles.
 
   {% for post in sorted_rc_posts %}
     <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
-    {{ post.excerpt | replace: '<img', '<x-img' | truncate: 1000 }}
+    {{ post.excerpt | replace: '<img', '<x-img' | truncate: 350 }}
     <br>
     <br>
     <span class="post-meta">
