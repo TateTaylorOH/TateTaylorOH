@@ -8,7 +8,7 @@ description: Follow the journey of Rickard Calvert, adventurer extraordinaire!
 
 Join adventurer extraordinaire Rickard Calvert as he treks across Tamriel with nothing but his trusty pocket knife, uncovering lost artifacts and wandering into places he definitely doesn’t belong. It’s all in a day’s work for the greatest adventurer in all of Mundus.
 
-## [Rickard Calvert in the Isles of Madness](https://tatetayloroh.github.io/TateTaylorOH/RickardCalvert/ECSS/MANIA.html)
+## Rickard Calvert in the Isles of Madness
 
 Follow Rickard as he ventures into the enigmatic Shivering Isles.
 
@@ -28,7 +28,7 @@ Follow Rickard as he ventures into the enigmatic Shivering Isles.
      width="445" 
      height="250" /></a></center>
 
-# Rickard's Outtakes
+## Rickard's Outtakes
 
 <center><a href="https://raw.githubusercontent.com/TateTaylorOH/TateTaylorOH/refs/heads/main/assets/images/RickardCalvert/RickardMelonNose.png"><img src="https://raw.githubusercontent.com/TateTaylorOH/TateTaylorOH/refs/heads/main/assets/images/RickardCalvert/RickardMelonNose.png" 
      width="445" 
