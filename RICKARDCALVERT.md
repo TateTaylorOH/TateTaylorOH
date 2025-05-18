@@ -12,63 +12,21 @@ Join adventurer extraordinaire Rickard Calvert as he treks across Tamriel with n
 
 Follow Rickard as he ventures into the enigmatic Shivering Isles.
 
-<html>
-<head>
-<style>
-* {
-  box-sizing: border-box;
-}
-
-.column {
-  float: left;
-  width: 100%;
-  padding: 5px;
-}
-
-/* Clearfix (clear floats) */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-</style>
-</head>
-<body>
-
-<center>
-<div class="row">
-  <div class="column">
-    <a href="https://tatetayloroh.github.io/TateTaylorOH/RickardCalvert/ECSS/MANIA.html"><img src="https://staticdelivery.nexusmods.com/images/1704/61720101-1665548201.png" 
+<center><a href="https://tatetayloroh.github.io/TateTaylorOH/RickardCalvert/ECSS/MANIA.html"><img src="https://staticdelivery.nexusmods.com/images/1704/61720101-1665548201.png" 
      width="445" 
-     height="250" /></a><figcaption>Into the Realm of Madness.</figcaption>
-  </div>
-  <div class="column">
-    <a href="https://tatetayloroh.github.io/TateTaylorOH/RickardCalvert/ECSS/DEMENTIA.html"><img src="https://staticdelivery.nexusmods.com/images/1704/61720101-1665855957.png" 
+     height="250" /></a> <a href="https://tatetayloroh.github.io/TateTaylorOH/RickardCalvert/ECSS/DEMENTIA.html"><img src="https://staticdelivery.nexusmods.com/images/1704/61720101-1665855957.png" 
      width="445" 
-     height="250" /></a><figcaption>Further into uncharted lands.</figcaption>
-  </div>
-</div>
-
-<div class="row">
-  <div class="column">
-    <a href="https://tatetayloroh.github.io/TateTaylorOH/RickardCalvert/ECSS/FLORAANDFAUNA.html"><img src="https://staticdelivery.nexusmods.com/images/1704/61720101-1666506172.png" 
+     height="250" /></a>
+     
+<a href="https://tatetayloroh.github.io/TateTaylorOH/RickardCalvert/ECSS/FLORAANDFAUNA.html"><img src="https://staticdelivery.nexusmods.com/images/1704/61720101-1666506172.png" 
      width="445" 
-     height="250" /></a><figcaption>Strange, wacky, and alien inhabitants.</figcaption>
-  </div>
-  <div class="column">
-    <a href="https://tatetayloroh.github.io/TateTaylorOH/RickardCalvert/ECSS/SHEOGORATHSFAITHFUL.html"><img src="https://staticdelivery.nexusmods.com/images/1704/61720101-1667064520.png" 
+     height="250" /></a> <a href="https://tatetayloroh.github.io/TateTaylorOH/RickardCalvert/ECSS/SHEOGORATHSFAITHFUL.html"><img src="https://staticdelivery.nexusmods.com/images/1704/61720101-1667064520.png" 
      width="445" 
-     height="250" /></a><figcaption>A run-in with the locals.</figcaption>
-  </div>
-</div>
-
+     height="250" /></a>
+     
 <a href="https://tatetayloroh.github.io/TateTaylorOH/RickardCalvert/ECSS/THORONSFAITHFUL.html"><img src="https://staticdelivery.nexusmods.com/images/1704/61720101-1667667974.png" 
      width="445" 
-     height="250" /></a><figcaption>The finale to it all.</figcaption>
-</center>
-
-</body>
-</html>
+     height="250" /></a></center>
 
 <!-- ## Rickard's Outtakes
 
