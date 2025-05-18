@@ -12,8 +12,7 @@ of<br>
 The Shivering Isles<br></font>
 <br>
 <font size="5">BY<br>  
-Rickard Calvert<br></font>
-<!--more-->
+Rickard Calvert<br></font><!--more-->
 <br>
 <img src="https://raw.githubusercontent.com/TateTaylorOH/TateTaylorOH/main/assets/images/ECSS/FloraFauna01.png"><br>
 <br>
