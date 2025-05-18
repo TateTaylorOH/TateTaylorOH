@@ -44,12 +44,3 @@ FormID Tag: 01DE5xxx
 01DE5035: ActorTypeSnowElf\
 01DE5036: ActorTypeTsaesci\
 01DE5037: DES_ConvertCoins
-
-{% assign sorted_pages = site.pages | sort: "order" %}
-
-{% for page in sorted_pages %}
-  {% if page.url contains "/RickardCalvert/ECSS/" %}
-    <h2><a href="{{ page.url }}">{{ page.title }}</a></h2>
-    <p>{{ page.excerpt }}</p>
-  {% endif %}
-{% endfor %}
