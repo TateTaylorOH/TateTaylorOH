@@ -96,8 +96,8 @@ I jumped as I heard a voice from inside the thicket directly in front of me.
 ---
 
 <font size="4"><p style="text-align:left;">
-    <a href="https://tatetayloroh.github.io/TateTaylorOH/RickardCalvert/ECSS/FLORAANDFAUNA.html">Previous</a>
+    <a href="https://tatetayloroh.github.io/TateTaylorOH/rickardcalvert/ecss/2022/10/22/floraandfauna.html">Previous</a>
     <span style="float:right;">
-        <a href="https://tatetayloroh.github.io/TateTaylorOH/RickardCalvert/ECSS/THORONSFAITHFUL.html">Next</a>
+        <a href="https://tatetayloroh.github.io/TateTaylorOH/rickardcalvert/ecss/2022/11/05/thoronsfaithful.html">Next</a>
     </span>
 </p></font>
