@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Rickard Calvert in the Isle of Madness
+title: Flora and Fauna
 description: Into the Shivering Isles with Rickard Calvert, adventurer extraordinaire!
 ---
 ![](https://staticdelivery.nexusmods.com/images/1704/61720101-1666506172.png)
