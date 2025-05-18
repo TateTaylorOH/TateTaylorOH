@@ -43,4 +43,4 @@ Follow Rickard as he ventures into the enigmatic Shivering Isles.
      width="445" 
      height="250" /></a></center>
 -->
----
+<hr>
