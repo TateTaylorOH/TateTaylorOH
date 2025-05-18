@@ -3,6 +3,8 @@ layout: default
 title: Flora and Fauna
 description: Into the Shivering Isles with Rickard Calvert, adventurer extraordinaire!
 ---
+---
+
 ![](https://staticdelivery.nexusmods.com/images/1704/61720101-1666506172.png)
 
 <center><font size="6">The Most Curious<br>  
@@ -110,3 +112,12 @@ I hope all that have read this guide have come out of it knowing more than when 
 ![](https://raw.githubusercontent.com/TateTaylorOH/TateTaylorOH/main/assets/images/ECSS/FloraFauna10.png)
 
 *Now, with his research notes completed, tune in next week to see what happens next in* **RICKARD CALVERT IN THE ISLE OF MADNESS: PART IV - SHEOGORATH’S FAITHFUL**, *premiering Saturday at 1:00 PM EDT!*
+
+---
+
+<font size="4"><p style="text-align:left;">
+    <a href="https://tatetayloroh.github.io/TateTaylorOH/RickardCalvert/ECSS/DEMENTIA.html">Previous</a>
+    <span style="float:right;">
+        <a href="https://tatetayloroh.github.io/TateTaylorOH/RickardCalvert/ECSS/SHEOGORATHSFAITHFUL.html">Next</a>
+    </span>
+</p></font>
