@@ -46,9 +46,10 @@ I finished my sketch, and wrote a brief description of the plant. I felt a new d
 *Will Rickard uncover all the new fauna and flora of these strange lands, or will he become their dinner? Find out next time on* **RICKARD CALVERT IN THE ISLE OF MADNESS: PART III - FAUNA AND FLORA**, *premiering next Saturday at 1:00 PM EDT!*
 
 ---
-<p style="text-align:left;">
-    <a href="[https://github.com/TateTaylorOH/TateTaylorOH/issues/](https://tatetayloroh.github.io/TateTaylorOH/RickardCalvert/ECSS/MANIA.html)">Previous</a>
+
+<font size="5"><p style="text-align:left;">
+    <a href="https://tatetayloroh.github.io/TateTaylorOH/RickardCalvert/ECSS/MANIA.html">Previous</a>
     <span style="float:right;">
-        <a href="[https://tatetayloroh.github.io/TateTaylorOH/RickardCalvert/ECSS/FLORAANDFAUNA.html)">Next</a>
+        <a href="https://tatetayloroh.github.io/TateTaylorOH/RickardCalvert/ECSS/FLORAANDFAUNA.html">Next</a>
     </span>
-</p>
+</p></font>
