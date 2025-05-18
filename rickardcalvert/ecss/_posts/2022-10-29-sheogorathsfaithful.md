@@ -97,6 +97,8 @@ I jumped as I heard a voice from inside the thicket directly in front of me.
 
 ---
 
+{{ post.date | date_to_string }} • {{ post.author }}
+
 <font size="4"><p style="text-align:left;">
     <a href="https://tatetayloroh.github.io/TateTaylorOH/rickardcalvert/ecss/2022/10/22/floraandfauna.html">Previous</a>
     <span style="float:right;">
