@@ -3,11 +3,14 @@ layout: page
 title: The Adventures of Rickard Calvert
 description: Follow the journey of Rickard Calvert, adventurer extraordinaire!
 ---
-{% assign sorted_pages = site.pages | sort: "order" %}
-
-{% for page in sorted_pages %}
-  {% if page.url contains "/RickardCalvert/ECSS/" %}
-    <h2><a href="{{ page.url }}">{{ page.title }}</a></h2>
-    {{ sorted_page.excerpt }}
+{% for post in site.posts %}
+  {% if post.categories contains "RickardCalvert" %}
+    <h1>{{ post.title }}</h1>
+    {{ post.excerpt }}
+    <hr>
+    <span class="post-meta">
+      {{ post.date | date_to_string }} • {{ post.author }}
+      • <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">Comments</a>
+    </span>
   {% endif %}
 {% endfor %}
