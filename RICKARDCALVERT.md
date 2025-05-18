@@ -41,3 +41,5 @@ Follow Rickard as he ventures into the enigmatic Shivering Isles.
      height="250" /></a> <a href="https://raw.githubusercontent.com/TateTaylorOH/TateTaylorOH/refs/heads/main/assets/images/RickardCalvert/RickardYeeHaw.png"><img src="https://raw.githubusercontent.com/TateTaylorOH/TateTaylorOH/refs/heads/main/assets/images/RickardCalvert/RickardYeeHaw.png" 
      width="445" 
      height="250" /></a></center>
+
+---
