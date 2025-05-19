@@ -367,3 +367,18 @@ details > summary {
 #site-footer nav ul li a:hover {
   text-decoration: underline;
 }
+
+a.button-link:link,
+a.button-link:visited {
+  background-color: #D58546;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a.button-link:hover,
+a.button-link:active {
+  background-color: orange;
+}
