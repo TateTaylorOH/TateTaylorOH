@@ -58,11 +58,9 @@ And so I knew where I needed to go next. It is the duty of an explorer to see wh
 
 {{ page.date | date_to_string }} • {{ page.author }}
 
-<!DOCTYPE html>
-<html>
-<head>
 <style>
-a:link, a:visited {
+a.button-link:link,
+a.button-link:visited {
   background-color: #D58546;
   color: white;
   padding: 14px 25px;
@@ -71,19 +69,15 @@ a:link, a:visited {
   display: inline-block;
 }
 
-a:hover, a:active {
+a.button-link:hover,
+a.button-link:active {
   background-color: orange;
 }
 </style>
-</head>
-<body>
 
 <font size="4"><p style="text-align:left;">
-    <a href="https://tatetayloroh.github.io/TateTaylorOH/rickardcalvert/ecss/2022/10/08/mania.html">Previous</a>
+    <a href="https://tatetayloroh.github.io/TateTaylorOH/rickardcalvert/ecss/2022/10/08/mania.html" class="button-link">Previous</a>
     <span style="float:right;">
-        <a href="https://tatetayloroh.github.io/TateTaylorOH/rickardcalvert/ecss/2022/10/22/floraandfauna.html">Next</a>
+    <a href="https://tatetayloroh.github.io/TateTaylorOH/rickardcalvert/ecss/2022/10/22/floraandfauna.html" class="button-link">Next</a>
     </span>
 </p></font>
-
-</body>
-</html>
