@@ -370,15 +370,20 @@ details > summary {
 
 a.button-link:link,
 a.button-link:visited {
-  background-color: #D58546;
+  display: inline-block;
   color: white;
   padding: 14px 25px;
   text-align: center;
   text-decoration: none;
-  display: inline-block;
+  background: linear-gradient(to bottom, #a94d1c, #d58546); /* Top-to-bottom gradient */
+  border: 1px solid transparent;
+  border-radius: 6px;
+  transition: all 0.3s ease;
+  font-family: sans-serif;
 }
 
 a.button-link:hover,
 a.button-link:active {
-  background-color: orange;
+  background: linear-gradient(to bottom, #d85c38, #e5ac80); /* Hover gradient */
+  border-top: 2px solid red; /* Red top border */
 }
