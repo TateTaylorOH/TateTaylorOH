@@ -120,8 +120,8 @@ I hope all that have read this guide have come out of it knowing more than when 
 {{ page.date | date_to_string }} • {{ page.author }}
 
 <font size="4"><p style="text-align:left;">
-    <a href="https://tatetayloroh.github.io/TateTaylorOH/rickardcalvert/ecss/2022/10/15/dementia.html">Previous</a>
+    <a href="https://tatetayloroh.github.io/TateTaylorOH/rickardcalvert/ecss/2022/10/15/dementia.html" class="button-link">Previous</a>
     <span style="float:right;">
-        <a href="https://tatetayloroh.github.io/TateTaylorOH/rickardcalvert/ecss/2022/10/29/sheogorathsfaithful.html">Next</a>
+        <a href="https://tatetayloroh.github.io/TateTaylorOH/rickardcalvert/ecss/2022/10/29/sheogorathsfaithful.html" class="button-link">Next</a>
     </span>
 </p></font>
