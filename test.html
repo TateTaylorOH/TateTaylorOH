@@ -1,17 +1,13 @@
 ---
 layout: page
-title: The Adventures of Rickard Calvert
-description: Follow the journey of Rickard Calvert, adventurer extraordinaire!
+title: Website Tester
+description:
 ---
-<ul>
-  {% assign rc_posts = site.posts | where_exp: "post", "post.categories contains 'rickardcalvert'" %}
-  {% assign sorted_rc_posts = rc_posts | sort: "order" %}
-
-  {% for post in sorted_rc_posts %}
-    <h1>{{ post.title }}</h1>
-    {{ post.excerpt | replace: '<img', '<x-img' }}
-    <font size="4">
-      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">Read more...</a>
-    </font>
-  {% endfor %}
-</ul>
+<nav aria-labelledby="socials-navigation">         
+  <font size="4"><p style="text-align:left;">
+      <a href="https://tatetayloroh.github.io/TateTaylorOH/rickardcalvert/ecss/2022/10/08/mania.html">Previous</a>
+      <span style="float:right;">
+          <a href="https://tatetayloroh.github.io/TateTaylorOH/rickardcalvert/ecss/2022/10/22/floraandfauna.html">Next</a>
+      </span>
+  </p></font>
+</nav>
