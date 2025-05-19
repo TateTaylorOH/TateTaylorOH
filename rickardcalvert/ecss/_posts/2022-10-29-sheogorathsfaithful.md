@@ -105,8 +105,8 @@ I jumped as I heard a voice from inside the thicket directly in front of me.
 {{ page.date | date_to_string }} • {{ page.author }}
 
 <font size="4"><p style="text-align:left;">
-    <a href="https://tatetayloroh.github.io/TateTaylorOH/rickardcalvert/ecss/2022/10/22/floraandfauna.html">Previous</a>
+    <a href="https://tatetayloroh.github.io/TateTaylorOH/rickardcalvert/ecss/2022/10/22/floraandfauna.html" class="button-link">Previous</a>
     <span style="float:right;">
-        <a href="https://tatetayloroh.github.io/TateTaylorOH/rickardcalvert/ecss/2022/11/05/thoronsfaithful.html">Next</a>
+        <a href="https://tatetayloroh.github.io/TateTaylorOH/rickardcalvert/ecss/2022/11/05/thoronsfaithful.html" class="button-link">Next</a>
     </span>
 </p></font>
