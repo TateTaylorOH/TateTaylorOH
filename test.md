@@ -58,23 +58,6 @@ And so I knew where I needed to go next. It is the duty of an explorer to see wh
 
 {{ page.date | date_to_string }} • {{ page.author }}
 
-<style>
-a.button-link:link,
-a.button-link:visited {
-  background-color: #D58546;
-  color: white;
-  padding: 14px 25px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-}
-
-a.button-link:hover,
-a.button-link:active {
-  background-color: orange;
-}
-</style>
-
 <font size="4"><p style="text-align:left;">
     <a href="https://tatetayloroh.github.io/TateTaylorOH/rickardcalvert/ecss/2022/10/08/mania.html" class="button-link">Previous</a>
     <span style="float:right;">
