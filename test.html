@@ -9,7 +9,7 @@ title: Home
     <hr>
     <span class="post-meta">
       {{ post.date | date_to_string }} • {{ post.author }}
-      • <a class="button-link" href="{{ post.url | prepend: site.baseurl }}">Comments</a>
+      • <a class="post-button" href="{{ post.url | prepend: site.baseurl }}">Comments</a>
     </span>
   {% endif %}
 {% endfor %}
