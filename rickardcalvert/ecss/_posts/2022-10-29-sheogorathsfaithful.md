@@ -102,7 +102,7 @@ I jumped as I heard a voice from inside the thicket directly in front of me.
 
 ---
 
-{{ page.date | date_to_string }} • {{ page.author }}
+<b>{{ page.date | date_to_string }} • {{ page.author }}<b>
 
 <font size="4"><p style="text-align:left;">
     <a href="https://tatetayloroh.github.io/TateTaylorOH/rickardcalvert/ecss/2022/10/22/floraandfauna.html" class="button-link">Previous</a>
