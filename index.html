@@ -8,10 +8,12 @@ title: Home
     {{ post.content }}
     <hr>
     <span class="post-meta">
-      <div class="post-footer">
-        <a class="post-button" href="{{ post.url | prepend: site.baseurl }}">Comments</a>
-      </div>
-      <p><b>{{ post.date | date_to_string }} • {{ post.author }}</b></p>
+      <p style="text-align:left;">
+        {{ post.date | date_to_string }} • {{ post.author }}
+        <span style="float:right;">
+          <a class="post-button" href="{{ post.url | prepend: site.baseurl }}">Comments</a>
+        </span>
+      </p>
     </span>
   {% endif %}
 {% endfor %}
