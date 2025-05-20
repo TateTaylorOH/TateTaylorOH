@@ -11,7 +11,7 @@ title: Home
       <div class="post-footer">
         <a class="post-button" href="{{ post.url | prepend: site.baseurl }}">Comments</a>
       </div>
-      <b>{{ post.date | date_to_string }} • {{ post.author }}</b>
+      <p><b>{{ post.date | date_to_string }} • {{ post.author }}</b></p>
     </span>
   {% endif %}
 {% endfor %}
