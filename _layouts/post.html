@@ -5,7 +5,10 @@ layout: default
 <span class="post-meta">{{ page.date | date_to_string }} • {{ page.author }}</span>
 {{ content }}
 <hr>
-<a class="post-button" href="javascript:history.back()">Back</a>
+<div class="post-footer">
+  <a class="post-button" href="javascript:history.back()">Back</a>
+</div>
+
 
 <script src="https://utteranc.es/client.js"
         repo="{{ include.repo | default: site.utterances.repo | default: site.github.repository_nwo }}"
