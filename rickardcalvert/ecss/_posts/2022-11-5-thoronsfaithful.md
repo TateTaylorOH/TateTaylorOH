@@ -87,7 +87,7 @@ It had been quite the adventure. I regret that I wasn't able to make it to Theod
 
 ---
 
-{{ page.date | date_to_string }} • {{ page.author }}
+<b>{{ page.date | date_to_string }} • {{ page.author }}<b>
 
 <font size="4"><p style="text-align:left;">
     <a href="https://tatetayloroh.github.io/TateTaylorOH/rickardcalvert/ecss/2022/10/29/sheogorathsfaithful.html" class="button-link">Previous</a>
