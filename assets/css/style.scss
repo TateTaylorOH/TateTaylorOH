@@ -368,28 +368,7 @@ details > summary {
   text-decoration: underline;
 }
 
-a.button-link:link,
-a.button-link:visited {
-  background: linear-gradient(to bottom, #a64528, #D58546);
-  color: white;
-  padding: 14px 25px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  border-radius: 6px;
-  width: 100px;
-}
-
-a.button-link:hover,
-a.button-link:active {
-  background: linear-gradient(to bottom, #cc6a3a, #e5ac80);
-}
-
-a.button-link {
-  white-space: nowrap;
-}
-
-.post-button {
+.button-link {
   background: linear-gradient(to bottom, #a64528, #D58546);
   color: white;
   padding: 6px 14px;
@@ -401,9 +380,13 @@ a.button-link {
   vertical-align: middle;
 }
 
-a.post-button:hover,
-a.post-button:active {
+a.button-link:hover,
+a.button-link:active {
   background: linear-gradient(to bottom, #cc6a3a, #e5ac80);
+}
+
+a.button-link {
+  white-space: nowrap;
 }
 
 .post-footer {
