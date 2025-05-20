@@ -18,7 +18,7 @@ description: Follow the journey of Rickard Calvert, adventurer extraordinaire!
       <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
     </h3>
     <span class="post-meta">
-      {{ post.date | date_to_string }} • {{ post.author }}
+      <b>{{ post.date | date_to_string }} • {{ post.author }}</b>
     </span>
     {{ post.excerpt | replace: '<img', '<x-img' | replace: '<hr', '<x-hr' | truncate: 350 }}
   {% endfor %}
