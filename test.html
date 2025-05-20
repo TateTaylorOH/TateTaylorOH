@@ -1,0 +1,15 @@
+---
+layout: default
+title: Home
+---
+{% for post in site.posts %}
+  {% if post.categories contains "blog" %}
+    <h2>{{ post.title }}</h2>
+    {{ post.content }}
+    <hr>
+    <span class="post-meta">
+      {{ post.date | date_to_string }} • {{ post.author }}
+      • <a class="post-link" href="{{ post.url | prepend: site.baseurl }}" class="button-link">Comments</a>
+    </span>
+  {% endif %}
+{% endfor %}
