@@ -7,7 +7,7 @@ layout: default
 <div class="post-footer">
   <a class="post-button" href="javascript:history.back()">Back</a>
 </div>
-<b><span class="post-meta">{{ page.date | date_to_string }} • {{ page.author }}</span></b>
+<p><b><span class="post-meta">{{ page.date | date_to_string }} • {{ page.author }}</span></b></p>
 
 <script src="https://utteranc.es/client.js"
         repo="{{ include.repo | default: site.utterances.repo | default: site.github.repository_nwo }}"
