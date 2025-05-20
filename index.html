@@ -5,7 +5,7 @@ title: Home
 {% for post in site.posts %}
   {% if post.categories contains "blog" %}
     <h2>{{ post.title }}</h2>
-    {{ post.date | date_to_string }} • {{ post.author }}
+    <b>{{ post.date | date_to_string }} • {{ post.author }}</b>
     {{ post.content }}
     <hr>
     <span class="post-meta">
