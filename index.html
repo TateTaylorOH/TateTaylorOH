@@ -4,7 +4,6 @@ title: Home
 ---
 {% for post in site.posts %}
   {% if post.categories contains "blog" %}
-    <b>{{ post.date | date_to_string }} • {{ post.author }}</b>
     <h2>{{ post.title }}</h2>
     {{ post.content }}
     <hr>
@@ -12,7 +11,7 @@ title: Home
       <div class="post-footer">
         <a class="post-button" href="{{ post.url | prepend: site.baseurl }}">Comments</a>
       </div>
-      </p>
+      <b>{{ post.date | date_to_string }} • {{ post.author }}</b>
     </span>
   {% endif %}
 {% endfor %}
