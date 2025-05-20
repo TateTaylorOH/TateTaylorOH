@@ -388,3 +388,21 @@ a.button-link:active {
 a.button-link {
   white-space: nowrap;
 }
+
+.post-button {
+  background: linear-gradient(to bottom, #a64528, #D58546);
+  color: white;
+  padding: 6px 14px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 6px;
+  font-size: 14px;
+  margin-left: 20px;
+  vertical-align: middle;
+}
+
+a.post-button:hover,
+a.post-button:active {
+  background: linear-gradient(to bottom, #cc6a3a, #e5ac80);
+}
