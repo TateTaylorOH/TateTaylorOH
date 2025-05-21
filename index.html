@@ -12,7 +12,7 @@ title: Home
       <div class="post-card-content">
         <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
         <p class="post-meta">{{ post.date | date_to_string }} • {{ post.author }}</p>
-        <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
+        <p>{{ post.excerpt | strip_html | truncate: 250 }}</p>
         <a class="read-more-link" href="{{ post.url | relative_url }}">Read more →</a>
       </div>
     </div>
