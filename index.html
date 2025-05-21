@@ -19,15 +19,15 @@ title: Home
   {% endif %}
 {% endfor %}
 
-<p style="text-align:left;">
-  <div class="pagination">
+<div class="pagination">
+  <div class="newer">
     {% if paginator.previous_page %}
       <a class="button-link" href="{{ paginator.previous_page_path | relative_url }}">← Newer Posts</a>
     {% endif %}
-  <span style="float:right;">
-    {% if paginator.next_page %}
-    <a class="button-link" href="{{ paginator.next_page_path | relative_url }}">Older Posts →</a>
-    {% endif %}
-  </span>
   </div>
-</p>
+  <div class="older">
+    {% if paginator.next_page %}
+      <a class="button-link" href="{{ paginator.next_page_path | relative_url }}">Older Posts →</a>
+    {% endif %}
+  </div>
+</div>
