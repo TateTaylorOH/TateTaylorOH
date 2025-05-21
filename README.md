@@ -1,5 +1,5 @@
 ---
-layout: content
+layout: default
 title: About Me
 show_comments: false
 show_meta: false
