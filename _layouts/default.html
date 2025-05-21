@@ -79,35 +79,6 @@
                  src="https://raw.githubusercontent.com/TateTaylorOH/TateTaylorOH/refs/heads/main/assets/images/branding/WebsiteBanner.png" />
           </h1>
         </header>
-
-        <article id="content" class="{% if page.layout == 'post' %}post{% else %}page{% endif %}">
-          {% if page.title %}
-            <h1>{{ page.title }}</h1>
-          {% endif %}
-
-          <div class="{% if page.layout == 'post' %}post-content{% else %}page-content{% endif %}">
-            {{ content }}
-          </div>
-
-          {% if page.layout == 'post' and page.author %}
-            <hr>
-            <div class="post-meta">
-              <span>{{ page.date | date_to_string }} • {{ page.author }}</span>
-              <button class="button-link" onclick="copyToClipboard('{{ page.url | absolute_url }}')">Share</button>
-            </div>
-          {% endif %}
-
-          {% include utterances.html %}
-
-          {% if page.layout == 'post' %}
-            <div class="post-footer-nav">
-              <a href="{{ '/' | relative_url }}" class="read-more-link">← Back to Blog</a>
-            </div>
-          {% endif %}
-        </article>
-      </main>
-    </div>
-
     <footer id="site-footer">
       <div class="footer-content">
         <nav>
