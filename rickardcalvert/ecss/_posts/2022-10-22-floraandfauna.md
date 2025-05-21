@@ -3,6 +3,7 @@ layout: page
 title: Flora and Fauna
 author: Tate Tayor, edited by Catir and VictorF
 order: 3
+image: https://staticdelivery.nexusmods.com/images/1704/61720101-1666506172.png
 ---
 ---
 
