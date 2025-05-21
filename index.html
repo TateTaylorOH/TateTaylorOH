@@ -11,7 +11,7 @@ title: Home
       <p style="text-align:left;">
         <b>{{ post.date | date_to_string }} • {{ post.author }}</b>
         <span style="float:right;">
-          <a class="button-link" onclick="copyToClipboard('{{ post.url | absolute_url }}')">Share</a> • 
+          <a class="button-link" onclick="copyToClipboard('{{ post.url | absolute_url }}')">Share</a> <font size="5"> • </font>
           <a class="button-link" href="{{ post.url | relative_url }}">Comments</a>
         </span>
       </p>
