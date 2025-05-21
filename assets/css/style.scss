@@ -387,12 +387,10 @@ details > summary {
   vertical-align: middle;
   width: 100px;
   white-space: nowrap;
-  font-weight: normal;
 
   &:hover,
   &:active {
     background: linear-gradient(to bottom, #cc6a3a, #e5ac80);
-    text-decoration: none !important;
   }
 }
 
@@ -557,13 +555,8 @@ details > summary {
   justify-content: space-between;
 
   a {
-    font-weight: bold;
     color: #fff;
     text-decoration: none;
-
-    &:hover {
-      text-decoration: underline;
-    }
   }
 
   .newer {
