@@ -2,6 +2,7 @@
 layout: post
 title: Gladys, Merlin, and D.E.A.D. Updates
 author: Tate Taylor
+image: https://staticdelivery.nexusmods.com/mods/1704/images/50164/50164-1725820725-1905842977.png
 ---
 ![](https://staticdelivery.nexusmods.com/mods/1704/images/50164/50164-1725820725-1905842977.png)
 
