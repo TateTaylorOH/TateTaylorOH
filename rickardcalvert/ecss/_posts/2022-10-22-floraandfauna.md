@@ -116,7 +116,7 @@ I hope all that have read this guide have come out of it knowing more than when 
 
 ---
 
-<b>{{ page.date | date_to_string }} • {{ page.author }}<b>
+<font size="4"><b>{{ page.date | date_to_string }} • {{ page.author }}<b></font>
 
 <font size="4"><p style="text-align:left;">
     <a href="https://tatetayloroh.github.io/TateTaylorOH/rickardcalvert/ecss/2022/10/15/dementia.html" class="button-link">Previous</a>
