@@ -2,19 +2,29 @@
 layout: default
 title: Home
 ---
-{% for post in site.posts %}
+
+{% for post in paginator.posts %}
   {% if post.categories contains "blog" %}
-    <h1>{{ post.title }}</h1>
-    {{ post.content }}
-    <hr>
-    <span class="post-meta">
-      <p style="text-align:left;">
-        <font size=4>{{ post.date | date_to_string }} • {{ post.author }}</font>
-        <span style="float:right;">
-          <a class="button-link" onclick="copyToClipboard('{{ post.url | absolute_url }}')">Share</a> 
-          <a class="button-link" href="{{ post.url | relative_url }}">Comments</a>
-        </span>
-      </p>
-    </span>
+    <div class="post-card">
+      {% if post.image %}
+        <img class="post-image" src="{{ post.image | relative_url }}" alt="{{ post.title }}">
+      {% endif %}
+      <div class="post-card-content">
+        <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+        <p class="post-meta">{{ post.date | date_to_string }} • {{ post.author }}</p>
+        <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
+        <a class="read-more-link" href="{{ post.url | relative_url }}">Read more →</a>
+      </div>
+    </div>
   {% endif %}
 {% endfor %}
+
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a class="button-link" href="{{ paginator.previous_page_path | relative_url }}">← Newer Posts</a>
+  {% endif %}
+
+  {% if paginator.next_page %}
+    <a class="button-link" href="{{ paginator.next_page_path | relative_url }}">Older Posts →</a>
+  {% endif %}
+</div>
