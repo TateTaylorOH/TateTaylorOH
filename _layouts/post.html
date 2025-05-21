@@ -8,7 +8,8 @@ layout: default
   <p style="text-align:left;">
     <b>{{ page.date | date_to_string }} • {{ page.author }}</b>
     <span style="float:right;">
-      <a class="button-link" href="javascript:history.back()">Back</a>
+      <button class="button-link" onclick="copyToClipboard('{{ page.url | absolute_url }}')">Share</button>
+      <button class="button-link" href="javascript:history.back()">Back</button>
     </span>
   </p>
 </span>
