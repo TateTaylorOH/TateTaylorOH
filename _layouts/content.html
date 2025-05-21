@@ -1,0 +1,44 @@
+---
+layout: default
+---
+<article class="{{ page.layout }}">
+  {% if page.title %}
+    <h1>{{ page.title }}</h1>
+  {% endif %}
+
+  <div class="{{ page.layout }}-content">
+    {{ content }}
+  </div>
+
+  {% if page.show_meta %}
+    <hr>
+    <div class="{{ page.layout }}-meta">
+      <span>{{ page.date | date_to_string }}{% if page.author %} • {{ page.author }}{% endif %}</span>
+      <button class="button-link" onclick="copyToClipboard('{{ page.url | absolute_url }}')">Share</button>
+    </div>
+  {% endif %}
+
+  {% if page.show_comments %}
+    <hr>
+    <div class="{{ page.layout }}-comments">
+      <script src="https://utteranc.es/client.js"
+              repo="{{ site.utterances.repo | default: site.github.repository_nwo }}"
+              issue-term="{{ page.title }}"
+              theme="{{ site.utterances.theme | default: 'github-light' }}"
+              crossorigin="anonymous"
+              async></script>
+      <noscript>
+        <p>
+          This page requires JavaScript to function. You can still read or leave comments
+          <a href="https://github.com/TateTaylorOH/TateTaylorOH/issues/">on GitHub</a>.
+        </p>
+      </noscript>
+    </div>
+  {% endif %}
+
+  {% if page.layout == "post" %}
+    <div class="post-footer-nav">
+      <a href="{{ '/' | relative_url }}" class="read-more-link">← Back to Blog</a>
+    </div>
+  {% endif %}
+</article>
