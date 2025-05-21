@@ -500,3 +500,18 @@ a.button-link {
 .button-link:hover {
   background: #a35325;
 }
+
+.read-more-link {
+  display: inline-block;
+  margin-top: 0.5rem;
+  color: #c46e3a;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 0.95rem;
+  transition: color 0.2s ease;
+}
+
+.read-more-link:hover {
+  color: #a35325;
+}
+
