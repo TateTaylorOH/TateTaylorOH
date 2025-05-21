@@ -514,3 +514,23 @@ a.button-link {
 .pagination a:hover {
   text-decoration: underline;
 }
+
+.pagination {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 2rem;
+}
+
+.pagination .newer,
+.pagination .older {
+  flex: 1;
+}
+
+.pagination .newer {
+  text-align: left;
+}
+
+.pagination .older {
+  text-align: right;
+}
+
