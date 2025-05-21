@@ -1,10 +1,15 @@
-<script src="https://utteranc.es/client.js"
-        repo="{{ include.repo | default: site.utterances.repo | default: site.github.repository_nwo }}"
-        issue-term="{{ include.issue-term | default: site.utterances.issue-term | default: 'pathname' }}"
-        {%- if include.label or site.utterances.label -%}
-        label="Comment"
-        {%- endif -%}
-        theme="{{ include.theme | default: site.utterances.theme | default: 'github-light' }}"
-        crossorigin="anonymous"
-        async>
-</script>
+{% unless page.no_comments %}
+  <hr>
+  <div class="comments">
+    <script src="https://utteranc.es/client.js"
+            repo="{{ include.repo | default: site.utterances.repo | default: site.github.repository_nwo }}"
+            issue-term="{{ page.title }}"
+            theme="{{ include.theme | default: site.utterances.theme | default: 'github-light' }}"
+            crossorigin="anonymous"
+            async>
+    </script>
+    <noscript>
+      <p>This page requires JavaScript to function. However, you can still view or leave comments <a href="https://github.com/TateTaylorOH/TateTaylorOH/issues/">on GitHub</a>.</p>
+    </noscript>
+  </div>
+{% endunless %}
