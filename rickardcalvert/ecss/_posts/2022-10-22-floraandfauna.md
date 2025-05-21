@@ -1,12 +1,10 @@
 ---
-layout: page
+layout: post
 title: Flora and Fauna
 author: Tate Tayor, edited by Catir and VictorF
 order: 3
 image: https://staticdelivery.nexusmods.com/images/1704/61720101-1666506172.png
 ---
----
-
 ![](https://staticdelivery.nexusmods.com/images/1704/61720101-1666506172.png)
 
 <center><font size="6">The Most Curious<br>  
@@ -114,19 +112,3 @@ I hope all that have read this guide have come out of it knowing more than when 
 ![](https://raw.githubusercontent.com/TateTaylorOH/TateTaylorOH/main/assets/images/ECSS/FloraFauna10.png)
 
 *Now, with his research notes completed, tune in next week to see what happens next in* **[RICKARD CALVERT IN THE ISLE OF MADNESS: PART IV - SHEOGORATH’S FAITHFUL](https://tatetayloroh.github.io/TateTaylorOH/rickardcalvert/ecss/2022/10/29/sheogorathsfaithful.html)**, *premiering Saturday at 1:00 PM EDT!*
-
----
-
-<p style="text-align:left;">
-  <font size="4">{{ page.date | date_to_string }} • {{ page.author }}</font>
-  <span style="float:right;">
-    <button class="button-link" onclick="copyToClipboard('{{ page.url | absolute_url }}')">Share</button> 
-  </span>
-</p>
-
-<font size="4"><p style="text-align:left;">
-    <a href="https://tatetayloroh.github.io/TateTaylorOH/rickardcalvert/ecss/2022/10/15/dementia.html" class="button-link">Previous</a>
-    <span style="float:right;">
-        <a href="https://tatetayloroh.github.io/TateTaylorOH/rickardcalvert/ecss/2022/10/29/sheogorathsfaithful.html" class="button-link">Next</a>
-    </span>
-</p></font>
