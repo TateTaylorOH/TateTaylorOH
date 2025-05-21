@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Sheogorath's Faithful
 author: Tate Tayor, edited by Catir and VictorF
 order: 4
