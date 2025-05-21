@@ -497,6 +497,40 @@ details > summary {
   }
 }
 
+.post {
+  background-color: #1e1e1e;
+  border-radius: 12px;
+  padding: 2rem;
+  margin-bottom: 6rem;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
+
+  h1 {
+    margin-bottom: 1rem;
+  }
+
+  .post-content {
+    margin-bottom: 2rem;
+  }
+
+  .post-meta {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 0.9rem;
+    color: #aaa;
+    margin-top: 1rem;
+
+    button.button-link {
+      margin-left: auto;
+    }
+  }
+
+  .post-footer-nav {
+    margin-top: 3rem;
+    text-align: left;
+  }
+}
+
 // =======================================================
 // Pagination
 // =======================================================
