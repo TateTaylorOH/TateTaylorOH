@@ -448,3 +448,55 @@ a.button-link {
 .read-more:hover {
   text-decoration: underline;
 }
+
+.post-list {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.post-card {
+  background-color: #1e1e1e;
+  border-radius: 12px;
+  padding: 1.5rem;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.3);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+
+.post-image {
+  width: 150px;
+  height: auto;
+  margin-right: 1rem;
+  border-radius: 8px;
+}
+
+.post-card-content {
+  flex: 1;
+}
+
+.post-meta {
+  font-size: 0.9rem;
+  color: #aaa;
+}
+
+.post-buttons {
+  margin-top: 0.5rem;
+}
+
+.button-link {
+  padding: 6px 12px;
+  margin-left: 8px;
+  background: #c46e3a;
+  border: none;
+  border-radius: 6px;
+  color: #fff;
+  text-decoration: none;
+  font-size: 0.9rem;
+  cursor: pointer;
+}
+
+.button-link:hover {
+  background: #a35325;
+}
