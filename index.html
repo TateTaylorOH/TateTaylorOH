@@ -13,7 +13,7 @@ title: Home
         <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
         <p class="post-meta">{{ post.date | date_to_string }} • {{ post.author }}</p>
         <p>{{ post.excerpt | strip_html | truncate: 250 }}</p>
-        <a class="read-more-link" href="{{ post.url | relative_url }}">Read more →</a>
+        <a class="read-more" href="{{ post.url | relative_url }}">Read more →</a>
       </div>
     </div>
   {% endif %}
