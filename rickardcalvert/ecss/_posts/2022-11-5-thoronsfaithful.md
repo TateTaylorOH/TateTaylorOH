@@ -89,7 +89,7 @@ It had been quite the adventure. I regret that I wasn't able to make it to Theod
 <p style="text-align:left;">
   <font size="4">{{ page.date | date_to_string }} • {{ page.author }}</font>
   <span style="float:right;">
-    <a class="button-link" onclick="copyToClipboard('{{ page.url | absolute_url }}')">Share</a> 
+    <button class="button-link" onclick="copyToClipboard('{{ page.url | absolute_url }}')">Share</button> 
   </span>
 </p>
 
