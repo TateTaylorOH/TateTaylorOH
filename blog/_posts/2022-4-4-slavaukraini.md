@@ -2,6 +2,7 @@
 layout: post
 title: Slava Ukraini!
 author: Tate Taylor
+image: https://c10.patreonusercontent.com/4/patreon-media/p/post/64702596/ebe77579eb3c4955a1b1d9ccb8048cd1/eyJxIjoxMDAsIndlYnAiOjB9/1.jpg?token-hash=8akTwozTFjTdqEPYdR3QSIGFIwWEnDG2-QMzNsWsU2A%3D&token-time=1748649600
 ---
 ![](https://c10.patreonusercontent.com/4/patreon-media/p/post/64702596/ebe77579eb3c4955a1b1d9ccb8048cd1/eyJxIjoxMDAsIndlYnAiOjB9/1.jpg?token-hash=8akTwozTFjTdqEPYdR3QSIGFIwWEnDG2-QMzNsWsU2A%3D&token-time=1748649600)
 
