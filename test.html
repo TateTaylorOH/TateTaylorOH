@@ -1,1 +1,15 @@
-
+<div class="post-preview-grid">
+  {% for post in sorted_posts %}
+    <div class="post-preview-card">
+      {% if post.image %}
+        <img src="{{ post.image }}" alt="{{ post.title }}" class="post-preview-image">
+      {% endif %}
+      <div class="post-preview-content">
+        <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+        <p class="post-preview-meta">{{ post.date | date_to_string }} • {{ post.author }}</p>
+        <p>{{ post.excerpt | strip_html | truncate: 250 }}</p>
+        <a href="{{ post.url | prepend: site.baseurl }}" class="read-more">Read more →</a>
+      </div>
+    </div>
+  {% endfor %}
+</div>
