@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Home
-show_comments: false
-show_meta: false
 ---
+
 {% for post in paginator.posts %}
   {% if post.categories contains "blog" %}
     <div class="post-card">
@@ -20,15 +19,15 @@ show_meta: false
   {% endif %}
 {% endfor %}
 
-<div class="pagination">
-  <div class="newer">
+<p style="text-align:left;">
+  <div class="pagination">
     {% if paginator.previous_page %}
       <a class="button-link" href="{{ paginator.previous_page_path | relative_url }}">← Newer Posts</a>
     {% endif %}
-  </div>
-  <div class="older">
+  <span style="float:right;">
     {% if paginator.next_page %}
-      <a class="button-link" href="{{ paginator.next_page_path | relative_url }}">Older Posts →</a>
+    <a class="button-link" href="{{ paginator.next_page_path | relative_url }}">Older Posts →</a>
     {% endif %}
+  </span>
   </div>
-</div>
+</p>

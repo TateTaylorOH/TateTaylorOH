@@ -6,7 +6,7 @@ excerpt_separator: "<!--more-->"
 show_downloads: true
 plugins:
   - jekyll-paginate
-paginate: 10  # Number of posts per page
+paginate: 5  # Number of posts per page
 paginate_path: "/page:num"  # Path for pagination
 wabbajack:
   wabbajack_url: https://www.wabbajack.org/#/
