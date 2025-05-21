@@ -2,6 +2,7 @@
 layout: post
 title: Fetch Showcase
 author: Tate Taylor
+image: https://i9.ytimg.com/vi/FEMLn0v32po/mqdefault.jpg?sqp=CMzgt8EG-oaymwEmCMACELQB8quKqQMa8AEB-AH-E4ACoAuKAgwIABABGGMgZShKMA8=&rs=AOn4CLAq-FOE7zJgpfK7G7Ylp_Qa4yW6Nw
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FEMLn0v32po?si=hTYTH5dK2zvv4eUW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
