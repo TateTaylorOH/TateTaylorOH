@@ -2,6 +2,7 @@
 layout: post
 title: Red Cross Ukrainian Relief Effort
 author: Tate Taylor
+image: https://c10.patreonusercontent.com/4/patreon-media/p/post/63351331/f5e6231af5af45199c088195c945d377/eyJxIjoxMDAsIndlYnAiOjB9/1.jpg?token-hash=t9zG4x4UaCsnfbN_FQJXB_ZXo8uq-plxc8UuwPssthI%3D&token-time=1748649600
 ---
 ![](https://c10.patreonusercontent.com/4/patreon-media/p/post/63351331/f5e6231af5af45199c088195c945d377/eyJxIjoxMDAsIndlYnAiOjB9/1.jpg?token-hash=t9zG4x4UaCsnfbN_FQJXB_ZXo8uq-plxc8UuwPssthI%3D&token-time=1748649600)
 
