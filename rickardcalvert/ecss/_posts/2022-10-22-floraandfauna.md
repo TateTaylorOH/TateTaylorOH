@@ -116,14 +116,12 @@ I hope all that have read this guide have come out of it knowing more than when 
 
 ---
 
-<span class="post-meta">
-  <p style="text-align:left;">
-    <font size="4">{{ page.date | date_to_string }} • {{ page.author }}</font>
-    <span style="float:right;">
-      <a class="button-link" onclick="copyToClipboard('{{ page.url | absolute_url }}')">Share</a> 
-    </span>
-  </p>
-</span>
+<p style="text-align:left;">
+  <font size="4">{{ page.date | date_to_string }} • {{ page.author }}</font>
+  <span style="float:right;">
+    <a class="button-link" onclick="copyToClipboard('{{ page.url | absolute_url }}')">Share</a> 
+  </span>
+</p>
 
 <font size="4"><p style="text-align:left;">
     <a href="https://tatetayloroh.github.io/TateTaylorOH/rickardcalvert/ecss/2022/10/15/dementia.html" class="button-link">Previous</a>
