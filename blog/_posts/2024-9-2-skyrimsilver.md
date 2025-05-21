@@ -2,6 +2,7 @@
 layout: post
 title: Skyrim Silver Released
 author: Tate Taylor
+image: https://staticdelivery.nexusmods.com/mods/1704/images/127897/127897-1725142696-867347056.png
 ---
 ![](https://staticdelivery.nexusmods.com/mods/1704/images/127897/127897-1725142696-867347056.png)
 
