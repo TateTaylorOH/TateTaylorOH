@@ -86,7 +86,14 @@ It had been quite the adventure. I regret that I wasn't able to make it to Theod
 
 ---
 
-<font size="4"><b>{{ page.date | date_to_string }} • {{ page.author }}</b></font>
+<span class="post-meta">
+  <p style="text-align:left;">
+    <font size="4">{{ page.date | date_to_string }} • {{ page.author }}</font>
+    <span style="float:right;">
+      <a class="button-link" onclick="copyToClipboard('{{ page.url | absolute_url }}')">Share</a> 
+    </span>
+  </p>
+</span>
 
 <font size="4"><p style="text-align:left;">
     <a href="https://tatetayloroh.github.io/TateTaylorOH/rickardcalvert/ecss/2022/10/29/sheogorathsfaithful.html" class="button-link">Previous</a>
