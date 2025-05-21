@@ -494,14 +494,14 @@ details > summary {
 .read-more-link {
   display: inline-block;
   margin-top: 0.5rem;
-  color: #c46e3a;
+  color: #ffa858;
   text-decoration: none;
   font-weight: bold;
   font-size: 0.95rem;
   transition: color 0.2s ease;
 
   &:hover {
-    color: #a35325;
+    text-decoration: underline;
   }
 }
 
