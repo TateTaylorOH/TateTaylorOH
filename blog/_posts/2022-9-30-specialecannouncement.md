@@ -2,7 +2,7 @@
 layout: post
 title: Special Announcement from Extended Cut!
 author: Tate Taylor
-image: https://i.ytimg.com/an_webp/neyrmlEtxNo/mqdefault_6s.webp?du=3000&sqp=CKDAt8EG&rs=AOn4CLCX5VLTlG1rF54BTAEgvHd7hVZ-nw
+image: https://i.ytimg.com/vi/neyrmlEtxNo/hqdefault.jpg?sqp=-oaymwEnCPYBEIoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBL-BNKIplxjreFiQlQmVCMPRDbGQ
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/neyrmlEtxNo?si=eiO7QZlacEORxdyh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
