@@ -104,7 +104,7 @@ I jumped as I heard a voice from inside the thicket directly in front of me.
 <p style="text-align:left;">
   <font size="4">{{ page.date | date_to_string }} • {{ page.author }}</font>
   <span style="float:right;">
-    <a class="button-link" onclick="copyToClipboard('{{ page.url | absolute_url }}')">Share</a> 
+    <button class="button-link" onclick="copyToClipboard('{{ page.url | absolute_url }}')">Share</button> 
   </span>
 </p>
 
