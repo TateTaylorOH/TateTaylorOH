@@ -101,14 +101,12 @@ I jumped as I heard a voice from inside the thicket directly in front of me.
 
 ---
 
-<span class="post-meta">
-  <p style="text-align:left;">
-    <font size="4">{{ page.date | date_to_string }} • {{ page.author }}</font>
-    <span style="float:right;">
-      <a class="button-link" onclick="copyToClipboard('{{ page.url | absolute_url }}')">Share</a> 
-    </span>
-  </p>
-</span>
+<p style="text-align:left;">
+  <font size="4">{{ page.date | date_to_string }} • {{ page.author }}</font>
+  <span style="float:right;">
+    <a class="button-link" onclick="copyToClipboard('{{ page.url | absolute_url }}')">Share</a> 
+  </span>
+</p>
 
 <font size="4"><p style="text-align:left;">
     <a href="https://tatetayloroh.github.io/TateTaylorOH/rickardcalvert/ecss/2022/10/22/floraandfauna.html" class="button-link">Previous</a>
