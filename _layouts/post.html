@@ -6,7 +6,7 @@ layout: default
 <hr>
 <span class="post-meta">
   <p style="text-align:left;">
-    <font size="4"><b>{{ page.date | date_to_string }} • {{ page.author }}</b></font>
+    <font size="4">{{ page.date | date_to_string }} • {{ page.author }}</font>
     <span style="float:right;">
       <a class="button-link" onclick="copyToClipboard('{{ page.url | absolute_url }}')">Share</a> 
       <a class="button-link" href="javascript:history.back()">Back</a>
