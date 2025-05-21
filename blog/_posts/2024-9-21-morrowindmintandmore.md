@@ -2,6 +2,7 @@
 layout: post
 title: Morrowind Mint, Elven Supremacy, and more!
 author: Tate Taylor
+image: https://staticdelivery.nexusmods.com/mods/1704/images/129387/129387-1726807056-2011990546.png
 ---
 ![](https://staticdelivery.nexusmods.com/mods/1704/images/129387/129387-1726807056-2011990546.png)
 
