@@ -13,10 +13,7 @@ title: Home
           <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
           <p class="post-meta">{{ post.date | date_to_string }} • {{ post.author }}</p>
           <p>{{ post.excerpt | strip_html | truncate: 200 }}</p>
-          <div class="post-buttons">
-            <a class="button-link" onclick="copyToClipboard('{{ post.url | absolute_url }}')">Share</a>
-            <a class="button-link" href="{{ post.url | relative_url }}">Comments</a>
-          </div>
+          <p><a class="read-more-link" href="{{ post.url | relative_url }}">Read more →</a></p>
         </div>
       </div>
     {% endif %}
