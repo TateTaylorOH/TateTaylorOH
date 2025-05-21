@@ -2,6 +2,7 @@
 layout: post
 title: Skyrim Silver 1.0.3 Update
 author: Tate Taylor
+image: https://raw.githubusercontent.com/TateTaylorOH/TateTaylorOH/master/assets/images/CurrencySwapper/BarterWithUlfrics.png
 ---
 ![](https://raw.githubusercontent.com/TateTaylorOH/TateTaylorOH/master/assets/images/CurrencySwapper/BarterWithUlfrics.png)
 
