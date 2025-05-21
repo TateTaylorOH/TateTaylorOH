@@ -9,7 +9,6 @@ description: Follow the journey of Rickard Calvert, adventurer extraordinaire!
 <h2>Rickard Calvert in the Isles of Madness</h2>
 <img src="https://raw.githubusercontent.com/TateTaylorOH/TateTaylorOH/main/assets/images/ECSS/Mania04.png">
 <p>Follow Rickard as he ventures into the enigmatic Shivering Isles.</p>
-<ul>
   {% assign filtered_rickardcalvert = site.posts | where_exp: "post", "post.categories contains 'rickardcalvert'" %}
   {% assign filtered_posts = filtered_rickardcalvert | where_exp: "post", "post.categories contains 'ecss'" %}
   {% assign sorted_posts = filtered_posts | sort: "order" %}
