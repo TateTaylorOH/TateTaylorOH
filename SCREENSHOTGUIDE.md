@@ -1,8 +1,8 @@
 ---
-layout: content
+layout: default
 title: Screenshot Guide
 description: Basic tips and tricks for better screenshotting.
-show_comments: false
+show_comments: true
 show_meta: false
 ---
 # Basics of Screenshotting (for Mod Pages and Beyond)
