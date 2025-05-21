@@ -514,3 +514,19 @@ a.button-link {
 .read-more-link:hover {
   color: #a35325;
 }
+
+.pagination {
+  margin-top: 2rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+.pagination a {
+  font-weight: bold;
+  color: #c46e3a;
+  text-decoration: none;
+}
+
+.pagination a:hover {
+  text-decoration: underline;
+}
