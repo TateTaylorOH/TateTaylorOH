@@ -9,7 +9,7 @@ title: Home
     <hr>
     <span class="post-meta">
       <p style="text-align:left;">
-        <b>{{ post.date | date_to_string }} • {{ post.author }}</b>
+        <font-size=4><b>{{ post.date | date_to_string }} • {{ post.author }}</b></font-size>
         <span style="float:right;">
           <a class="button-link" onclick="copyToClipboard('{{ post.url | absolute_url }}')">Share</a> 
           <a class="button-link" href="{{ post.url | relative_url }}">Comments</a>
