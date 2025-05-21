@@ -89,8 +89,8 @@ It had been quite the adventure. I regret that I wasn't able to make it to Theod
 <b>{{ page.date | date_to_string }} • {{ page.author }}<b>
 
 <font size="4"><p style="text-align:left;">
-    <a href="https://tatetayloroh.github.io/TateTaylorOH/rickardcalvert/ecss/2022/10/29/sheogorathsfaithful.html" class="button-link">Previous</a>
+    <button href="https://tatetayloroh.github.io/TateTaylorOH/rickardcalvert/ecss/2022/10/29/sheogorathsfaithful.html" class="button-link">Previous</button>
     <span style="float:right;">
-        <a href="https://www.nexusmods.com/skyrimspecialedition/mods/72772" class="button-link">Next</a>
+        <button href="https://www.nexusmods.com/skyrimspecialedition/mods/72772" class="button-link">Next</button>
     </span>
 </p></font>
