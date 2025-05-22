@@ -528,24 +528,28 @@ details > summary {
 
 .post-list-item {
   display: flex;
-  align-items: stretch; 
   gap: 1rem;
   padding: 1rem;
   border: 1px solid #444;
   border-radius: 12px;
   background-color: #1e1e1e;
   box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
+  align-items: flex-start;
 }
 
-.post-list-item .post-image {
+.post-list-image {
+  flex: 0 0 auto;
   max-width: 200px;
-  height: auto; 
-  display: block;
-  border-radius: 8px;
-  flex-shrink: 0;
+
+  img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 8px;
+  }
 }
 
-.post-list-item .post-content {
+.post-preview-content {
   flex: 1;
   display: flex;
   flex-direction: column;
