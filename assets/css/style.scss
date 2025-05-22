@@ -535,38 +535,42 @@ details > summary {
   flex-direction: row;
   padding: 1rem;
   gap: 1rem;
-  align-items: flex-start;
+  align-items: center;
+}
 
-  .post-image {
-    width: 200px;
-    height: auto;
-    object-fit: cover;
-    border-radius: 8px;
-    flex-shrink: 0;
+.post-list-item .post-image {
+  width: 200px;
+  height: auto;
+  object-fit: cover;
+  border-radius: 8px;
+  flex-shrink: 0;
+  display: block;
+}
+
+.post-list-item .post-content {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  h2 {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
   }
 
-  .post-content {
-    flex: 1;
+  .post-meta {
+    font-size: 0.85rem;
+    color: #aaa;
+    margin-bottom: 0.5rem;
+  }
 
-    h2 {
-      margin-top: 0;
-      margin-bottom: 0.5rem;
-    }
+  p {
+    margin-bottom: 0.5rem;
+  }
 
-    .post-meta {
-      font-size: 0.85rem;
-      color: #aaa;
-      margin-bottom: 0.5rem;
-    }
-
-    p {
-      margin-bottom: 0.5rem;
-    }
-
-    .read-more {
-      margin-top: 0.75rem;
-      display: inline-block;
-    }
+  .read-more {
+    margin-top: 0.75rem;
+    display: inline-block;
   }
 }
 
