@@ -1,6 +1,7 @@
 ---
 layout: default
 title: About Me
+image: https://raw.githubusercontent.com/TateTaylorOH/TateTaylorOH/main/assets/images/branding/WebsiteBanner.png
 ---
 
 # About Me
