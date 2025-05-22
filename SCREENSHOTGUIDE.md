@@ -4,9 +4,9 @@ title: Screenshot Guide
 description: Basic tips and tricks for better screenshotting.
 ---
 # Basics of Screenshotting (for Mod Pages and Beyond)
-I use [Photo Mode](<https://www.nexusmods.com/skyrimspecialedition/mods/91701>) extensively. It has made getting good shots so much easier. Prior to its release I had to rely on a ton of console command and it was honestly kind of miserable.
+A while ago someone asked me about my process for taking screenshots. I wrote a length respone that has since been adapted into this guide. I hope that it is helpful to some people out there!
 
-So, the biggest thing, in my opinion is **framing**. A good photo will draw your eye to a specific point and you do that by subtlety putting the subject of your photo in a frame. This photo is a great example of that:
+The biggest thing, in my opinion is **framing**. A good photo will draw your eye to a specific point and you do that by subtlety putting the subject of your photo in a frame. This photo is a great example of that:
 
 ![](https://staticdelivery.nexusmods.com/mods/1704/images/129908/129908-1727062917-963809285.png)
 
@@ -55,6 +55,8 @@ Let's look at this image now:
 ![](https://staticdelivery.nexusmods.com/mods/1704/images/108759/108759-1704771491-894240032.png)
 
 The framing on this photo is a bit unusual. It isn't positioning something around the subject, but rather it is matching them. Look at how the subject's arm is outstretched, mimicking the shape of the rock formation behind it.
+
+I use [Photo Mode](<https://www.nexusmods.com/skyrimspecialedition/mods/91701>) extensively. It has made getting good shots so much easier. Prior to its release I had to rely on a ton of console command and it was honestly kind of miserable.
 
 For some less theoretical tips to use with Photo Mode:
 
