@@ -4,7 +4,7 @@ title: Screenshot Guide
 description: Basic tips and tricks for better screenshotting.
 ---
 # Basics of Screenshotting (for Mod Pages and Beyond)
-A while ago someone asked me about my process for taking screenshots. I wrote a length respone that has since been adapted into this guide. I hope that it is helpful to some people out there!
+A while ago someone asked me about my process for taking screenshots. I wrote a lengthy respone that has since been adapted into this guide. I hope that it is helpful to some people out there!
 
 The biggest thing, in my opinion is **framing**. A good photo will draw your eye to a specific point and you do that by subtlety putting the subject of your photo in a frame. This photo is a great example of that:
 
