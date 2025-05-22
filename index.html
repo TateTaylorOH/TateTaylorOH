@@ -5,7 +5,7 @@ title: Home
 <div class="post-list">
   {% for post in paginator.posts %}
     {% if post.categories contains "blog" %}
-      <div class="post-preview-card">
+      <div class="post-list-item">
         {% if post.image %}
           <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" class="post-preview-image">
         {% endif %}
