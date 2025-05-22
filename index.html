@@ -6,17 +6,19 @@ title: Home
 <div class="post-list">
   {% for post in paginator.posts %}
     {% if post.categories contains "blog" %}
-      <div class="post-list-item">
-        {% if post.image %}
-          <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" class="post-preview-image">
-        {% endif %}
-        <div class="post-preview-content">
-          <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
-          <p class="post-preview-meta">{{ post.date | date_to_string }} • {{ post.author }}</p>
-          <p>{{ post.excerpt | strip_html | truncate: 250 }}</p>
-          <a href="{{ post.url | relative_url }}" class="read-more">Read more →</a>
+    <div class="post-list-item">
+      {% if post.image %}
+        <div class="post-list-image">
+          <img src="{{ post.image | relative_url }}" alt="{{ post.title }}">
         </div>
+      {% endif %}
+      <div class="post-preview-content">
+        <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+        <p class="post-preview-meta">{{ post.date | date_to_string }} • {{ post.author }}</p>
+        <p>{{ post.excerpt | strip_html | truncate: 250 }}</p>
+        <a href="{{ post.url | relative_url }}" class="read-more">Read more →</a>
       </div>
+    </div>
     {% endif %}
   {% endfor %}
 </div>
