@@ -2,22 +2,23 @@
 layout: default
 title: Home
 ---
-
-{% for post in paginator.posts %}
-  {% if post.categories contains "blog" %}
-    <div class="post-card">
-      {% if post.image %}
-        <img class="post-image" src="{{ post.image | relative_url }}" alt="{{ post.title }}">
-      {% endif %}
-      <div class="post-card-content">
-        <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-        <p class="post-meta">{{ post.date | date_to_string }} • {{ post.author }}</p>
-        <p>{{ post.excerpt | strip_html | truncate: 250 }}</p>
-        <a class="read-more" href="{{ post.url | relative_url }}">Read more →</a>
+<div class="post-list">
+  {% for post in paginator.posts %}
+    {% if post.categories contains "blog" %}
+      <div class="post-preview-card">
+        {% if post.image %}
+          <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" class="post-preview-image">
+        {% endif %}
+        <div class="post-preview-content">
+          <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+          <p class="post-preview-meta">{{ post.date | date_to_string }} • {{ post.author }}</p>
+          <p>{{ post.excerpt | strip_html | truncate: 250 }}</p>
+          <a href="{{ post.url | relative_url }}" class="read-more">Read more →</a>
+        </div>
       </div>
-    </div>
-  {% endif %}
-{% endfor %}
+    {% endif %}
+  {% endfor %}
+</div>
 
 <div class="pagination">
   <div class="newer">
