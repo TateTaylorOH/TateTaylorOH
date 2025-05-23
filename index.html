@@ -14,8 +14,10 @@ image: https://raw.githubusercontent.com/TateTaylorOH/TateTaylorOH/main/assets/i
         </div>
       {% endif %}
       <div class="post-preview-content">
-        <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
-        <p class="post-preview-meta">{{ post.date | date_to_string }} • {{ post.author }}</p>
+        <div class="post-header">
+          <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+          <p class="post-preview-meta">{{ post.date | date_to_string }} • {{ post.author }}</p>
+        </div>
         <p>{{ post.excerpt | strip_html | truncate: 250 }}</p>
         <a href="{{ post.url | relative_url }}" class="read-more">Read more →</a>
       </div>
