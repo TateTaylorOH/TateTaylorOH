@@ -11,9 +11,9 @@ description: Follow the journey of Rickard Calvert, adventurer extraordinaire!
   {% assign filtered_rickardcalvert = site.posts | where_exp: "post", "post.categories contains 'rickardcalvert'" %}
   {% assign filtered_posts = filtered_rickardcalvert | where_exp: "post", "post.categories contains 'ecss'" %}
   {% assign sorted_posts = filtered_posts | sort: "order" %}
-  <div class="post-preview-grid">
+  <div class="post-list-item">
     {% for post in sorted_posts %}
-      <div class="post-preview-card">
+      <div class="post-preview-content">
         {% if post.image %}
           <img src="{{ post.image }}" alt="{{ post.title }}" class="post-preview-image">
         {% endif %}
