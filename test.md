@@ -4,7 +4,7 @@ title: Modcast Episode 2 - Staff Enchanting Plus
 author: Tate Taylor with SeaSparrow
 image: https://i.ytimg.com/vi/neyrmlEtxNo/hqdefault.jpg?sqp=-oaymwEnCOADEI4CSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCJMWbnle8r4uoiIIdN5L2ayS9Lrw
 ---
-<iframe width="560" height="315" src="https://youtu.be/pnPwkeLYkeU?si=UieB1SIpZj3EKvj8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/pnPwkeLYkeU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 This week I will be sitting down with SeaSparrow to discuss the design of Staff Enchanting Plus.
 
