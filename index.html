@@ -6,7 +6,7 @@ image: https://raw.githubusercontent.com/TateTaylorOH/TateTaylorOH/main/assets/i
 <h1>{{ page.title }}</h1>
 <div class="post-list">
   {% for post in paginator.posts %}
-    {% if post.categories contains "blog" %}
+    {% unless post.categories contains "rickardcalvert" %}
     <div class="post-list-item">
       {% if post.image %}
         <div class="post-list-image">
