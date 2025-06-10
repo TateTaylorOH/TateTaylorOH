@@ -548,8 +548,10 @@ details > summary {
     padding: 0;
 
     .post-header {
-      min-height: 3em; 
-      margin-bottom: 0.5rem;
+        min-height: 100px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
 
       .post-preview-meta {
         font-size: 0.875rem;
