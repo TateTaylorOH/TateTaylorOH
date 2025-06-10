@@ -26,6 +26,9 @@ image: https://staticdelivery.nexusmods.com/mods/1704/images/headers/52397_17254
         </div>
         <p>{{ post.excerpt | strip_html | truncate: 250 }}</p>
         <a href="{{ post.url | relative_url }}" class="read-more">Read more →</a>
+        <span style="float:right;">
+          <button class="button-link" onclick="copyToClipboard('{{ post.url | absolute_url }}')">Share</button>
+        </span>
       </div>
     </div>
   {% endfor %}
