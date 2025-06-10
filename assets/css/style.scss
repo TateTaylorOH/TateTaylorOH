@@ -548,10 +548,7 @@ details > summary {
     padding: 0;
 
     .post-header {
-        min-height: 100px;
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
+      margin-bottom: 0.5rem;
 
       .post-preview-meta {
         font-size: 0.875rem;
@@ -566,7 +563,7 @@ details > summary {
     }
 
     p {
-      margin: 0 0 0.75rem 0; 
+      margin: 0 0 0.75rem 0;
     }
 
     .read-more {
