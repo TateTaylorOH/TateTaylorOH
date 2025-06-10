@@ -2,9 +2,9 @@
 layout: post
 title: Slava Ukraini!
 author: Tate Taylor
-image: https://c10.patreonusercontent.com/4/patreon-media/p/post/64702596/ebe77579eb3c4955a1b1d9ccb8048cd1/eyJxIjoxMDAsIndlYnAiOjB9/1.jpg?token-hash=8akTwozTFjTdqEPYdR3QSIGFIwWEnDG2-QMzNsWsU2A%3D&token-time=1748649600
+image: https://raw.githubusercontent.com/TateTaylorOH/TateTaylorOH/refs/heads/main/assets/images/SlavaUkraini.jpg
 ---
-![](https://c10.patreonusercontent.com/4/patreon-media/p/post/64702596/ebe77579eb3c4955a1b1d9ccb8048cd1/eyJxIjoxMDAsIndlYnAiOjB9/1.jpg?token-hash=8akTwozTFjTdqEPYdR3QSIGFIwWEnDG2-QMzNsWsU2A%3D&token-time=1748649600)
+![](https://raw.githubusercontent.com/TateTaylorOH/TateTaylorOH/refs/heads/main/assets/images/SlavaUkraini.jpg)
 
 At the beginning of March I dedicated myself to donating any proceeds I made that month off of my mods to the Red Cross Ukrainian Relief Effort to support victims of war.
 
