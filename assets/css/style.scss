@@ -548,6 +548,7 @@ details > summary {
     padding: 0;
 
     .post-header {
+      min-height: 3em; 
       margin-bottom: 0.5rem;
 
       .post-preview-meta {
@@ -563,7 +564,7 @@ details > summary {
     }
 
     p {
-      margin: 0 0 0.75rem 0; // Tighten up excerpt spacing
+      margin: 0 0 0.75rem 0; 
     }
 
     .read-more {
