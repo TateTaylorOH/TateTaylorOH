@@ -20,6 +20,9 @@ image: https://raw.githubusercontent.com/TateTaylorOH/TateTaylorOH/main/assets/i
         </div>
         <p>{{ post.excerpt | strip_html | truncate: 250 }}</p>
         <a href="{{ post.url | relative_url }}" class="read-more">Read more →</a>
+        <span style="float:right;">
+          <button class="button-link" onclick="copyToClipboard('{{ post.url | absolute_url }}')">Share</button>
+        </span>
       </div>
     </div>
     {% endunless %}
