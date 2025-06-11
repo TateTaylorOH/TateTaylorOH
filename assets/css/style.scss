@@ -532,6 +532,7 @@ details > summary {
   margin-bottom: 1.5rem;
   padding-bottom: 1rem;
   border-bottom: 1px solid #ddd;
+  width: 100%;
 
   .post-list-image {
     flex-shrink: 0;
@@ -546,6 +547,7 @@ details > summary {
   .post-preview-content {
     margin: 0;
     padding: 0;
+    width: 100%;
 
     .post-header {
       margin-bottom: 0.5rem;
