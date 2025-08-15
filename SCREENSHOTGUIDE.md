@@ -57,7 +57,7 @@ Let's look at this image now:
 
 The framing on this photo is a bit unusual. It isn't positioning something around the subject, but rather it is matching them. Look at how the subject's arm is outstretched, mimicking the shape of the rock formation behind it.
 
-I use [Photo Mode](<https://www.nexusmods.com/skyrimspecialedition/mods/91701>){:target="_blank" rel="noopener"} extensively. It has made getting good shots so much easier. Prior to its release I had to rely on a ton of console command and it was honestly kind of miserable.
+I use [Photo Mode](<https://www.nexusmods.com/skyrimspecialedition/mods/91701>) extensively. It has made getting good shots so much easier. Prior to its release I had to rely on a ton of console command and it was honestly kind of miserable.
 
 For some less theoretical tips to use with Photo Mode:
 
@@ -66,6 +66,6 @@ For some less theoretical tips to use with Photo Mode:
 - Brightness and contrast can help to make the subject pop. It isn't always possible to fix a bad background with this, but it is possible.
 - Saturation helps sell mood. If it's a happy photo, bring it up a bit, otherwise, bring it down a bit. Just don't go too crazy with the slider.
 
-I hope this guide was of use to you! If you have any comments or questions feel free to leave them below or contact me on my [community Discord server](https://discord.com/servers/678433649430888448){:target="_blank" rel="noopener"}.
+I hope this guide was of use to you! If you have any comments or questions feel free to leave them below or contact me on my [community Discord server](https://discord.com/servers/678433649430888448).
 
 ---
