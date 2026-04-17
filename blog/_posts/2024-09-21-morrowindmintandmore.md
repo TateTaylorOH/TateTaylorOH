@@ -10,13 +10,13 @@ A lot of updates all at once! First and foremost C.O.I.N. 3.1.0 has been release
 
 So now there is a very clear line between ancient coins and modern coins. If it is a dead coin no longer in use C.O.I.N. will handle it. If it is a modern coin, it'll get a Currency Swapper mod.
 
-[https://www.nexusmods.com/skyrimspecialedition/mods/51439](https://www.nexusmods.com/skyrimspecialedition/mods/51439)
+[**Download Link**](https://www.nexusmods.com/skyrimspecialedition/mods/51439)
 
 ![](https://staticdelivery.nexusmods.com/mods/1704/images/129717/129717-1726952900-922205076.png)
 
 Second, sancars have gotten their own Currency Swapper mod. The meat of the mod is just distributing them to proper Thalmor NPCcs and locations, but the Kahjiit caravans will also accept them for trade alongside septims!
 
-[https://www.nexusmods.com/skyrimspecialedition/mods/129717](https://www.nexusmods.com/skyrimspecialedition/mods/129717)
+[**Download Link**](https://www.nexusmods.com/skyrimspecialedition/mods/129717)
 
 ![](https://staticdelivery.nexusmods.com/mods/1704/images/129387/129387-1726807137-1493321630.png)
 
@@ -24,6 +24,6 @@ Third, and what I am personally most excited about, I've made a Currency Swapper
 
 It also features voice work from the very talented Alex Cain!
 
-[https://www.nexusmods.com/skyrimspecialedition/mods/129387](https://www.nexusmods.com/skyrimspecialedition/mods/129387)
+[**Download Link**](https://www.nexusmods.com/skyrimspecialedition/mods/129387)
 
 That's all for now. I hope you enjoy!
