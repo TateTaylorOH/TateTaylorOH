@@ -12,6 +12,6 @@ To celebrate, I've released Skyrim Silver, a mod that changes the currency you s
 
 This mod also features voice work from the very talented MeekVoice!
 
-[**Download Link**](https://www.nexusmods.com/skyrimspecialedition/mods/127897)
-
 I hope you enjoy!
+
+[**Download Link**](https://www.nexusmods.com/skyrimspecialedition/mods/127897)
