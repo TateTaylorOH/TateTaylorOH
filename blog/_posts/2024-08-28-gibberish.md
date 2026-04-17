@@ -8,6 +8,6 @@ image: https://staticdelivery.nexusmods.com/mods/1704/images/127871/127871-17270
 
 I've released Gibberish, a mod that will change the currency you spend in the Shivering Isles from septims to gibbers!
 
-[https://www.nexusmods.com/skyrimspecialedition/mods/127871](https://www.nexusmods.com/skyrimspecialedition/mods/127871)
+[**Download Link**](https://www.nexusmods.com/skyrimspecialedition/mods/127871)
 
 I hope you enjoy!
