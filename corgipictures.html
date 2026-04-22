@@ -3,13 +3,9 @@ layout: default
 title: Corgi Pictures
 ---
 <h1>{{ page.title }}</h1>
-{% for file in site.static_files %}
-  {% if file.path contains '/assets/images/corgipics/' %}
-    {% assign images = site.static_files | where_exp: "file", "file.path contains '/assets/images/corgipics/'" | sort: "path" | reverse %}
-    {% for file in images %}
-      <a href="{{ file.path }}" target="_blank">
-        <img src="{{ file.path }}" style="width:200px; margin:10px;">
-      </a>
-    {% endfor %}
-  {% endif %}
+{% assign images = site.static_files | where_exp: "file", "file.path contains '/assets/images/corgipics/'" | sort: "path" | reverse %}
+{% for file in images %}
+  <a href="{{ file.path }}" target="_blank">
+    <img src="{{ file.path }}" style="width:200px; margin:10px;">
+  </a>
 {% endfor %}
