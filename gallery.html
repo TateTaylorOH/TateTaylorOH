@@ -6,6 +6,8 @@ title: Gallery
 
 {% for file in site.static_files %}
   {% if file.path contains '/assets/images/corgipics/' %}
-    <img src="{{ file.path }}" style="width:200px; margin:10px;">
+    <a href="{{ file.path }}" target="_blank">
+      <img src="{{ file.path }}" style="width:200px; margin:10px;">
+    </a>
   {% endif %}
 {% endfor %}
