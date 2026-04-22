@@ -8,7 +8,7 @@ image: https://raw.githubusercontent.com/TateTaylorOH/TateTaylorOH/main/assets/i
 
 Hello all, my name is Tate Taylor, and I am a Skyrim mod author. I create a random mix of mods and don't really stay within any one category; I just add whatever I want to see in the game.
 
-In addition to my mods, I also curate the [Keizaal](https://www.nexusmods.com/skyrimspecialedition/mods/68997) Wabbajack modlist. It is a simple modlist that seeks to enhance and expand on Skyrim without compromising Bethesda’s original vision that we all fell in love with back in 2011. If you're interested in learning more about Keizaal, be sure to visit [the website](https://keizaal.github.io/Keizaal/).
+In addition to my mods, I also curate the [Keizaal](https://www.nexusmods.com/skyrimspecialedition/mods/68997) Wabbajack modlist. It is a simple modlist that seeks to enhance and expand on Skyrim without compromising Bethesda’s original vision that we all fell in love with back in 2011. If you're interested in learning more about Keizaal, be sure to visit [the website](https://keiza.al/).
 
 ## My Mods
 
