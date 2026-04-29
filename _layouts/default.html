@@ -24,6 +24,12 @@
     });
   }
   </script>
+  <script>
+document.addEventListener('DOMContentLoaded', function() {
+ var currentYear = new Date().getFullYear();
+ document.getElementById('currentYear').textContent = currentYear;
+});
+</script>
    <body>
       <a id="skip-nav" href="#content">Skip navigation and jump to content</a>
       <div class="wrapper">
@@ -141,7 +147,7 @@
                     <li><a href="https://www.patreon.com/TateTaylor">Patreon</a></li>
                   </ul>
                 </nav>
-                <p>&copy; 2025 <a href="https://tatetayloroh.com/">Tate Taylor</a> | Some Rights Reserved</p>
+                <p>&copy; <span id="currentYear"></span> <a href="https://tatetayloroh.com/">Tate Taylor</a> | Some Rights Reserved</p>
               </div>
             </footer>
    </body>
