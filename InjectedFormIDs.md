@@ -1,6 +1,6 @@
 FormID Tag: 01DE5xxx
 
-01DE5000: DES_NonCultFormlist\
+01DE5000: DES_NonCultFormlist - **DEPRECATED**\
 01DE5001: DES_ValeFormlist\
 01DE5002: DES_NonGoldCoins\
 01DE5003: DES_DogBlessingKeyword\
@@ -20,14 +20,14 @@ FormID Tag: 01DE5xxx
 01DE5011: GRC_Artifacts\
 01DE5012: DES_DrakrDragon\
 01DE5013: DES_DrakrMoth\
-01DE5014: DES_DrakrNord\
+01DE5014: DES_DrakrNord - **DEPRECATED**\
 01DE5015: DES_DrakrOwl\
 01DE5016: DES_DrakrWhale\
 01DE5017: DES_GibberBack\
 01DE5018: DES_GibberFront\
 01DE5019: DES_Mala\
 01DE5020: DES_Mallari\
-01DE5021: DES_Mede\
+01DE5021: DES_Mede - **DEPRECATED**\
 01DE5022: DES_Nchuark\
 01DE5023: DES_Sancar\
 01DE5024: DES_Ulfric\
@@ -37,7 +37,7 @@ FormID Tag: 01DE5xxx
 01DE5028: DES_NoMCM\
 01DE5029: DES_Dram\
 01DE5030: DES_RentRoomLocationExclusions\
-01DE5031: DES_CurrencyIsReverting - DEPRECATED\
+01DE5031: DES_CurrencyIsReverting - **DEPRECATED**\
 01DE5032: ActorTypeDwarf\
 01DE5033: ActorTypeAyleid\
 01DE5034: ActorTypeSeaElf\
