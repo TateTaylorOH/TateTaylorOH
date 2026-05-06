@@ -16,11 +16,11 @@ Going forward C.O.I.N. will be the mod that covers all defunct ancient coins whi
 
 ![](https://raw.githubusercontent.com/TateTaylorOH/TateTaylorOH/refs/heads/main/assets/images/mint/I4.png)
 
-Coins in C.O.I.N. will continue to opperate as they always have, converting to their value in gold when picked up, but coins in M.I.N.T. will instead sit in your inventory until you are able to spend them at relevant vendors or services. I am quite happy with this distinction and I think it gives players some options in how exactly they want to interact with my currency mods!
+Coins in C.O.I.N. will continue to operate as they always have, converting to their value in gold when picked up, but coins in M.I.N.T. will instead sit in your inventory until you are able to spend them at relevant vendors or services. I am quite happy with this distinction and I think it gives players some options in how exactly they want to interact with my currency mods!
 
 There's been a few changes to the my Currency Swapper mods now that they are part of this framework. The most notable mechanical change has been adding the ability for you to pay off crime fines with the appropriate regional currency rather than it being locked in septims. You no longer have to worry about not being able to pay off the Redoran Guards because you just exchanged all your septims for drams!
 
-As you've probably already seen, the sancar has gotten a new asset courtsy of [ButaneBoss](https://www.nexusmods.com/profile/ButaneBoss)! I am really happy with how the new sancar turned out and I think I really captures the essence of the facist nature of the Third Aldmeri Dominion.
+As you've probably already seen, the sancar has gotten a new asset courtesy of [ButaneBoss](https://www.nexusmods.com/profile/ButaneBoss)! I am really happy with how the new sancar turned out and I think I really captures the essence of the fascist nature of the Third Aldmeri Dominion.
 
 ![](https://raw.githubusercontent.com/TateTaylorOH/TateTaylorOH/refs/heads/main/assets/images/mint/Sancar.png)
 
