@@ -24,7 +24,7 @@ As you've probably already seen, the sancar has gotten a new asset courtesy of [
 
 ![](https://raw.githubusercontent.com/TateTaylorOH/TateTaylorOH/refs/heads/main/assets/images/mint/Sancar.png)
 
-This big overhaul was also important to ensure that I have an easier time extending support to other mods in the future. I an already planning to support all of the regional currencies that [Beyond Skyrim](https://beyondskyrim.org/) will add!
+This big overhaul was also important to ensure that I have an easier time extending support to other mods in the future. I am already planning to support all of the regional currencies that [Beyond Skyrim](https://beyondskyrim.org/) will add!
 
 I am really excited to for the future of M.I.N.T. and how you'll need to eventually juggle different currencies as your pass between places like the Empire, Morrowind and beyond!
 
