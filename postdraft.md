@@ -12,7 +12,7 @@ About two years ago I created several mods uysing [Currency Swapper](https://www
 
 This mod has been designed to directly compliment [Coins of Interesting Nature (C.O.I.N.)](https://www.nexusmods.com/skyrimspecialedition/mods/51439). The two mods distribute new coins to the game, but they go about it in very different ways. 
 
-Going forward C.O.I.N. will be the mod that covers all defunct ancient coins while M.I.N.T. will cover coins that are still in circulation as legal tender. If using [I4](https://www.nexusmods.com/skyrimspecialedition/mods/85702), you will be able to see this distinction in the UI.
+Going forward C.O.I.N. will be the mod that covers all defunct ancient coins while M.I.N.T. will cover coins that are still in circulation as legal tender. If using [Inventory Interface Information Injector](https://www.nexusmods.com/skyrimspecialedition/mods/85702), you will be able to see this distinction in the UI.
 
 ![](https://raw.githubusercontent.com/TateTaylorOH/TateTaylorOH/refs/heads/main/assets/images/mint/I4.png)
 
