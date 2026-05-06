@@ -10,9 +10,7 @@ I recently published a small update for [House Rule](https://www.nexusmods.com/s
 
 MysticMalevolence was kind enough to remaster the old Thirsk Tribe banner and even included some new banners for generic rieklings! Check them out!
 
-![](https://raw.githubusercontent.com/TateTaylorOH/TateTaylorOH/refs/heads/main/assets/images/lco-solstheim/ThirskTribeBanner.png)
-![](https://raw.githubusercontent.com/TateTaylorOH/TateTaylorOH/refs/heads/main/assets/images/lco-solstheim/MoesringTribeBanner.png)
-![](https://raw.githubusercontent.com/TateTaylorOH/TateTaylorOH/refs/heads/main/assets/images/lco-solstheim/BrokenTuskTribeBanner.png)
+![](https://raw.githubusercontent.com/TateTaylorOH/TateTaylorOH/refs/heads/main/assets/images/lco-solstheim/RieklingBanners.png)
 
 I hope you enoy this little update. I'm also working on updates or varying sizes for a few of my other mods, so keep an eye out for those!
 
