@@ -8,7 +8,7 @@ image: https://staticdelivery.nexusmods.com/mods/1704/images/57243/57243-1777342
 
 I recently published a small update for [House Rule](https://www.nexusmods.com/skyrimspecialedition/mods/57243)!
 
-MysticMalevolence was kind enough to remaster the old Thirsk Tribe banner and even included some new banners for generic rieklings! Check them out!
+[MysticMalevolence](https://www.nexusmods.com/profile/MysticMalevolence/mods) was kind enough to remaster the old Thirsk Tribe banner and even included some new banners for generic rieklings! Check them out!
 
 ![](https://raw.githubusercontent.com/TateTaylorOH/TateTaylorOH/refs/heads/main/assets/images/lco-solstheim/RieklingBanners.png)
 
