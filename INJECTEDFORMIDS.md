@@ -1,6 +1,6 @@
 FormID Tag: 01DE5xxx
 
-01DE5000: LocTypeFalmerRuin\
+01DE5000: LocSetFalmerRuin\
 01DE5001: DES_ValeFormlist\
 01DE5002: DES_NonGoldCoins\
 01DE5003: DES_DogBlessingKeyword\
