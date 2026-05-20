@@ -1,6 +1,6 @@
 FormID Tag: 01DE5xxx
 
-01DE5000: LocSetFalmerRuin\
+01DE5000: NONE\
 01DE5001: DES_ValeFormlist\
 01DE5002: DES_NonGoldCoins\
 01DE5003: DES_DogBlessingKeyword\
@@ -37,10 +37,13 @@ FormID Tag: 01DE5xxx
 01DE5028: DES_NoMCM\
 01DE5029: DES_Dram\
 01DE5030: DES_CustomCurrencyLocations\
-01DE5031: LocSetAyleidRuin\
+01DE5031: NONE\
 01DE5032: ActorTypeDwarf\
 01DE5033: ActorTypeAyleid\
 01DE5034: ActorTypeSeaElf\
 01DE5035: ActorTypeSnowElf\
 01DE5036: ActorTypeTsaesci\
-01DE5037: DES_ConvertCoins
+01DE5037: DES_ConvertCoins\
+01DE5038: LocSetFalmerRuin\
+01DE5039: LocSetAyleidRuin\
+01DE5040: LocSetRootCave
