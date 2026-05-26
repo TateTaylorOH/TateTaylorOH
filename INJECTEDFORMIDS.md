@@ -22,7 +22,7 @@ FormID Tag: 01DE5xxx
 01DE5013: DES_DrakrMoth\
 01DE5014: DES_DrakrOwl\
 01DE5015: DES_DrakrWhale\
-01DE5016: NONE\
+01DE5016: DES_DrakrRandomFace\
 01DE5017: DES_GibberBack\
 01DE5018: DES_GibberFront\
 01DE5019: DES_Mala\
