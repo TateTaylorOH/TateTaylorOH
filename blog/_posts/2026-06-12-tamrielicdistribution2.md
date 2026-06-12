@@ -19,3 +19,5 @@ While updating Tamrielic Distribution I also needed to update a few of my other 
 Due to completely reworking the mod from the ground-up any patch made for the old version of Tamrielic Distribution will *not* work on version 2.0.0+.
 
 That is all for now, I hope you all enjoy the new updates!
+
+**[Download Link](https://www.nexusmods.com/skyrimspecialedition/mods/71372)**
