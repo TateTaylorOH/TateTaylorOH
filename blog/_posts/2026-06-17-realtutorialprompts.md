@@ -4,7 +4,7 @@ title: Real Tutorial Prompts Released
 author: Tate Taylor
 image: https://staticdelivery.nexusmods.com/mods/1704/images/182843/182843-1781653930-876534445.png
 ---
-![](https://staticdelivery.nexusmods.com/mods/1704/images/182843/182843-1781653930-876534445.png)
+![](https://raw.githubusercontent.com/TateTaylorOH/TateTaylorOH/refs/heads/main/blog/images/2026-06-17-realtutorialprompts/RealTutorialPrompts.png)
 
 It has long annoyed me that the [new tutorials](https://raw.githubusercontent.com/TateTaylorOH/TateTaylorOH/refs/heads/main/assets/images/realtutorials/FakeTutorial.png) added by Anniversary Edition aren't [actually tutorials](https://raw.githubusercontent.com/TateTaylorOH/TateTaylorOH/refs/heads/main/assets/images/realtutorials/FakeTutorial.png). For a long time this wasn't really something that could be addressed because Vanilla tutorial prompts couldn't be accessed by traditional Papyrus means.
 
