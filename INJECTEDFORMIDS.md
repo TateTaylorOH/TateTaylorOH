@@ -1,49 +1,51 @@
-FormID Tag: 01DE5xxx
+FormID Namespace: 01DE5xxx
 
-01DE5000: NONE\
-01DE5001: DES_ValeFormlist\
-01DE5002: DES_NonGoldCoins\
-01DE5003: DES_DogBlessingKeyword\
-01DE5004: DES_VanillaHomes\
-01DE5005: WeapTypeSpear\
-01DE5006: WeapTypeJavelin\
-01DE5007: WeapTypePike\
-01DE5008: WeapTypeHalberd\
-01DE5009: WeapTypeRapier\
-01DE500A: WeapTypeQuarterstaff\
-01DE500B: WeapTypeClaw\
-01DE500C: WeapTypeScythe\
-01DE500D: WeapTypeWhip\
-01DE500E: WeapTypeKatana\
-01DE500F: WeapTypeGun\
-01DE5010: GRC_Relics\
-01DE5011: GRC_Artifacts\
-01DE5012: DES_DrakrDragon\
-01DE5013: DES_DrakrMoth\
-01DE5014: DES_DrakrOwl\
-01DE5015: DES_DrakrWhale\
-01DE5016: DES_DrakrRandomFace\
-01DE5017: DES_GibberBack\
-01DE5018: DES_GibberFront\
-01DE5019: DES_Mala\
-01DE5020: DES_Mallari\
-01DE5021: DES_Mede\
-01DE5022: DES_Nchuark\
-01DE5023: DES_Sancar\
-01DE5024: DES_Ulfric\
-01DE5025: LCO_IB_JehannaGuard\
-01DE5026: DES_NoExchange\
-01DE5027: DES_Gibber\
-01DE5028: DES_NoMCM\
-01DE5029: DES_Dram\
-01DE5030: DES_CustomCurrencyLocations\
-01DE5031: DES_Sigil\
-01DE5032: ActorTypeDwarf\
-01DE5033: ActorTypeAyleid\
-01DE5034: ActorTypeSeaElf\
-01DE5035: ActorTypeSnowElf\
-01DE5036: ActorTypeTsaesci\
-01DE5037: DES_ConvertCoins\
-01DE5038: LocSetFalmerRuin\
-01DE5039: LocSetAyleidRuin\
-01DE5040: LocSetRootCave
+| FormID | EditorID |
+| :--- | :---: | 
+| 01DE5000 | NONE |
+| 01DE5001 | DES_ValeFormlist |
+| 01DE5002 | DES_NonGoldCoins |
+| 01DE5003 | DES_DogBlessingKeyword |
+| 01DE5004 | DES_VanillaHomes |
+| 01DE5005 | WeapTypeSpear |
+| 01DE5006 | WeapTypeJavelin |
+| 01DE5007 | WeapTypePike |
+| 01DE5008 | WeapTypeHalberd |
+| 01DE5009 | WeapTypeRapier |
+| 01DE500A | WeapTypeQuarterstaff |
+| 01DE500B | WeapTypeClaw |
+| 01DE500C | WeapTypeScythe |
+| 01DE500D | WeapTypeWhip |
+| 01DE500E | WeapTypeKatana |
+| 01DE500F | WeapTypeGun |
+| 01DE5010 | GRC_Relics |
+| 01DE5011 | GRC_Artifacts |
+| 01DE5012 | DES_DrakrDragon |
+| 01DE5013 | DES_DrakrMoth |
+| 01DE5014 | DES_DrakrOwl |
+| 01DE5015 | DES_DrakrWhale |
+| 01DE5016 | DES_DrakrRandomFace |
+| 01DE5017 | DES_GibberBack |
+| 01DE5018 | DES_GibberFront |
+| 01DE5019 | DES_Mala |
+| 01DE5020 | DES_Mallari |
+| 01DE5021 | DES_Mede |
+| 01DE5022 | DES_Nchuark |
+| 01DE5023 | DES_Sancar |
+| 01DE5024 | DES_Ulfric |
+| 01DE5025 | LCO_IB_JehannaGuard |
+| 01DE5026 | DES_NoExchange |
+| 01DE5027 | DES_Gibber |
+| 01DE5028 | DES_NoMCM |
+| 01DE5029 | DES_Dram |
+| 01DE5030 | DES_CustomCurrencyLocations |
+| 01DE5031 | DES_Sigil |
+| 01DE5032 | ActorTypeDwarf |
+| 01DE5033 | ActorTypeAyleid |
+| 01DE5034 | ActorTypeSeaElf |
+| 01DE5035 | ActorTypeSnowElf |
+| 01DE5036 | ActorTypeTsaesci |
+| 01DE5037 | DES_ConvertCoins |
+| 01DE5038 | LocSetFalmerRuin |
+| 01DE5039 | LocSetAyleidRuin |
+| 01DE5040 | LocSetRootCave |
