@@ -1,19 +1,21 @@
 ---
 layout: post
-title: Tamrielic Distribution 2 and More
+title: Knight of the North 4
 author: Tate Taylor
-image: https://staticdelivery.nexusmods.com/mods/1704/images/71372/71372-1658019596-1056314726.png
+image: https://staticdelivery.nexusmods.com/mods/1704/images/45869/45869-1613807188-1478306464.png
 ---
-Tamrielic Distribution is my big integration mod that contains a bunch of modules to better implement some Anniversary Edition stuff as well as make some modded gear pop up a bit more. I made the mod around four years ago and was honestly a big mess. The mod was massively overdesigned, clunky, and very hard for me to maintain. So, the only way for me to really address that was to essentially remake the mod.
+![](https://staticdelivery.nexusmods.com/mods/1704/images/45869/45869-1613807188-1478306464.png)
 
-So, I essentially remade the mod. The whole thing is a lot more simple and streamlined. Editing it is less of a pain and looking at the mod in xEdit no longer makes me feel like I'm trying to read a Black Book. I am particularly happy with how my Khajiit modules turned out. When used together it really gives the caravans a very distinct visual aesthetic.
+Knight of the North is one of my oldest mods and was definitely an ambitious undertaking at the time I made it. To be honest it was a bit *too* ambitious. I've gotten several bug reports about it over the past year or so and upon opening the mod up to fix it I was honestly kinda shocked *how* poorly made the mod was. It worked, but it was glued together with duct tape an a dream. I decided instead of trying to continue band-aiding bugs as they came but I'd just bite the bullet and rebuilt the mod from scratch.
 
-![](https://staticdelivery.nexusmods.com/mods/1704/images/71372/71372-1781242536-1388436001.jpg)
+It took a lot of time and was quite annoying at times, but I've done just that. The mod is *much* cleaner and way more efficient. I've addressed all the bugs I've seen reported to me and I've ironed out any weirdness that was connected to my old approach on this mod.
 
-While updating Tamrielic Distribution I also needed to update a few of my other mods. [Versatile Item and Group Re-Assignment](https://www.nexusmods.com/skyrimspecialedition/mods/85419) got a similar treatment to Tamrielic Distribution where it was massively simplified. [Pirates Wield Cutlasses](https://www.nexusmods.com/skyrimspecialedition/mods/31753) had a few minor tweaks to make it more compatible with Tamrielic Distribution. I also added a Lite version that cuts Cutless distribution down to only foreign sailors. Lastly [Ghosts of the Tribunal - Reduced Cut](https://www.nexusmods.com/skyrimspecialedition/mods/67019) had its generic item distribution (such as outfits) moved to Tamrielic Distribution. Because of this optional module that kept the Vanilla quest intact has been removed. If you want item distribution but also want to keep the quest, use Tamrielic Distribution and don't use Reduced Cut.
+![](https://staticdelivery.nexusmods.com/mods/1704/images/45869/45869-1705682301-476182446.png)
 
-![](https://staticdelivery.nexusmods.com/mods/1704/images/67019/67019-1650851805-56941319.png)
+There are not many new features that are visible to players, this is mostly a backend update. The biggest change is probably the inclusion of a debuff on the Crusader's Relics that will apply until you've reunited them all. This was added to prevent people from cheesing the Honor system by collecting all the Relics except for one, preventing the Honor system from kickstarting.
 
-Due to completely reworking the mod from the ground-up any patch made for the old version of Tamrielic Distribution will *not* work on version 2.0.0+.
+Another smaller change is that after finishing the quest Stendarr's Beacon will revert to its vanilla state.
 
-That is all for now, I hope you all enjoy the new updates!
+That's all for now, I hope you all enjoy the update!
+
+**[Download Link](https://www.nexusmods.com/skyrimspecialedition/mods/45869)**
