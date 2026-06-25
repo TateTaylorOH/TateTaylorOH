@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Injected FormIDs
-description: Tate Taylor's Injected FormIDs
+description: A list of injected formIDs used in Tate Taylor's mods.
 ---
 # Tate Taylor's Injected FormIDs
 **FormID Namespace:** 01DE5xxx
