@@ -1,21 +1,21 @@
 ---
 layout: post
-title: Knight of the North 4
+title: Introducing The Sigil Shop™!
 author: Tate Taylor
-image: https://staticdelivery.nexusmods.com/mods/1704/images/45869/45869-1613807188-1478306464.png
+image: https://staticdelivery.nexusmods.com/mods/1704/images/182423/182423-1782403910-857724282.png
 ---
-![](https://staticdelivery.nexusmods.com/mods/1704/images/45869/45869-1613807188-1478306464.png)
+![](https://staticdelivery.nexusmods.com/mods/1704/images/182423/182423-1782403910-857724282.png)
 
-Knight of the North is one of my oldest mods and was definitely an ambitious undertaking at the time I made it. To be honest it was a bit *too* ambitious. I've gotten several bug reports about it over the past year or so and upon opening the mod up to fix it I was honestly kinda shocked *how* poorly made the mod was. It worked, but it was glued together with duct tape an a dream. I decided instead of trying to continue band-aiding bugs as they came but I'd just bite the bullet and rebuilt the mod from scratch.
+[The Elder Scrolls®: Blades](https://www.nintendo.com/us/store/products/the-elder-scrolls-blades-switch/) turned six this year and then promptly died. While we all mourn the loss of the The Elder Scrolls® title of all time, it is important to honor its memory. I am excited to announce that most notable feature from [The Elder Scrolls®: Blades](https://www.nintendo.com/us/store/products/the-elder-scrolls-blades-switch/) has now been brought to [The Elder Scrolls V: Skyrim Special Edition](https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/): The Sigil Shop™!
 
-It took a lot of time and was quite annoying at times, but I've done just that. The mod is *much* cleaner and way more efficient. I've addressed all the bugs I've seen reported to me and I've ironed out any weirdness that was connected to my old approach on this mod.
+What *is* The Sigil Shop™, you may ask? Well, it is a brand new store stocked with exciting premium goods that can only be purchased with an *exclusive* currency. Sounds exciting, doesn't it? You can get started on your sigil hunting aventures right now simply by traveling to the Soul Cairn and talking to Morven Stroud. You may recognize him from [The Elder Scrolls V: Skyrim - Dawnguard](https://store.steampowered.com/app/211720/The_Elder_Scrolls_V_Skyrim__Dawnguard/) where he used to deal in Soul Husks, but that is a thing of the past! He is now a fully fleshed out merchant that only accepts sigils!
 
-![](https://staticdelivery.nexusmods.com/mods/1704/images/45869/45869-1705682301-476182446.png)
+Sigils themselves are a rare form of currency that you can only find the the Soul Cairn! If you are wondering what sigils are, so are we! Perhaps try playing [An Elder Scrolls Legend: Battlespire](https://store.steampowered.com/app/1812420/An_Elder_Scrolls_Legend_Battlespire/) for more information.
 
-There are not many new features that are visible to players, this is mostly a backend update. The biggest change is probably the inclusion of a debuff on the Crusader's Relics that will apply until you've reunited them all. This was added to prevent people from cheesing the Honor system by collecting all the Relics except for one, preventing the Honor system from kickstarting.
+![](https://staticdelivery.nexusmods.com/mods/1704/images/182423/182423-1782698903-560001757.jpg)
 
-Another smaller change is that after finishing the quest Stendarr's Beacon will revert to its vanilla state.
+The Sigil Shop™ is stocked will all kinds of exciting new artifacts, all brought over directly from [The Elder Scrolls®: Blades](https://www.nintendo.com/us/store/products/the-elder-scrolls-blades-switch/)! More than a dozen new items are avaibile for you to purchase, all faithfully recreated just as they appeared in [The Elder Scrolls®: Blades](https://www.nintendo.com/us/store/products/the-elder-scrolls-blades-switch/), right down to them sharing models and textures from [The Elder Scrolls V: Skyrim Special Edition](https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/)!
 
-That's all for now, I hope you all enjoy the update!
+Will you be a proud warrior wielding the Shield of Stasis or will you take up Serpentstrike and deal a venmous blow to your enemies? That is for you to choose in [The Sigil Shop™ - Soul Proprietorship](https://www.nexusmods.com/skyrimspecialedition/mods/182423), avaibile now directly on [Nexus Mods](https://www.nexusmods.com/)!
 
-**[Download Link](https://www.nexusmods.com/skyrimspecialedition/mods/45869)**
+**[Download Link](https://www.nexusmods.com/skyrimspecialedition/mods/182423)**
