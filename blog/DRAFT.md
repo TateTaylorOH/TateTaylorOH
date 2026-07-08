@@ -18,6 +18,6 @@ The Sigil Shop™ is stocked will all kinds of exciting new artifacts, all broug
 
 Will you be a proud warrior wielding the Shield of Stasis or will you take up Serpentstrike and deal a venomous blow to your enemies? That is for you to choose in [The Sigil Shop™ - Soul Proprietorship](https://www.nexusmods.com/skyrimspecialedition/mods/182423), available now directly on [Nexus Mods](https://www.nexusmods.com/)!
 
-<a href="[https://example.com](https://www.nexusmods.com/skyrimspecialedition/mods/182423)">
+<a href="https://www.nexusmods.com/skyrimspecialedition/mods/182423">
     <button>Download Link</button>
 </a>
