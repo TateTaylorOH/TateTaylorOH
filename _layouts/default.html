@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="{{ site.lang | default: 'en-US' }}">
+<html lang="{{ site.lang | default: 'en-US' }}" data-bs-theme="dark">
   <head>
       <meta charset="utf-8" />
       <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -9,7 +9,8 @@
       <meta property="og:image" content="https://raw.githubusercontent.com/TateTaylorOH/TateTaylorOH/main/assets/images/branding/WebsiteBanner.png" />
     {% endif %}
 {% seo %}
-      <link rel="stylesheet" href="{{ 'assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" />
+	  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+	  <link rel="stylesheet" href="{{ 'assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" />
       <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
       <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes" />
       <meta name="google-site-verification" content="jSueJx3jsZPBZAXLoa0FslQH0cTCV6zv7iYh72gH0aA" />
@@ -30,113 +31,59 @@
     document.getElementById('currentYear').textContent = currentYear;
   });
   </script>
-   <body>
-      <a id="skip-nav" href="#content">Skip navigation and jump to content</a>
-      <div class="wrapper">
-         <div id="sidebar">
-            <nav aria-labelledby="mods-navigation">
-               <h1 id="site-navigation"></h1>
-               <ul>
-                  <li>
-                     <a href="{{ '/' | relative_url }}">Main Page</a>
-                  </li>
-                  <li>
-                     <a href="{{ '/corgipictures' | relative_url }}">Corgi Pictures</a>
-                  </li>
-                  <li>
-                     <a href="{{ '/rickardcalvert' | relative_url }}">Rickard Calvert</a>
-                  </li>
-                  <li>
-                     <a href="{{ '/screenshotguide' | relative_url }}">Screenshot Guide</a>
-                  </li>
-                  <li>
-                     <a href="{{ '/readme' | relative_url }}">About Me</a>
-                  </li>
-               </ul>
-            </nav>
-            <nav aria-labelledby="mods-navigation">
-               <h1 id="mods-navigation">My Work</h1>
-               <ul>
-                  <li>
-                     <a href="https://www.nexusmods.com/users/61720101">Nexus Mods</a>
-                  </li>
-                  <li>
-                     <a href="https://creations.bethesda.net/en/skyrim/all?author_displayname=TateTaylorOH">BethNet</a>
-                  </li>
-                  <li>
-                     <a href="https://keiza.al/">Keizaal</a>
-                  </li>
-               </ul>
-            </nav>
-            <nav aria-labelledby="socials-navigation">
-               <h1 id="socials-navigation">My Socials</h1>
-               <ul>
-                  <li>
-                     <a href="https://tatetayloroh.com/discord">Discord</a>
-                  </li>
-                  <li>
-                     <a href="https://github.com/TateTaylorOH">GitHub</a>
-                  </li>
-                  <li>
-                     <a href="https://www.twitch.tv/tatetayloroh">Twitch</a>
-                  </li>
-                  <li>
-                     <a href="https://www.youtube.com/@TateTaylorOH">YouTube</a>
-                  </li>
-               </ul>
-            </nav>
-            <nav aria-labelledby="contribute-navigation">
-               <h1 id="contribute-navigation">Contribute</h1>
-               <ul>
-                  <li>
-                     <a href="https://ko-fi.com/tatetaylor">Buy Me a Coffee</a>
-                  </li>
-                  <li>
-                     <a href="https://www.patreon.com/TateTaylor">Become a Patron</a>
-                  </li>
-               </ul>
-            </nav>
-            <aside class="site-icons">
-            </aside>
-            <aside class="site-icons">
-               <img class="project-icon"
-                  src="https://raw.githubusercontent.com/TateTaylorOH/TateTaylorOH/main/assets/images/branding/Gladys.png"
-            </aside>
-            <aside class="site-icons">
-              <a href="https://bethesda.net/en/article/5271cYpcXuSidnAKyJvxBI/monthly-modder-tatetaylorusa">
-                <img class="project-icon"
-                     src="https://raw.githubusercontent.com/TateTaylorOH/TateTaylorOH/main/assets/images/banners/MonthlyModderWhite.png"
-                     alt="Monthly Modder Banner">
-              </a>
-            </aside>
-         </div>
-         <main>
-           <header>
-                   <h1>
-                  <img alt="Tate Taylor"
-                    src="https://raw.githubusercontent.com/TateTaylorOH/TateTaylorOH/refs/heads/main/assets/images/branding/WebsiteBanner.png"
-                  />
-               </h1>
-            </header>
+   <body>  
+<div class="container-fluid text-light">
+    <div class="row">
+        <!-- Navigation Component -->
+        <nav class="col col-12 col-md-3 col-xl-2 bg-black navbar navbar-expand-md navbar-dark flex-md-column pt-md-0">
+            <div class="container-fluid flex-md-column align-items-stretch sticky-top">
+				<div class="d-none d-md-block my-3">
+					<a href="{{ '/' | relative_url }}">
+						<img class="img-fluid rounded" src="https://tatetayloroh.com/assets/images/branding/Gladys.png"></img>
+					</a>
+					<a href="https://bethesda.net/en/article/5271cYpcXuSidnAKyJvxBI/monthly-modder-tatetaylorusa">
+						<img class="img-fluid mt-3 px-3 d-none" src="https://tatetayloroh.com/assets/images/banners/MonthlyModderWhite.png" alt="Monthly Modder Banner">
+					</a>
+				</div>
+                <a class="navbar-brand" href="{{ '/' | relative_url }}"><h3 class="mb-0">Tate Taylor</h3></a>
+                <button class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#sidebarMenu">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="sidebarMenu">
+                    <ul class="navbar-nav flex-column w-100">
+                        <li class="nav-item"><a class="nav-link" href="{{ '/' | relative_url }}">Main Page</a></li>
+                        <li class="nav-item"><a class="nav-link" href="{{ '/corgipictures' | relative_url }}">Corgi Pictures</a></li>
+						<li class="nav-item"><a class="nav-link" href="{{ '/rickardcalvert' | relative_url }}">Rickard Calvert</a></li>
+						<li class="nav-item"><a class="nav-link" href="{{ '/screenshotguide' | relative_url }}">Screenshot Guide</a></li>
+						<li class="nav-item"><a class="nav-link" href="{{ '/readme' | relative_url }}">About Me</a></li>
+						<h5 class="text-light pt-3" id="mods-navigation">My Work</h5>
+                        <li class="nav-item"><a class="nav-link" href="https://www.nexusmods.com/profile/TateTaylorOH/">Nexus Mods</a></li>
+                        <li class="nav-item"><a class="nav-link" href="https://creations.bethesda.net/en/skyrim/all?author_displayname=TateTaylorOH">Bethesda.net</a></li>
+						<li class="nav-item"><a class="nav-link" href="https://keiza.al/">Keizaal</a></li>
+						<h5 class="text-light pt-3" id="socials-navigation">My Socials</h5>
+						<li class="nav-item"><a class="nav-link" href="https://tatetayloroh.com/discord">Discord</a></li>
+                        <li class="nav-item"><a class="nav-link" href="https://github.com/TateTaylorOH">GitHub</a></li>
+						<li class="nav-item"><a class="nav-link" href="https://www.twitch.tv/tatetayloroh">Twitch</a></li>
+						<li class="nav-item"><a class="nav-link" href="https://www.youtube.com/@TateTaylorOH">YouTube</a></li>
+						<h5 class="text-light pt-3" id="contribute-navigation">Contribute</h5>
+                        <li class="nav-item"><a class="nav-link" href="https://ko-fi.com/tatetaylor">Buy Me a Coffee</a></li>
+                        <li class="nav-item"><a class="nav-link" href="https://www.patreon.com/TateTaylor">Become a Patron</a></li>
+						<hr>
+						<li class="nav-item nav-link disabled">&copy; <span id="currentYear"></span> Tate Taylor</li>
+					</ul>
+                </div>
+            </div>
+        </nav>
+        <!-- Main Content -->
+        <main class="col col-12 col-md-9 col-xl-10 p-0 ms-md-auto">
+            <div class="container py-4 pb-5">
             <article id="content">
             {{ content }}
             </article>
-         </main>
-      </div>
-            <footer id="site-footer">
-              <div class="footer-content">
-                <nav>
-                  <ul>
-                    <li><a href="https://www.nexusmods.com/users/61720101">Nexus Mods</a></li>
-                    <li><a href="https://creations.bethesda.net/en/skyrim/all?author_displayname=TateTaylorOH">Bethesda.net</a></li>
-                    <li><a href="https://www.nexusmods.com/skyrimspecialedition/mods/68997">Keizaal</a></li>
-                    <li><a href="https://discord.com/servers/678433649430888448">Discord</a></li>
-                    <li><a href="https://ko-fi.com/tatetaylor">Ko-fi</a></li>
-                    <li><a href="https://www.patreon.com/TateTaylor">Patreon</a></li>
-                  </ul>
-                </nav>
-                <p>&copy; <span id="currentYear"></span> <a href="https://tatetayloroh.com/">Tate Taylor</a></p>
-              </div>
-            </footer>
-   </body>
+			</div>
+        </main>
+    </div>
+</div> 
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+	</body>
 </html>
