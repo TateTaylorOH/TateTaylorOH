@@ -2,13 +2,15 @@
 layout: default
 ---
 <h1>{{ page.title }}</h1>
+<div class="post-content">
 {{ content }}
+</div>
 <hr>
-<span class="post-meta">
+<span class="post-meta text-secondary">
   <p style="text-align:left;">
     {{ page.date | date_to_string }} • {{ page.author }}
     <span style="float:right;">
-      <button class="button-link" onclick="copyToClipboard('{{ page.url | absolute_url }}')">Share</button>
+      <a href="#" onclick="copyToClipboard('{{ page.url | absolute_url }}')">Copy URL</a>
     </span>
   </p>
 </span>
