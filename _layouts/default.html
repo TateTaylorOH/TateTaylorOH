@@ -17,23 +17,44 @@
 		<link rel="icon" href="https://raw.githubusercontent.com/TateTaylorOH/TateTaylorOH/main/assets/images/ECLogoGladNoLogoRounded.png"  type="image/x-icon" />
 	</head>
 	<script>
-		function copyToClipboard(text) {
-		navigator.clipboard.writeText(text).then(function() {
-		alert("URL copied to clipboard!");
-		}, function(err) {
-		console.error("Could not copy text: ", err);
-		});
-	}
-	</script>
-	<script>
 		document.addEventListener('DOMContentLoaded', function() {
 		var currentYear = new Date().getFullYear();
 		document.getElementById('currentYear').textContent = currentYear;
 	});
 	</script>
+	<script>
+	document.addEventListener("DOMContentLoaded", () => {
+		const params = new URLSearchParams(window.location.search);
+		const source = params.get("from");
+		const modals = {404: "popup404"};
+		if (modals[source]) {
+			const modal = new bootstrap.Modal(
+				document.getElementById(modals[source])
+			);
+			modal.show();
+			history.replaceState({}, "", window.location.pathname);
+		}
+	});
+	</script>
 	<body>  
 		<div class="container-fluid text-light">
 		    <div class="row">
+				<!-- Popup Component -->
+				<div class="modal fade" id="popup404" tabindex="-1" aria-labelledby="popup404Title" aria-hidden="true">
+					<div class="modal-dialog modal-dialog-centered modal-lg">
+						<div class="modal-content bg-black text-light">
+							<div class="modal-header">
+								<h2 class="modal-title fs-5" id="popup404Title">404 ERROR</h2>
+							</div>
+							<div class="modal-body">
+								<p>This page may have moved or no longer exists.</p>
+							</div>
+							<div class="modal-footer">
+								<a href="#" data-bs-dismiss="modal" onclick="event.preventDefault();"><b>Close</b></a>
+							</div>
+						</div>
+					</div>
+				</div>
 		        <!-- Navigation Component -->
 		        <nav class="col col-12 col-md-3 col-xl-2 bg-black navbar navbar-expand-md navbar-dark flex-md-column pt-md-0">
 		            <div class="container-fluid flex-md-column align-items-stretch sticky-top">
