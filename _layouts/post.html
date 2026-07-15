@@ -10,7 +10,7 @@ layout: default
   <p style="text-align:left;">
     {{ page.date | date_to_string }} • {{ page.author }}
     <span style="float:right;">
-      <a href="#" onclick="event.preventDefault(); copyToClipboard('{{ page.url | absolute_url }}')"><b>Copy URL</b></a>
+      <button type="button" class="copy-url-button" onclick="copyToClipboard('{{ page.url | absolute_url }}')">Copy URL</button>
     </span>
   </p>
 </span>
