@@ -24,24 +24,6 @@ h1,h2,h3,h4,h5 {font-family: $header-font;}
 .card {border:none;background-color:#181818;}
 .text-secondary {color:#949494 !important;}
 .utterances {max-width:100%;}
-.copy-url-button {
-  background: linear-gradient(to bottom, #a64528, #D58546);
-  color: white;
-  padding: 6px 14px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  border-radius: 6px;
-  font-size: 14px;
-  vertical-align: middle;
-  width: 100px;
-  white-space: nowrap;
-
-  &:hover,
-  &:active {
-    background: linear-gradient(to bottom, #cc6a3a, #e5ac80);
-  }
-}
 
 @media (min-width: 768px) {nav {min-height: 100vh;}}
 @media (min-width: 1920px) {.col-xl-2 {width:12.5%;}.col-xl-10 {width:87.5%;}}
