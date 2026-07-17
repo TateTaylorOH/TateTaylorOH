@@ -5,7 +5,7 @@ url: https://tatetayloroh.com
 excerpt_separator: "<!--more-->"
 plugins:
   - jekyll-paginate
-paginate: 10  # Number of posts per page
+paginate: 9  # Number of posts per page
 paginate_path: "/page:num"  # Path for pagination
 utterances:
   repo: TateTaylorOH/TateTaylorOH
