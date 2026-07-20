@@ -5,12 +5,12 @@ url: https://tatetayloroh.com
 excerpt_separator: "<!--more-->"
 defaults:
   -
-    scope:
-      path: "" # an empty string here means all files in the project
-    values:
-      layout: "default"
-      image: https://raw.githubusercontent.com/TateTaylorOH/TateTaylorOH/main/assets/images/branding/WebsiteBanner.png
+  scope:
+    path: "" # an empty string here means all files in the project
+  values:
+    layout: "default"
+    image: https://raw.githubusercontent.com/TateTaylorOH/TateTaylorOH/main/assets/images/branding/WebsiteBanner.png
 plugins:
   - jekyll-paginate
-paginate: 9  # Number of posts per page
-paginate_path: "/page:num"  # Path for pagination
+    paginate: 9  # Number of posts per page
+    paginate_path: "/page:num"  # Path for pagination
