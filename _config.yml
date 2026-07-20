@@ -2,9 +2,14 @@ title: Tate Taylor
 tagline: Corgi Enjoyer
 description: I am Tate Taylor, a Skyrim mod author and Wabbajack modlist curator.
 url: https://tatetayloroh.com
-layout: "default"
-image: https://raw.githubusercontent.com/TateTaylorOH/TateTaylorOH/main/assets/images/branding/WebsiteBanner.png
 excerpt_separator: "<!--more-->"
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
+      image: https://raw.githubusercontent.com/TateTaylorOH/TateTaylorOH/main/assets/images/branding/WebsiteBanner.png
 plugins:
   - jekyll-paginate
 paginate: 9  # Number of posts per page
