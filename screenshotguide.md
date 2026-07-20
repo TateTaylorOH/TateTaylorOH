@@ -67,5 +67,3 @@ For some less theoretical tips to use with Photo Mode:
 - Saturation helps sell mood. If it's a happy photo, bring it up a bit, otherwise, bring it down a bit. Just don't go too crazy with the slider.
 
 I hope this guide was of use to you! If you have any comments or questions feel free to contact me on my [community Discord server](https://discord.gg/eYZJFP8).
-
----
