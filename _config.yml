@@ -7,6 +7,3 @@ plugins:
   - jekyll-paginate
 paginate: 9  # Number of posts per page
 paginate_path: "/page:num"  # Path for pagination
-utterances:
-  repo: TateTaylorOH/TateTaylorOH
-  theme: github-dark
