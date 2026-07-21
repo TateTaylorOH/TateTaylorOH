@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Real Tutorial Prompts Released
 author: Tate Taylor
 image: https://staticdelivery.nexusmods.com/mods/1704/images/182843/182843-1781653930-876534445.png
