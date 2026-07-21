@@ -1,10 +1,6 @@
 ---
-layout: default
-title: Injected FormIDs
+title: Tate Taylor's Injected FormIDs
 description: A list of injected formIDs used in Tate Taylor's mods.
-hide_title: true
----
-# Tate Taylor's Injected FormIDs
 ---
 **FormID Namespace:** 01DE5xxx
 
