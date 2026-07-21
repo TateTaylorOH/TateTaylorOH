@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Announcing Skyrim Extended Cut - Saints and Seducers
 author: Tate Taylor
 image: https://i.ytimg.com/vi/neyrmlEtxNo/hqdefault.jpg?sqp=-oaymwEnCOADEI4CSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCJMWbnle8r4uoiIIdN5L2ayS9Lrw
