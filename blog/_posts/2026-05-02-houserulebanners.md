@@ -3,8 +3,6 @@ title: House Rule Update - New Banners!
 author: Tate Taylor
 image: https://staticdelivery.nexusmods.com/mods/1704/images/57243/57243-1777342714-1720464236.png
 ---
-![](https://staticdelivery.nexusmods.com/mods/1704/images/57243/57243-1777342714-1720464236.png)
-
 I recently published a small update for [House Rule](https://www.nexusmods.com/skyrimspecialedition/mods/57243)!
 
 [MysticMalevolence](https://www.nexusmods.com/profile/MysticMalevolence/mods) was kind enough to remaster the old Thirsk Tribe banner and even included some new banners for generic rieklings! Check them out!
