@@ -3,8 +3,6 @@ title: Stonehollow Overhaul and Lost Races of Nirn
 author: Tate Taylor
 image: https://raw.githubusercontent.com/PierreDespereaux/PierreDespereaux/master/assets/images/UniqueStonehollow/UniqueStonehollowComparison.gif
 ---
-![](https://raw.githubusercontent.com/PierreDespereaux/PierreDespereaux/master/assets/images/UniqueStonehollow/UniqueStonehollowComparison.gif)
-
 Hi everyone, I just finished work on a few things!
 
 First and foremost there's Stonehollow Overhaul, a mod that reworks the titular town from Wyrmstooth to make it feel a bit more unique and improve its consistency. It's a pretty simple mod, but I'm really happy with how it turned out. I think it helps Wyrmstooth stand out even more against normal Skyrim.
