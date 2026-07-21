@@ -10,6 +10,10 @@ defaults:
     values:
       layout: default
       image: "https://raw.githubusercontent.com/TateTaylorOH/TateTaylorOH/main/assets/images/branding/WebsiteBanner.png"
+  - scope:
+      path: "blog/_posts"
+    values:
+      layout: post
 
 plugins:
   - jekyll-paginate
