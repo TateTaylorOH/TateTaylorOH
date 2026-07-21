@@ -1,8 +1,6 @@
 ---
-layout: default
 title: Screenshot Guide
 description: Basic tips and tricks for better screenshotting.
-image: https://raw.githubusercontent.com/TateTaylorOH/TateTaylorOH/main/assets/images/branding/WebsiteBanner.png
 ---
 # Screenshotting for Mod Pages and Beyond
 A while ago someone asked me about my process for taking screenshots. I wrote a lengthy response that has since been adapted into this guide. I hope that it is helpful to some people out there!
