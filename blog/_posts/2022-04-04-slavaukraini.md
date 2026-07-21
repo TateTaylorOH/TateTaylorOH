@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Slava Ukraini!
 author: Tate Taylor
 image: https://raw.githubusercontent.com/TateTaylorOH/TateTaylorOH/refs/heads/main/assets/images/SlavaUkraini.jpg
