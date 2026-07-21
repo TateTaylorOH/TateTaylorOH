@@ -1,7 +1,9 @@
 ---
 layout: default
 ---
+{% unless page.hide_image %}
 <img class="img-fluid mb-2" src="{{ page.image }}" alt="{{ page.title }}">
+{% endunless %}
 {{ content }}
 <hr>
 <span class="post-meta text-secondary">
