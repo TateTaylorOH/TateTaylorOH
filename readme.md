@@ -1,4 +1,5 @@
 ---
+
 Hello all, my name is Tate Taylor, and I am a Skyrim mod author. I create a random mix of mods and don't really stay within any one category; I just add whatever I want to see in the game.
 
 In addition to my mods, I also curate the [Keizaal](https://www.nexusmods.com/skyrimspecialedition/mods/68997) Wabbajack modlist. It is a simple modlist that seeks to enhance and expand on Skyrim without compromising Bethesda’s original vision that we all fell in love with back in 2011. If you're interested in learning more about Keizaal, be sure to visit [the website](https://keiza.al/).
@@ -19,4 +20,5 @@ If you want to look through my work, you can find it on [Nexus Mods](https://www
 4. **Stability is the most important thing.** This rule basically supersedes all the above. If a mod introduces major stability concerns, it will be quickly cut.
 
 If you're interested in learning more about Keizaal, be sure to visit [the website](https://keiza.al/).
+
 ---
