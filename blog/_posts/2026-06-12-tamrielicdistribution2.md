@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Tamrielic Distribution 2 and more!
 author: Tate Taylor
 image: https://raw.githubusercontent.com/TateTaylorOH/TateTaylorOH/refs/heads/main/blog/images/2026-06-12-tamrielicdistribution2/TamrielicDistribution.png
