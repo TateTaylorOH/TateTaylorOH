@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Asya'la Dungeon Walk-up
 author: Tate Taylor
 image: https://i.ytimg.com/vi/anL6vjRUJUg/hq720.jpg?sqp=-oaymwFBCNAFEJQDSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AHUBoAC4AOKAgwIABABGFkgWShZMA8=&rs=AOn4CLD1xesb49-9JxU-OWtUcZYN8iGz0Q
