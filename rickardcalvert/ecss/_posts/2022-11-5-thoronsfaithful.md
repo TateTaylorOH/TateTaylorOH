@@ -4,8 +4,6 @@ author: Tate Tayor, edited by Catir and VictorF
 image: https://staticdelivery.nexusmods.com/images/1704/61720101-1667667974.png
 order: 5
 ---
-![](https://staticdelivery.nexusmods.com/images/1704/61720101-1667667974.png)
-
 I looked up to see a man, hidden in the shadows of the vegetation. He was not like the golden and purpled-skinned beings that I'd just been accosted by. Instead, he appeared to be human.  
 He spoke. "So, what transgression led you to be imprisoned here?"
 
