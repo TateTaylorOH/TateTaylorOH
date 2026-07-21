@@ -1,9 +1,8 @@
 ---
-layout: post
 title: Flora and Fauna
 author: Tate Tayor, edited by Catir and VictorF
-order: 3
 image: https://staticdelivery.nexusmods.com/images/1704/61720101-1666506172.png
+order: 3
 ---
 ![](https://staticdelivery.nexusmods.com/images/1704/61720101-1666506172.png)
 
