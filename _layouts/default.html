@@ -104,7 +104,7 @@
 		            </header>
 		            <article id="content">
 					{% if page.title %}
-					{% if page.hide_title %}
+					{% unless page.hide_title %}
 					<h1>{{ page.title }}</h1>
 					<hr>
 					{% endunless %}
