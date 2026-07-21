@@ -1,9 +1,8 @@
 ---
-layout: post
 title: Thoron's Faithful
 author: Tate Tayor, edited by Catir and VictorF
-order: 5
 image: https://staticdelivery.nexusmods.com/images/1704/61720101-1667667974.png
+order: 5
 ---
 ![](https://staticdelivery.nexusmods.com/images/1704/61720101-1667667974.png)
 
