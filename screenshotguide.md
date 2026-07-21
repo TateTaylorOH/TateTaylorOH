@@ -2,8 +2,6 @@
 title: Screenshot Guide
 description: Basic tips and tricks for better screenshotting.
 ---
-# Screenshotting for Mod Pages and Beyond
----
 A while ago someone asked me about my process for taking screenshots. I wrote a lengthy response that has since been adapted into this guide. I hope that it is helpful to some people out there!
 
 In my opinion, the biggest thing that makes for an interesting screenshot is **framing**. A good photo will draw your eye to a specific point and you do that by subtlety putting the subject of your photo in a frame. This photo is a great example of that:
