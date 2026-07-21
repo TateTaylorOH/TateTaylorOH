@@ -1,5 +1,4 @@
 ---
-layout: post
 title: House Rule Update - New Banners!
 author: Tate Taylor
 image: https://staticdelivery.nexusmods.com/mods/1704/images/57243/57243-1777342714-1720464236.png
