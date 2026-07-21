@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Introducing The Sigil Shop™!
 author: Tate Taylor
 image: https://raw.githubusercontent.com/TateTaylorOH/TateTaylorOH/refs/heads/main/blog/images/2026-06-30-thesigilshop%E2%84%A2/SigilSpoils.png
