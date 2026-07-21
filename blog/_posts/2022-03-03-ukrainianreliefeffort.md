@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Red Cross Ukrainian Relief Effort
 author: Tate Taylor
 image: https://raw.githubusercontent.com/TateTaylorOH/TateTaylorOH/refs/heads/main/assets/images/UkraineCharity.jpg
