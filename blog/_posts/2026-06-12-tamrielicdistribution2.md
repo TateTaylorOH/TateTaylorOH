@@ -3,8 +3,6 @@ title: Tamrielic Distribution 2 and more!
 author: Tate Taylor
 image: https://raw.githubusercontent.com/TateTaylorOH/TateTaylorOH/refs/heads/main/blog/images/2026-06-12-tamrielicdistribution2/TamrielicDistribution.png
 ---
-![](https://raw.githubusercontent.com/TateTaylorOH/TateTaylorOH/refs/heads/main/blog/images/2026-06-12-tamrielicdistribution2/TamrielicDistribution.png)
-
 [Tamrielic Distribution](https://www.nexusmods.com/skyrimspecialedition/mods/71372) is my big integration mod that contains a bunch of modules to better implement some Anniversary Edition stuff as well as make some modded gear pop up a bit more. I made the mod around four years ago and was honestly a big mess. The mod was massively overdesigned, clunky, and very hard for me to maintain. So, the only way for me to really address that was to essentially remake the mod.
 
 So, I essentially remade the mod. The whole thing is a lot more simple and streamlined. Editing it is less of a pain and looking at the mod in xEdit no longer makes me feel like I'm trying to read a Black Book. I am particularly happy with how my Khajiit modules turned out. When used together it really gives the caravans a very distinct visual aesthetic.
