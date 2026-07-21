@@ -4,8 +4,6 @@ author: Tate Tayor, edited by Catir and VictorF
 image: https://staticdelivery.nexusmods.com/images/1704/61720101-1666506172.png
 order: 3
 ---
-![](https://staticdelivery.nexusmods.com/images/1704/61720101-1666506172.png)
-
 <center><font size="6">The Most Curious<br>  
 Fauna and Flora<br>  
 of<br>  
