@@ -24,7 +24,6 @@ h1,h2,h3,h4,h5 {font-family: $header-font;}
 .card {border:none;background-color:#181818;}
 .modal-header, .modal-footer {border: none;}
 .text-secondary {color:#949494 !important;}
-.utterances {max-width:100%;}
 
 .gallery {display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 16px;}
 .gallery img {width: 100%; height: auto; display: block; border-radius: 8px;}
