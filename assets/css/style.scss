@@ -16,7 +16,7 @@ $header-font: Arvo, serif; // Controls font family of headers
 // Custom CSS
 // =======================================================
 a {color: $link-color; text-decoration: none; transition: color 0.2s ease-in-out; &:hover {color: darken($link-color, 15%);}}
-article img {max-width: 100%; height: auto;}
+#content img {max-width: 100%; height: auto;}
 body {background-color:#222;}
 h1,h2,h3,h4,h5 {font-family: $header-font;}
 table {border-collapse: collapse; margin-bottom: 1.5em; width:100%;}
