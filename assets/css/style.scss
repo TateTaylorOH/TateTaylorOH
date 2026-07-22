@@ -13,9 +13,14 @@ $link-color: #ffa858; // Controls color of generic links
 $header-font: Arvo, serif; // Controls font family of headers
 
 // =======================================================
+// Media Settings
+// =======================================================
+$media-max-width: 800px;
+
+// =======================================================
 // Custom CSS
 // =======================================================
-#content img {max-width: 800px !important; width: 100%; height: auto; border-radius: 8px;}
+#content img {max-width: $media-max-width !important; width: 100%; height: auto; border-radius: 8px;}
 #content.image-left img {display: block; margin-left: 0; margin-right: 0;}
 #content.image-center img {display: block; margin-left: auto; margin-right: auto;}
 #content.image-right img {display: block; margin-left: auto; margin-right: 0;}
@@ -36,7 +41,7 @@ tr:nth-child(even) {background-color: #181818;}
 .gallery {display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 16px;}
 .gallery img {width: 100%; height: auto; display: block; border-radius: 8px;}
 
-.video-container {width: 100%; max-width: 800px; aspect-ratio: 16 / 9; margin: 0 auto 1rem;}
+.video-container {width: 100%; max-width: $media-max-width; aspect-ratio: 16 / 9; margin: 0 auto 1rem;}
 .video-container iframe {width: 100%; height: 100%; border: 0; display: block;}
 
 @media (min-width: 768px) {nav {min-height: 100vh;}}
