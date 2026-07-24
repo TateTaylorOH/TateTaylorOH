@@ -1,7 +1,7 @@
 ---
 title: Slava Ukraini!
 author: Tate Taylor
-image: https://raw.githubusercontent.com/TateTaylorOH/TateTaylorOH/refs/heads/main/assets/images/SlavaUkraini.jpg
+image: https://tatetayloroh.com/assets/img/posts/2022-04-04-slavaukraini/SlavaUkraini.jpg
 ---
 At the beginning of March I dedicated myself to donating any proceeds I made that month off of my mods to the Red Cross Ukrainian Relief Effort to support victims of war.
 
