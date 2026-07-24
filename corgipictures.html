@@ -5,7 +5,7 @@ description: Cute pictures of cute corgis.
 image: https://tatetayloroh.com/assets/images/corgipics/IMG_20250725_171735293.MP2.jpg
 ---
 <div class="gallery">
-{% assign images = site.static_files | where_exp: "file", "file.path contains '/assets/images/corgipics/'" | sort: "path" | reverse %}
+{% assign images = site.static_files | where_exp: "file", "file.path contains '/assets/img/pages/corgipictures/'" | sort: "path" | reverse %}
 {% for file in images %}
   <a href="{{ file.path }}" target="_blank">
     <img src="{{ file.path }}" alt="">
