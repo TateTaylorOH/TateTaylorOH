@@ -23,7 +23,7 @@ The man laughed in response, a high-pitched almost maniacal sound. It put me on 
 
 He emerged out of the thicket and started to walk down a thin dirt path, beckoning me along. I followed suit.  
 
-![](https://raw.githubusercontent.com/TateTaylorOH/TateTaylorOH/refs/heads/main/assets/images/ECSS/ThoronsFaithful01.png)
+![](https://tatetayloroh.com/assets/img/pages/rickardcalvert/ecss/2022-11-5-thoronsfaithful/ThoronsFaithful01.png)
 
 The path led to a large ruin similar to the one I'd encountered in the marsh, but in much better shape. Walls ringed a central courtyard, with a few towers around the perimeter. We walked through a gate and into the area.
 
@@ -34,7 +34,7 @@ The man called Quintillian jumped a bit, then replied. "Beetle broth, my prophet
 
 "Ah, well." my guide replied. "We all must make sacrifices."
 
-![](https://raw.githubusercontent.com/TateTaylorOH/TateTaylorOH/refs/heads/main/assets/images/ECSS/ThoronsFaithful02.png)
+![](https://tatetayloroh.com/assets/img/pages/rickardcalvert/ecss/2022-11-5-thoronsfaithful/ThoronsFaithful02.png)
 
 Quintillian calling my guide a "prophet" set me on edge. I have only met one true prophet in my life, and he died a terrible death to a werebear in Northpoint. Every other "prophet" I've known has used the title to drum up support for questionable causes. Perhaps it was nothing, but perhaps my new acquaintances were even worse than their jailers. We proceeded through another gateway into a larger courtyard. As we entered, my guide put up his hands and began to speak. Everyone in the courtyard immediately ceased what they were doing, giving their prophet their full attention.
 
@@ -56,7 +56,7 @@ I raised my arms in a welcoming gesture. "Oh, of course my friend!" I grasped bo
 
 So, again, I was running for my life, pursued by a group of angry humanoids. I would be lying if I said this was uncommon for me. The mob behind me was loud, and very angry. I imagine headbutting their prophet was some type of terrible transgression in whatever religion these unruly chaps followed. They began to throw things at me: rocks, tomatoes, and most interestingly, forks. Quite sharp forks, I might add.
 
-![](https://raw.githubusercontent.com/TateTaylorOH/TateTaylorOH/refs/heads/main/assets/images/ECSS/ThoronsFaithful03.png)
+![](https://tatetayloroh.com/assets/img/pages/rickardcalvert/ecss/2022-11-5-thoronsfaithful/ThoronsFaithful03.png)
 
 I skidded around a corner and looked back to see my pursuers. I stopped in my tracks when I saw what was happening behind me. A large group of the golden and purple-skinned entities had appeared shortly after they began chasing me. They were ringing the mob with their shields outstretched, forcing them back into their ruin. After a minute or two of this, all the exiles had been dispersed. Two of the golden-skinned guards stayed outside the ruin to keep watch as the rest left in the direction they'd came.
 
@@ -64,7 +64,7 @@ With that, I decided I'd seen quite enough of this place. I had a book full of e
 
 I headed downhill and over into the dark lands. Upon arriving on the large stretch of coast, I got to work. I gathered several pieces of wood and brush and began to make a fire.  
 
-![](https://raw.githubusercontent.com/TateTaylorOH/TateTaylorOH/refs/heads/main/assets/images/ECSS/ThoronsFaithful04.png)
+![](https://tatetayloroh.com/assets/img/pages/rickardcalvert/ecss/2022-11-5-thoronsfaithful/ThoronsFaithful04.png)
 
 After one was lit, I covered it with some larger leaves and began to make smoke signals. I'd learned this art from the resourceful Argonians during my expedition in Black Marsh. It worked like a charm. In no time, an East Empire Company vessel approached my position.
 
@@ -76,6 +76,6 @@ They brought me on deck, and led me down to the mess hall for some food. I ate i
 
 It had been quite the adventure. I regret that I wasn't able to make it to Theodor's island to hunt the weredaedroth, but I was glad I got a relaxing vacation all the same. When you're an explorer, after all, you must expect the unexpected!
 
-![](https://raw.githubusercontent.com/TateTaylorOH/TateTaylorOH/refs/heads/main/assets/images/ECSS/ThoronsFaithful05.png)
+![](https://tatetayloroh.com/assets/img/pages/rickardcalvert/ecss/2022-11-5-thoronsfaithful/ThoronsFaithful05.png)
 
 *Begin your own adventure exploring the Shivering Isles in* [**SKYRIM EXTENDED CUT: SAINTS AND SEDUCERS**](https://www.nexusmods.com/skyrimspecialedition/mods/72772), *premiering Friday, November 11 at 12:00 PM EDT!*
