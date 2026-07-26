@@ -1,7 +1,7 @@
 ---
 title: Stonehollow Overhaul and Lost Races of Nirn
 author: Tate Taylor
-image: https://raw.githubusercontent.com/PierreDespereaux/PierreDespereaux/master/assets/images/UniqueStonehollow/UniqueStonehollowComparison.gif
+image: https://tatetayloroh.com/assets/img/mods/WTUniqueStonehollow/UniqueStonehollowComparison.gif
 ---
 Hi everyone, I just finished work on a few things!
 
