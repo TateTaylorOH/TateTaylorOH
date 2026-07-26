@@ -1,7 +1,7 @@
 ---
 title: Skyrim Silver 1.0.3 Update
 author: Tate Taylor
-image: https://raw.githubusercontent.com/TateTaylorOH/TateTaylorOH/master/assets/images/CurrencySwapper/BarterWithUlfrics.png
+image: https://raw.githubusercontent.com/TateTaylorOH/TateTaylorOH/e5707f84366e9c3c14bf92ace9360f58619f2ca4/assets/images/CurrencySwapper/BarterWithUlfrics.png
 ---
 Big update for Skyrim Silver! You will now be able to ask vendors outside of Windhelm if they'd be willing to trade in ulfrics (see the modpage for more details about the mechanic).
 
