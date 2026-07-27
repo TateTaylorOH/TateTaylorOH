@@ -20,7 +20,7 @@ $media-max-width: 800px;
 // =======================================================
 // Custom CSS
 // =======================================================
-#content img {max-width: $media-max-width !important; width: 100%; height: auto; border-radius: 8px;}
+#content img {max-width: min(100%, $media-max-width); width: auto; height: auto; border-radius: 8px;}
 #content.image-left img {display: block; margin-left: 0; margin-right: 0;}
 #content.image-center img {display: block; margin-left: auto; margin-right: auto;}
 #content.image-right img {display: block; margin-left: auto; margin-right: 0;}
@@ -37,8 +37,6 @@ tr:nth-child(even) {background-color: #181818;}
 .card {border:none;background-color:#181818;}
 .modal-header, .modal-footer {border: none;}
 .text-secondary {color:#949494 !important;}
-
-.fixed-image {object-fit: cover; display: block;}
 
 .gallery {display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 16px;}
 .gallery img {width: 100%; height: auto; display: block; border-radius: 8px;}
