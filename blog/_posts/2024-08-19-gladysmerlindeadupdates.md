@@ -10,5 +10,7 @@ I just wanted to let you all know that I've pushed out a few small updates for [
 I hope you all enjoy!
 
 ![](https://tatetayloroh.com/assets/img/posts/2024-08-19-gladysmerlindeadupdates/CambrayCorgi.png)
+
 ![](https://tatetayloroh.com/assets/img/posts/2024-08-19-gladysmerlindeadupdates/Draugr.png)
+
 ![](https://tatetayloroh.com/assets/img/posts/2024-08-19-gladysmerlindeadupdates/UndeadSoldier.png)
