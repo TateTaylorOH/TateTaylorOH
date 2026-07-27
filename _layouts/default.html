@@ -18,21 +18,24 @@
 	</head>
 	<script>
 		document.addEventListener("DOMContentLoaded", () => {
-			// Update copyright year
-			const currentYear = document.getElementById("currentYear");
-			if (currentYear) {
-				currentYear.textContent = new Date().getFullYear();
-			}
+			// Set current year
+			document.getElementById("currentYear").textContent = new Date().getFullYear();
 		
-			// Show modal from URL parameter
-			const source = new URLSearchParams(window.location.search).get("from");
-			if (source === "404") {
-				const modalElement = document.getElementById("popup404");
+			// Show modal based on URL parameter
+			const params = new URLSearchParams(window.location.search);
+			const source = params.get("from");
+			const modals = {
+				404: "popup404",
+			};
+		
+			if (modals[source]) {
+				const modalElement = document.getElementById(modals[source]);
 				if (modalElement) {
 					new bootstrap.Modal(modalElement).show();
 					history.replaceState({}, "", window.location.pathname);
 				}
 			}
+		});
 	</script>
 	<body>  
 		<div class="container-fluid text-light">
