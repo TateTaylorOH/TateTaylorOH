@@ -1,7 +1,7 @@
 ---
 title: Skyrim Silver Released
 author: Tate Taylor
-image: https://staticdelivery.nexusmods.com/mods/1704/images/127897/127897-1725142696-867347056.png
+image: https://tatetayloroh.com/assets/img/posts/2024-09-02-skyrimsilver/SkyrimSilver.png
 ---
 Happy Labor Day to all the Americans out there!
 
