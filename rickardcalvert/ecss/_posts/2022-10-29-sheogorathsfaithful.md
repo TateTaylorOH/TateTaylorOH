@@ -93,4 +93,4 @@ I jumped as I heard a voice from inside the thicket directly in front of me.
 
 ![](https://tatetayloroh.com/assets/img/pages/rickardcalvert/ecss/2022-10-29-sheogorathsfaithful/SheogorathsFaithful05.png)
 
-*Who has appeared to Rickard in this dark hour? Find out next time in the finale of* **[RICKARD CALVERT IN THE ISLE OF MADNESS: PART V - THORON’S FAITHFUL](https://tatetayloroh.github.io/TateTaylorOH/rickardcalvert/ecss/2022/11/05/thoronsfaithful.html)**, *premiering Saturday at 1:00 PM EDT!*
+*Who has appeared to Rickard in this dark hour? Find out next time in the finale of* **[RICKARD CALVERT IN THE ISLE OF MADNESS: PART V - THORON’S FAITHFUL](https://tatetayloroh.com/rickardcalvert/ecss/2022/11/05/thoronsfaithful.html)**, *premiering Saturday at 1:00 PM EDT!*
