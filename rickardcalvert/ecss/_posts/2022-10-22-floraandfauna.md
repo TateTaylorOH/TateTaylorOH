@@ -108,4 +108,4 @@ I hope all that have read this guide have come out of it knowing more than when 
 
 ![](https://tatetayloroh.com/assets/img/pages/rickardcalvert/ecss/2022-10-22-floraandfauna/FloraFauna10.png)
 
-*Now, with his research notes completed, tune in next week to see what happens next in* **[RICKARD CALVERT IN THE ISLE OF MADNESS: PART IV - SHEOGORATH’S FAITHFUL](https://tatetayloroh.github.io/TateTaylorOH/rickardcalvert/ecss/2022/10/29/sheogorathsfaithful.html)**, *premiering Saturday at 1:00 PM EDT!*
+*Now, with his research notes completed, tune in next week to see what happens next in* **[RICKARD CALVERT IN THE ISLE OF MADNESS: PART IV - SHEOGORATH’S FAITHFUL](https://tatetayloroh.com/rickardcalvert/ecss/2022/10/29/sheogorathsfaithful.html)**, *premiering Saturday at 1:00 PM EDT!*
