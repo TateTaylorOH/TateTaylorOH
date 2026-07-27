@@ -1,7 +1,7 @@
 ---
 title: Flora and Fauna
 author: Tate Tayor, edited by Catir and VictorF
-image: https://staticdelivery.nexusmods.com/images/1704/61720101-1666506172.png
+image: https://tatetayloroh.com/assets/img/pages/rickardcalvert/ecss/2022-10-22-floraandfauna/FloraFauna00.png
 order: 3
 ---
 <center><font size="6">The Most Curious<br>  
