@@ -1,7 +1,7 @@
 ---
 title: Special Announcement from Extended Cut!
 author: Tate Taylor
-image: https://i.ytimg.com/vi/neyrmlEtxNo/hqdefault.jpg?sqp=-oaymwEnCOADEI4CSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCJMWbnle8r4uoiIIdN5L2ayS9Lrw
+image: https://tatetayloroh.com/assets/img/posts/2022-09-30-specialecannouncement/EC.png
 hide_image: true
 ---
 {% include youtube.html id="neyrmlEtxNo" %}
