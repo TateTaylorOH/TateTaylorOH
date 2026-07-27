@@ -9,8 +9,11 @@ $link-color: #ffa858; // Controls color of generic links
 // =======================================================
 // Font Settings
 // =======================================================
-@import url('https://fonts.googleapis.com/css?family=Arvo:400,700,400italic'); // Google Fonts link to header font
-$header-font: Arvo, serif; // Controls font family of headers
+@import url('https://fonts.googleapis.com/css2?family=Stack:wght@400;700&display=swap');
+$body-font: 'Stack', sans-serif;
+
+@import url('https://fonts.googleapis.com/css?family=Arvo:400,700,400italic');
+$header-font: 'Arvo', serif;
 
 // =======================================================
 // Media Settings
