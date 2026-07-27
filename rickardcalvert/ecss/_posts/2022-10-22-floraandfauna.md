@@ -12,7 +12,7 @@ The Shivering Isles<br></font>
 <font size="5">BY<br>  
 Rickard Calvert<br></font>
 <br>
-<img width="500" height="500" alt="TheSigilShop™" src="https://tatetayloroh.com/assets/img/pages/rickardcalvert/ecss/2022-10-22-floraandfauna/FloraFauna01.png" />
+<img width="100" height="100" alt="Seal™" src="https://tatetayloroh.com/assets/img/pages/rickardcalvert/ecss/2022-10-22-floraandfauna/FloraFauna01.png" />
 <br>
 <i>Published 4E 200, Imperial Geographic Society</i></center>
 <br>
