@@ -2,6 +2,7 @@
 title: Introducing The Sigil Shop™!
 author: Tate Taylor
 image: https://tatetayloroh.com/assets/img/posts/2026-06-30-thesigilshop™/SigilSpoils.png
+image_align: left
 ---
 [The Elder Scrolls®: Blades](https://web.archive.org/web/20260326124631/https://play.google.com/store/apps/details?id=com.bethsoft.blade) turned six this year and then promptly died. While we all mourn the loss of a The Elder Scrolls® title of all time, it is important to honor its memory. I am excited to announce that most notable feature from [The Elder Scrolls®: Blades](https://web.archive.org/web/20260326124631/https://play.google.com/store/apps/details?id=com.bethsoft.blade) has now been brought to [The Elder Scrolls V: Skyrim Special Edition](https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/): The Sigil Shop™!
 
