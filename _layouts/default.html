@@ -33,17 +33,6 @@
 					history.replaceState({}, "", window.location.pathname);
 				}
 			}
-		
-			// Open external links in a new tab
-			document.querySelectorAll("a[href]").forEach(link => {
-				const url = new URL(link.href, window.location.href);
-		
-				if (url.origin !== window.location.origin) {
-					link.target = "_blank";
-					link.rel = "noopener noreferrer";
-				}
-			});
-		});
 	</script>
 	<body>  
 		<div class="container-fluid text-light">
