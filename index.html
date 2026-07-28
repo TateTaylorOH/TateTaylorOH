@@ -12,11 +12,10 @@
 					<p class="card-text"><small class="text-secondary">{{ post.date | date_to_string }} • {{ post.author }}</small></p>
 					{% if post.preview %}
 						<p class="card-text">{{ post.preview | strip_html }}</p>
-						<a href="{{ post.url | relative_url }}">Read More →</a>
 					{% else %}
 						<p class="card-text">{{ post.excerpt | strip_html | truncate: 250 }}</p>
-						<a href="{{ post.url | relative_url }}">Read More →</a>
-					{% endif %} 
+					{% endif %}
+					<a href="{{ post.url | relative_url }}">Read More →</a>
 				</div>
 			</div>
 		</div>
