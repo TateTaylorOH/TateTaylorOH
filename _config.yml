@@ -9,7 +9,7 @@ defaults:
       path: "" # an empty string here means all files in the project
     values:
       layout: default
-      image: "https://raw.githubusercontent.com/TateTaylorOH/TateTaylorOH/main/assets/images/branding/WebsiteBanner.png"
+      image: "https://tatetayloroh.com/assets/img/banner.png"
   - scope:
       path: "blog/_posts"
     values:
