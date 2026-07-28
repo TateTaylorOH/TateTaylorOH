@@ -5,19 +5,25 @@ image: https://tatetayloroh.com/assets/img/pages/rickardcalvert/ecss/2022-10-22-
 preview: "Nearly two years ago, I found myself shipwrecked on what I believed at the time was an island somewhere in the Abecean Sea. I now know that this was no ordinary land: it was not even on this same plane of existence. Somehow, I had been shipwrecked on none other than the Shivering Isles, a plane of Oblivion ruled by the Daedric Prince Sheogorath."
 order: 3
 ---
-<h1><center>The Most Curious<br>  
-Fauna and Flora<br>  
-of<br>  
-The Shivering Isles<br></h1>
-<br>
-<h2>BY<br>  
-Rickard Calvert<br></h2>
-<br>
-<img src="https://tatetayloroh.com/assets/img/pages/rickardcalvert/ecss/2022-10-22-floraandfauna/FloraFauna01.png">
-<br>
-<i><h4>Published 4E 200, Imperial Geographic Society</h4></i></center>
-<br>
-<h2><center>Forward</center></h2>
+<div style="text-align:center;">
+  <h1>
+    The Most Curious<br>
+    Fauna and Flora<br>
+    of<br>
+    The Shivering Isles
+  </h1>
+  
+  <h2>
+    BY<br>
+    Rickard Calvert
+  </h2>
+  
+  <img src="https://tatetayloroh.com/assets/img/pages/rickardcalvert/ecss/2022-10-22-floraandfauna/FloraFauna01.png">
+  
+  <h4><i>Published 4E 200, Imperial Geographic Society</i></h4>
+</div>
+
+<h2 style="text-align:center;">Forward</h2>
 
 Nearly two years ago, I found myself shipwrecked on what I believed at the time was an island somewhere in the Abecean Sea. I now know that this was no ordinary land: it was not even on this same plane of existence. Somehow, I had been shipwrecked on none other than the Shivering Isles, a plane of Oblivion ruled by the Daedric Prince Sheogorath.
 
@@ -27,7 +33,7 @@ What you read now is the compilation of that research put into book form for you
 
 *— Rickard Calvert, Historian*
 
-<center><h2>Elytra</h2></center>
+<h2 style="text-align:center;">Elytra</h2>
 
 ![](https://tatetayloroh.com/assets/img/pages/rickardcalvert/ecss/2022-10-22-floraandfauna/FloraFauna02.png)
 
@@ -37,7 +43,7 @@ Juvenile Elytra are called “Nymphs”, and are roughly the size of a Nordic Wo
 
 Elytra are highly aggressive, and possess deadly poison in an addition to their sharp claws. However, to the seasoned adventurer, these nasty blighters should pose no significant threat, being roughly comparable to a particularly angry Frostbite Spider.
 
-<center><h2>Flesh Atronach</h2></center>
+<h2 style="text-align:center;">Flesh Atronach</h2>
 
 ![](https://tatetayloroh.com/assets/img/pages/rickardcalvert/ecss/2022-10-22-floraandfauna/FloraFauna03.png)
 
@@ -47,7 +53,7 @@ Despite the name, the Flesh Atronach is not considered an atronach in the classi
 
 It is recommended to avoid confrontations with Flesh Atronachs if at all possible. They may look no more dangerous than the undead that can be encountered in various earthly tombs, but a wise adventurer will underestimate these abominations at his or her own peril. Since they’re created from prime pieces of different corpses, the atronach proves a very resilient creature, constructed specifically to take advantage of all its grisly parts. Moreover, powerful Flesh Atronachs are capable of casting deadly spells, a fact that may surprise unprepared adventurers (shortly before they are burnt to death).
 
-<center><h2>Gnarl</h2></center>
+<h2 style="text-align:center;">Gnarl</h2>
 
 ![](https://tatetayloroh.com/assets/img/pages/rickardcalvert/ecss/2022-10-22-floraandfauna/FloraFauna04.png)
 
@@ -55,7 +61,7 @@ The Gnarl shares many similarities with Tamriel’s own Spriggan. They are both 
 
 These creatures appear to serve as caretakers of the “Root”, a colossal interconnected organism that lies beneath the Shivering Isles. This Root is so large that it can be entered and explored at certain access points. This is where the Gnarl dwells, and these plantlike predators will use their array of natural magics to ensure you never again see the light of day.
 
-<center><h2>Grummite</h2></center>
+<h2 style="text-align:center;">Grummite</h2>
 
 ![](https://tatetayloroh.com/assets/img/pages/rickardcalvert/ecss/2022-10-22-floraandfauna/FloraFauna05.png)
 
@@ -65,7 +71,7 @@ Interestingly, unlike any other creature of the Isles, the Grummites appear to h
 
 An individual Grummite is only rarely a threat, but their tendency to work together and attack in groups can overwhelm the unprepared target. Despite their crude appearance, their weapons are deadly, and can prove the end of any cocky adventurer. When accosted by a Grummite, approach the situation as you would a particularly dangerous Goblin or Riekling encounter.
 
-<center><h2>Hunger</h2></center>
+<h2 style="text-align:center;">Hunger</h2>
 
 ![](https://tatetayloroh.com/assets/img/pages/rickardcalvert/ecss/2022-10-22-floraandfauna/FloraFauna06.png)
 
@@ -73,7 +79,7 @@ Hungers are not exclusive to the Shivering Isles, and their presence here is mos
 
 These daedric monstrosities are one of the most dangerous creatures on the Isles. They have lightning-fast reflexes, and are known to spew toxic acid from their mouth. Don’t try and be a hero: give these beasts a wide berth.
 
-<center><h2>Scalon</h2></center>
+<h2 style="text-align:center;">Scalon</h2>
 
 ![](https://tatetayloroh.com/assets/img/pages/rickardcalvert/ecss/2022-10-22-floraandfauna/FloraFauna07.png)
 
@@ -81,7 +87,7 @@ The Scalon is a hulking, muscular, fish-like creature often found near water. Th
 
 These monsters are massive, and they hit hard. As if their strength wasn’t enough, the Scalon is also known to transmit the highly deadly Scalon Blight. Adventurers who contract this disease should seek medical attention immediately.
 
-<center><h2>Shroom Beetle</h2></center>
+<h2 style="text-align:center;">Shroom Beetle</h2>
 
 ![](https://tatetayloroh.com/assets/img/pages/rickardcalvert/ecss/2022-10-22-floraandfauna/FloraFauna08.png)
 
@@ -91,7 +97,7 @@ Researchers were particularly excited to hear of this discovery, and various con
 
 These programs have received much criticism from the Synod claiming that this project is not only highly dangerous to the safety of the Empire but also quite likely physically impossible due to barrier built between our realm and Oblivion at the end of the Third Era. The Elder Council has begun to pass harsh regulatory actions against any group that aims to try to create portals to Oblivion citing the damage done in the Oblivion Crisis and Planemeld. While they are flourishing in the Shivering Isles, the Shroom Beetle’s future on Tamriel is uncertain.
 
-<center><h2>Flora</h2></center>
+<h2 style="text-align:center;">Flora</h2>
 
 ![](https://tatetayloroh.com/assets/img/pages/rickardcalvert/ecss/2022-10-22-floraandfauna/FloraFauna09.png)
 
@@ -103,7 +109,7 @@ Dementia has a much more muted variety of plants. Amongst the bog grows the thin
 
 The Isles’ Root caverns have their own set of unique flora. In Mania, the subtly glowing Flame Stalk can be found alongside the strange and aptly named Screaming Maw. Dementia has a wider variety of cave plants. The eerie glow of Withering Moons illuminate the dark Dementia root, while the twisted and bulbous Rot Scale, Thorn Hook, and Watcher’s Eye prefer the darker corners of the caves.
 
-<center><h2>Conclusion</h2></center>
+<h2 style="text-align:center;">Conclusion</h2>
 
 I hope all that have read this guide have come out of it knowing more than when they began. The Shivering Isles are a truly unique place quite unlike anywhere I’ve been before, even other planes of Oblivion itself. I aim to expand this work in the future as I return the Isles to discover their more interesting and eccentric denizens. Until next time, this has been Rickard Calvert. Remember, if you’re not exploring, you’re not living!
 
