@@ -15,7 +15,7 @@ Rickard Calvert<br></h2>
 <br>
 <img src="https://tatetayloroh.com/assets/img/pages/rickardcalvert/ecss/2022-10-22-floraandfauna/FloraFauna01.png">
 <br>
-<h4><i>Published 4E 200, Imperial Geographic Society</i></h4></center>
+<i><h4>Published 4E 200, Imperial Geographic Society</h4></i></center>
 <br>
 <h2><center>Forward</center></h2>
 
