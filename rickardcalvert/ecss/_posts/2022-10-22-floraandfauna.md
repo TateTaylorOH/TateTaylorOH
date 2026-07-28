@@ -20,7 +20,7 @@ order: 3
   <br>
   <img src="https://tatetayloroh.com/assets/img/pages/rickardcalvert/ecss/2022-10-22-floraandfauna/FloraFauna01.png">
   <br>
-  <h6><i>Published 4E 200, Imperial Geographic Society</i></h6>
+  <i>Published 4E 200, Imperial Geographic Society</i>
 </div>
 <br>
 <h2 style="text-align:center;">Forward</h2>
