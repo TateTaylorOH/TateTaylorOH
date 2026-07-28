@@ -12,15 +12,15 @@ order: 3
     of<br>
     The Shivering Isles
   </h1>
-  
+  <br>
   <h2>
     BY<br>
     Rickard Calvert
   </h2>
-  
+  <br>
   <img src="https://tatetayloroh.com/assets/img/pages/rickardcalvert/ecss/2022-10-22-floraandfauna/FloraFauna01.png">
-  
-  <h4><i>Published 4E 200, Imperial Geographic Society</i></h4>
+  <br>
+  <h6><i>Published 4E 200, Imperial Geographic Society</i></h6>
 </div>
 
 <h2 style="text-align:center;">Forward</h2>
