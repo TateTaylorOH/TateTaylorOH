@@ -2,7 +2,7 @@
 title: Flora and Fauna
 author: Tate Tayor, edited by Catir and VictorF
 image: https://tatetayloroh.com/assets/img/pages/rickardcalvert/ecss/2022-10-22-floraandfauna/FloraFauna00.png
-description: "Nearly two years ago, I found myself shipwrecked on what I believed at the time was an island somewhere in the Abecean Sea. I now know that this was no ordinary land: it was not even on this same plane of existence. Somehow, I had been shipwrecked..."
+preview: "Nearly two years ago, I found myself shipwrecked on what I believed at the time was an island somewhere in the Abecean Sea. I now know that this was no ordinary land: it was not even on this same plane of existence. Somehow, I had been shipwrecked..."
 order: 3
 ---
 <center><font size="6">The Most Curious<br>  
