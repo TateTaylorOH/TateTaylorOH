@@ -15,9 +15,9 @@
 	<body>  
 		<div class="container-fluid text-light">
 		    <div class="row">
+				{% include popups/404.html %}
+				{% include navigation.html %}
 		        <main class="col col-12 col-md-9 col-xl-10 p-0 ms-md-auto">
-					{% include popups/404.html %}
-					{% include navigation.html %}
 		            <div class="container py-4 pb-5">
 						{% include banner.html %}
 				    	{{ content }}
