@@ -9,17 +9,17 @@ defaults:
       path: "" # an empty string here means all files in the project
     values:
       layout: default
-      image: "https://tatetayloroh.com/assets/img/thumbnail.png?v=1"
+      image: "https://tatetayloroh.com/assets/img/thumbnail.png"
   - scope:
       path: "blog/_posts"
     values:
       post: true
-      permalink: /post/:title
+      permalink: "/post/:title"
   - scope:
       path: "rickardcalvert/ecss/_posts"
     values:
       post: true
-      permalink: /rickardcalvert/ecss/:title
+      permalink: "/rickardcalvert/ecss/:title"
 
 plugins:
   - jekyll-paginate
