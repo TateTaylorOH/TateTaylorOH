@@ -18,7 +18,7 @@ order: 3
     Rickard Calvert
   </h3>
   <br>
-  <img src="https://tatetayloroh.com/assets/img/pages/rickardcalvert/ecss/2022-10-22-floraandfauna/FloraFauna01.png">
+  <center><img src="https://tatetayloroh.com/assets/img/pages/rickardcalvert/ecss/2022-10-22-floraandfauna/FloraFauna01.png"></center>
   <br>
   <i>Published 4E 200, Imperial Geographic Society</i>
 </div>
