@@ -25,6 +25,7 @@ defaults:
 
 plugins:
   - jekyll-paginate
+  - jekyll-redirect-from
 
 paginate: 9 # Number of posts per page
 paginate_path: "/page:num" # Path for pagination
