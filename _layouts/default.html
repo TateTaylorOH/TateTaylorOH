@@ -23,10 +23,10 @@
 						</header>
 						<article id="article-content">
 							<div id="content" class="image-{{ page.image_align | default: 'left' }}">
-								{% unless page.hide_title %}
+								{% if page.title and page.hide_title != true %}
 								<h1>{{ page.title }}</h1>
 								<hr>
-								{% endunless %}						
+								{% endif %}				
 								{% if page.post %}
 								<img class="img-fluid mb-3" src="{{ page.image }}" alt="{{ page.title }}">
 								{% endif %}								
