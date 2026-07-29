@@ -29,11 +29,6 @@
 						history.replaceState({}, "", window.location.pathname);
 					}
 				}
-	
-				// Redirect
-				{% if page.redirect_to %}
-					window.location.replace("{{ page.redirect_to }}");
-				{% endif %}
 			});
 		</script>
 	</head>
