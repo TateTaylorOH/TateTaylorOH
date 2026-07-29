@@ -13,11 +13,11 @@
 	</head>
 	<body>  
 		<div class="container-fluid text-light">
-		    <div class="row">
+			<div class="row">
 				{% include popups.html %}
 				{% include navigation.html %}
-		        <main class="col col-12 col-md-9 col-xl-10 p-0 ms-md-auto">
-		            <div class="container py-4 pb-5">
+				<main class="col col-12 col-md-9 col-xl-10 p-0 ms-md-auto">
+					<div class="container py-4 pb-5">
 						<header class="d-none d-md-block mb-4">
 							<img class="img-fluid rounded mb-2" alt="Tate Taylor" src="https://tatetayloroh.com/assets/img/banner.png"/>
 						</header>
@@ -27,7 +27,7 @@
 								<h1>{{ page.title }}</h1>
 								<hr>
 								{% endif %}				
-								{% if page.post %}
+								{% if page.post and page.image %}
 								<img class="img-fluid mb-3" src="{{ page.image }}" alt="{{ page.title }}">
 								{% endif %}								
 								{{ content }}
@@ -38,8 +38,8 @@
 							</div>
 						</article>
 					</div>
-		        </main>
-		    </div>
+				</main>
+			</div>
 		</div>
 		{% include scripts.html %}
 	</body>
