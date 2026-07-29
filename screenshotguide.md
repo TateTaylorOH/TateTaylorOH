@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Screenshot Guide
 description: Basic tips and tricks for better screenshotting.
 image_align: center
