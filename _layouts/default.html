@@ -22,7 +22,7 @@
 							<img class="img-fluid rounded mb-2" alt="Tate Taylor" src="https://tatetayloroh.com/assets/img/banner.png"/>
 						</header>
 						<article id="article-content">
-							<div id="{{ page.content | default: 'content' }}" class="image-{{ page.image_align | default: 'left' }}">
+							<div id="content" class="image-{{ page.image_align | default: 'left' }}">
 								{% unless page.hide_title %}
 								<h1>{{ page.title }}</h1>
 								<hr>
