@@ -2,7 +2,7 @@
 title: House Rule Update - New Banners!
 author: Tate Taylor
 image: https://tatetayloroh.com/assets/img/posts/2026-05-02-houserulebanners/ThirskTribe.png
-redirect_from: /2026/05/02/houserulebanners.html/
+redirect_from: /blog/2026/05/02/houserulebanners.html/
 ---
 I recently published a small update for [House Rule](https://www.nexusmods.com/skyrimspecialedition/mods/57243)!
 
