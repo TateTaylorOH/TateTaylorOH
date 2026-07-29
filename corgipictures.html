@@ -1,7 +1,7 @@
 ---
 title: Corgi Pictures
-hide_title: true
 description: Cute pictures of cute corgis.
+hide_title: true
 ---
 <div class="gallery">
 {% assign images = site.static_files | where_exp: "file", "file.path contains '/assets/img/pages/corgipictures/'" | sort: "path" | reverse %}
