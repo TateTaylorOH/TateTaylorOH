@@ -13,12 +13,10 @@ defaults:
   - scope:
       path: "blog/_posts"
     values:
-      layout: post
       permalink: /post/:title/
   - scope:
       path: "rickardcalvert/ecss/_posts"
     values:
-      layout: post
       permalink: /rickardcalvert/ecss/:title/
 
 plugins:
