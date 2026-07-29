@@ -19,7 +19,7 @@ defaults:
       path: "rickardcalvert/ecss/_posts"
     values:
       layout: post
-      permalink: /ecss/:title/
+      permalink: /rickardcalvert/ecss/:title/
 
 plugins:
   - jekyll-paginate
