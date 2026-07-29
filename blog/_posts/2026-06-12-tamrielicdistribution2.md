@@ -2,6 +2,7 @@
 title: Tamrielic Distribution 2 and more!
 author: Tate Taylor
 image: https://tatetayloroh.com/assets/img/posts/2026-06-12-tamrielicdistribution2/TamrielicDistribution.png
+redirect_from: /blog/2026/06/12/tamrielicdistribution2.html/
 ---
 [Tamrielic Distribution](https://www.nexusmods.com/skyrimspecialedition/mods/71372) is my big integration mod that contains a bunch of modules to better implement some Anniversary Edition stuff as well as make some modded gear pop up a bit more. I made the mod around four years ago and was honestly a big mess. The mod was massively overdesigned, clunky, and very hard for me to maintain. So, the only way for me to really address that was to essentially remake the mod.
 
