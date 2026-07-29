@@ -14,7 +14,7 @@ defaults:
       path: "blog/_posts"
     values:
       post: true
-      permalink: "/post/page.{{ page.title }}"
+      permalink: "/post/{{ page.title }}"
   - scope:
       path: "rickardcalvert/ecss/_posts"
     values:
