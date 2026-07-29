@@ -15,7 +15,7 @@ defaults:
     values:
       post: true
       image_align: center
-      permalink: "/post/:title"
+      permalink: "/posts/:title"
   - scope:
       path: "rickardcalvert/ecss/_posts"
     values:
