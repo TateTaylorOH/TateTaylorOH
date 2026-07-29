@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Injected FormIDs
 description: A list of injected formIDs used in Tate Taylor's mods.
 ---
