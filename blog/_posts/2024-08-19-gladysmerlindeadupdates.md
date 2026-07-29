@@ -2,6 +2,7 @@
 title: Gladys, Merlin, and D.E.A.D. Updates
 author: Tate Taylor
 image: https://tatetayloroh.com/assets/img/posts/2024-08-19-gladysmerlindeadupdates/DaeniaCorgi.png
+redirect_from: blog/2024/08/19/gladysmerlindeadupdates.html/
 ---
 Hello everyone! 
 
