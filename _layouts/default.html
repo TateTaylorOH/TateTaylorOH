@@ -26,14 +26,11 @@
 								{% unless page.hide_title %}
 								<h1>{{ page.title }}</h1>
 								<hr>
-								{% endunless %}
-								
+								{% endunless %}						
 								{% if page.post %}
 								<img class="img-fluid mb-3" src="{{ page.image }}" alt="{{ page.title }}">
-								{% endif %}
-								
+								{% endif %}								
 								{{ content }}
-								
 								{% if page.author %}
 								<hr>
 								<div class="post-meta text-secondary">{{ page.date | date_to_string }} • {{ page.author }}</div>
