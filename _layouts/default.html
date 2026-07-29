@@ -1,24 +1,17 @@
 <!doctype html>
 <html lang="{{ site.lang | default: 'en-US' }}" data-bs-theme="dark">
-	<head>
-		{% include header.html %}
-	</head>
+	{% include header.html %}
 	<body>  
 		<div class="container-fluid text-light">
 		    <div class="row">
-				<!-- Popup Component -->
-				{% include popups/404.html %}
-		        <!-- Navigation Component -->
-		        <nav class="col col-12 col-md-3 col-xl-2 bg-black navbar navbar-expand-md navbar-dark flex-md-column pt-md-0">
-					{% include navigation.html %}
-		        </nav>
-		        <!-- Main Content -->
 		        <main class="col col-12 col-md-9 col-xl-10 p-0 ms-md-auto">
 		            <div class="container py-4 pb-5">
 						{% include banner.html %}
 				    	{{ content }}
 					</div>
 		        </main>
+				{% include navigation.html %}
+				{% include popups/404.html %}
 		    </div>
 		</div>
 	</body>
