@@ -10,26 +10,26 @@ permalink: /rickardcalvert
 <p>Join adventurer extraordinaire Rickard Calvert as he treks across Tamriel with nothing but his trusty pocket knife, uncovering lost artifacts and wandering into places he definitely doesn’t belong. It’s all in a day’s work for the greatest adventurer in all of Mundus.</p>
 <h2>Rickard Calvert in the Isle of Madness</h2>
 <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
-  {% assign filtered_rickardcalvert = site.posts | where_exp: "post", "post.categories contains 'rickardcalvert'" %}
-  {% assign filtered_posts = filtered_rickardcalvert | where_exp: "post", "post.categories contains 'ecss'" %}
-  {% assign sorted_posts = filtered_posts | sort: "order" %}
-  {% for post in sorted_posts %}
-  <div class="col">
-    <div class="card h-100">
-      {% if post.image %}
-		<img src="{{ post.image | relative_url }}" class="card-img-top" alt="{{ post.title }}">
-      {% endif %}
-        <div class="card-body">
-    <h5 class="card-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h5>
-    <p class="card-text"><small class="text-secondary">{{ post.date | date_to_string }} • {{ post.author }}</small></p>
-	{% if post.preview %}
-		<p class="card-text">{{ post.preview | strip_html | truncate: 250 }}</p>
-	{% else %}
-		<p class="card-text">{{ post.excerpt | strip_html | truncate: 250 }}</p>
-	{% endif %}
-    <a href="{{ post.url | relative_url }}">Read More →</a>
-  </div>
-</div>
-  </div>
-  {% endfor %}
+	{% assign filtered_rickardcalvert = site.posts | where_exp: "post", "post.categories contains 'rickardcalvert'" %}
+	{% assign filtered_posts = filtered_rickardcalvert | where_exp: "post", "post.categories contains 'ecss'" %}
+	{% assign sorted_posts = filtered_posts | sort: "order" %}
+	{% for post in sorted_posts %}
+		<div class="col">
+			<div class="card h-100">
+				{% if post.image %}
+					<img src="{{ post.image | relative_url }}" class="card-img-top" alt="{{ post.title }}">
+				{% endif %}
+				<div class="card-body">
+					<h5 class="card-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h5>
+					<p class="card-text"><small class="text-secondary">{{ post.date | date_to_string }} • {{ post.author }}</small></p>
+					{% if post.preview %}
+					<p class="card-text">{{ post.preview | strip_html | truncate: 250 }}</p>
+					{% else %}
+					<p class="card-text">{{ post.excerpt | strip_html | truncate: 250 }}</p>
+					{% endif %}
+					<a href="{{ post.url | relative_url }}">Read More →</a>
+				</div>
+			</div>
+		</div>
+	{% endfor %}
 </div>
