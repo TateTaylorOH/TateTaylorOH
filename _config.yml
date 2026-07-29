@@ -14,12 +14,12 @@ defaults:
       path: "blog/_posts"
     values:
       post: true
-      permalink: "/post/page.title"
+      permalink: "/post/page.{{ page.title }}"
   - scope:
       path: "rickardcalvert/ecss/_posts"
     values:
       post: true
-      permalink: "/rickardcalvert/ecss/page.title"
+      permalink: "/rickardcalvert/ecss/{{ page.title }}"
 
 plugins:
   - jekyll-paginate
