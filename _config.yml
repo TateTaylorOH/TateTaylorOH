@@ -14,11 +14,13 @@ defaults:
       path: "blog/_posts"
     values:
       post: true
+      image_align: center
       permalink: "/post/:title"
   - scope:
       path: "rickardcalvert/ecss/_posts"
     values:
       post: true
+      image_align: center
       permalink: "/rickardcalvert/ecss/:title"
 
 plugins:
