@@ -2,7 +2,7 @@
 title: Skyrim Silver Released
 author: Tate Taylor
 image: https://tatetayloroh.com/assets/img/posts/2024-09-02-skyrimsilver/SkyrimSilver.png
-redirect_from: blog/2024/09/02/skyrimsilver.html/
+redirect_from: /blog/2024/09/02/skyrimsilver.html/
 ---
 Happy Labor Day to all the Americans out there!
 
