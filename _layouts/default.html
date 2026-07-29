@@ -18,9 +18,7 @@
 				{% include navigation.html %}
 		        <main class="col col-12 col-md-9 col-xl-10 p-0 ms-md-auto">
 		            <div class="container py-4 pb-5">
-						<header class="d-none d-md-block mb-4">
-						  <img class="img-fluid rounded mb-2" alt="Tate Taylor" src="https://tatetayloroh.com/assets/img/banner.png"/>
-						</header>
+						<header class="d-none d-md-block mb-4"><img class="img-fluid rounded mb-2" alt="Tate Taylor" src="https://tatetayloroh.com/assets/img/banner.png"/></header>
 						<article id="content-article">
 							<div id="{{ page.content_id | default: 'content' }}" class="image-{{ page.image_align | default: 'left' }}">
 								{% unless page.hide_title %}
