@@ -16,6 +16,7 @@ defaults:
       post: true
       image_align: center
       permalink: "/post/:title"
+      redirect_from: ":year/:month/:day/:title"
   - scope:
       path: "rickardcalvert/ecss/_posts"
     values:
