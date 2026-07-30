@@ -5,8 +5,6 @@ image: https://i.ytimg.com/vi/neyrmlEtxNo/hqdefault.jpg?sqp=-oaymwEnCOADEI4CSFry
 hide_image: true
 redirect_from: /blog/2022/10/01/announcingecss.html/
 ---
-<!-- Begin YouTube include -->
 {% include embeds/youtube.html id="neyrmlEtxNo" %}
-<!-- End YouTube include -->
 
 I am very excited to finally be able to share this with everyone! It has been a long time coming and I think this mod contains some of my best work yet. I hope you'll all check it out next month!
