@@ -39,7 +39,5 @@ tr:nth-child(even) {background-color: #181818;}
 .modal-header, .modal-footer {border: none;}
 .text-secondary {color:#949494 !important;}
 
-@media (hover: hover) and (pointer: fine) {.gallery-preview {transition: .2s transform;}.gallery-preview:hover {transform: scale(1.05);}}
-
 @media (min-width: 1200px) {nav {min-height: 100vh;}}
 @media (min-width: 1920px) {.col-xl-2 {width:12.5%;}.col-xl-10 {width:87.5%;}}
