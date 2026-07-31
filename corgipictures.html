@@ -29,7 +29,7 @@ description: Cute pictures of cute corgis.
   imagePreviewModal.addEventListener('show.bs.modal', function (event) {
     const triggerImage = event.relatedTarget;
     if (!triggerImage) return;
-    const imageSrc = triggerImage.getAttribute('data-bs-image');
+    const imageSrc = triggerImage.getAttribute('src');
     const modalImage = imagePreviewModal.querySelector('#modalPreviewImage');
 
     modalImage.src = imageSrc;
