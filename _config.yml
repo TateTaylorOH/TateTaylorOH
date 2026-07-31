@@ -14,7 +14,7 @@ defaults:
       path: "blog/_posts"
     values:
       layout: post
-      image: "https://tatetayloroh.com/assets/img/posts/:title/featured.png"
+      image: https://tatetayloroh.com/assets/img/posts/:title/featured.png
       image_align: center
       permalink: "/posts/:title"
   - scope:
