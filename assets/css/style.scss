@@ -36,11 +36,9 @@ tr:nth-child(even) {background-color: #181818;}
 
 .bg-black {background-color:#101010;}
 .card {border:none;background-color:#181818;}
+.gallery-preview {transition: transform .2s;}.gallery-preview:hover {transform: scale(1.05);}
 .modal-header, .modal-footer {border: none;}
 .text-secondary {color:#949494 !important;}
-
-.gallery-preview {cursor: pointer; transition: transform 0.2s;}
-.gallery-preview:hover {transform: scale(1.05);}
 
 @media (min-width: 1200px) {nav {min-height: 100vh;}}
 @media (min-width: 1920px) {.col-xl-2 {width:12.5%;}.col-xl-10 {width:87.5%;}}
