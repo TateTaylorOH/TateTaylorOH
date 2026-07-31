@@ -8,4 +8,5 @@ I've released Gibberish, a mod that will change the currency you spend in the Sh
 
 I hope you enjoy!
 <!-- excerpt-end -->
+
 [**Download Link**](https://www.nexusmods.com/skyrimspecialedition/mods/127871)
