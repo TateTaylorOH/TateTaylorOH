@@ -23,7 +23,7 @@ permalink: /rickardcalvert
 				<div class="card-body">
 					<h5 class="card-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h5>
 					<p class="card-text"><small class="text-secondary">{{ post.date | date_to_string }} • {{ post.author }}</small></p>
-					{% assign excerpt_parts = post.content | split: '<!-- excerpt-start -->' %}
+					{% assign excerpt_parts = post.content | split: '<!-- excerpt-begin -->' %}
 					<p class="card-text">
 						{% if excerpt_parts.size > 1 %}
 							{{ excerpt_parts[1] | strip_html | strip_newlines | truncate: 250 }}
