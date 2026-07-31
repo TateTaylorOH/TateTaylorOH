@@ -5,13 +5,6 @@ layout: default
   {% if page.title and page.hide_title != true %}
   <h1>{{ page.title }}</h1>
   <hr>
-  {% endif %}				
-  {% if page.post and page.image and page.hide_image != true %}
-  <img class="img-fluid mb-3" src="{{ page.image }}" alt="{{ page.title }}">
-  {% endif %}								
-  {{ content }}
-  {% if page.author %}
-  <hr>
-  <div class="post-meta text-secondary">{{ page.date | date_to_string }} • {{ page.author }}</div>
   {% endif %}
+  {{ content }}
 </article>
