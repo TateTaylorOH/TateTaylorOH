@@ -7,7 +7,7 @@ description: Cute pictures of cute corgis.
 {% assign images = site.static_files | where_exp: "file", "file.path contains '/assets/img/pages/corgipictures/'" | sort: "path" | reverse %}
 {% for file in images %}
   <div class="col">
-    <img class="img-fluid rounded gallery-preview" data-bs-toggle="modal" data-bs-target="#imagePreviewModal" data-bs-image="{{ file.path }}" src="{{ file.path }}" alt="Corgi picture" loading="lazy" >
+    <img class="img-fluid rounded gallery-preview" data-bs-toggle="modal" data-bs-target="#imagePreviewModal" src="{{ file.path }}" alt="Corgi picture" loading="lazy" >
   </div>
 {% endfor %}
 </div>
@@ -18,7 +18,7 @@ description: Cute pictures of cute corgis.
         <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
       <div class="modal-body text-center pt-0">
-        <img src="" id="modalPreviewImage" class="img-fluid rounded" alt="Preview Image">
+        <img src="" id="modalPreviewImage" class="img-fluid rounded" alt="Preview image">
       </div>
     </div>
   </div>
