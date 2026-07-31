@@ -1,6 +1,7 @@
 ---
 layout: page
 ---
+<!-- Begin Post layout -->
 {% if page.image and page.hide_image != true %}
 <img class="img-fluid mb-3" src="{{ page.image }}" alt="{{ page.title }}">
 {% endif %}								
@@ -9,3 +10,4 @@ layout: page
 <hr>
 <div class="post-meta text-secondary">{{ page.date | date_to_string }} • {{ page.author }}</div>
 {% endif %}
+<!-- End Post layout -->
