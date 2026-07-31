@@ -36,7 +36,7 @@ tr:nth-child(even) {background-color: #181818;}
 
 .bg-black {background-color:#101010;}
 .card {border:none;background-color:#181818;}
-.gallery-preview {transition: transform .2s;}.gallery-preview:hover {transform: scale(1.05);}
+.gallery-preview{cursor:pointer;transition:.2s transform}.gallery-preview:hover{transform:scale(1.05)}
 .modal-header, .modal-footer {border: none;}
 .text-secondary {color:#949494 !important;}
 
