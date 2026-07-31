@@ -24,6 +24,7 @@ $media-max-width: 800px;
 #article-content.image-left img {margin-left: 0; margin-right: 0;}
 #article-content.image-center img {margin-left: auto; margin-right: auto;}
 #article-content.image-right img {margin-left: auto; margin-right: 0;}
+#article-content .video-container {max-width: min(100%, #{$media-max-width});}
 
 a {color: $link-color; text-decoration: none; transition: color 0.2s ease-in-out; &:hover {color: darken($link-color, 15%);}}
 body {background-color:#222;}
@@ -37,7 +38,6 @@ tr:nth-child(even) {background-color: #181818;}
 .card {border:none;background-color:#181818;}
 .modal-header, .modal-footer {border: none;}
 .text-secondary {color:#949494 !important;}
-.video-container {max-width: min(100%, #{$media-max-width});}
 
 @media (min-width: 1200px) {nav {min-height: 100vh;}}
 @media (min-width: 1920px) {.col-xl-2 {width:12.5%;}.col-xl-10 {width:87.5%;}}
