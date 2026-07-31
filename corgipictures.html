@@ -7,9 +7,9 @@ hide_title: true
   {% assign images = site.static_files | where_exp: "file", "file.path contains '/assets/img/pages/corgipictures/'" | sort: "path" | reverse %}
   {% for file in images %}
     <div class="col">
-    <a href="{{ file.path }}" target="_blank">
-      <img class="img-fluid rounded" src="{{ file.path }}" alt="">
-    </a>
+      <a href="{{ file.path }}" target="_blank">
+        <img class="img-fluid rounded" src="{{ file.path }}" alt="">
+      </a>
     </div>
   {% endfor %}
 </div>
