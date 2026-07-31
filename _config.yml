@@ -13,12 +13,14 @@ defaults:
   - scope:
       path: "blog/_posts"
     values:
+      layout: page
       post: true
       image_align: center
       permalink: "/posts/:title"
   - scope:
       path: "rickardcalvert/ecss/_posts"
     values:
+      layout: page
       post: true
       image_align: center
       permalink: "/rickardcalvert/ecss/:title"
