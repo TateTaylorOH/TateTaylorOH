@@ -3,6 +3,28 @@ layout: default
 title: Corgi Pictures
 description: Cute pictures of cute corgis.
 ---
+<div class="row g-3 row-cols-1 row-cols-sm-3 row-cols-md-4 row-cols-lg-5 row-cols-xl-6">
+  {% assign images = site.static_files | where_exp: "file", "file.path contains '/assets/img/pages/corgipictures/'" | sort: "path" | reverse %}
+  {% for file in images %}
+    <div class="col">
+      <!-- <a href="{{ file.path }}" target="_blank"> -->
+        <img class="img-fluid rounded gallery-preview" data-bs-toggle="modal" data-bs-target="#imagePreviewModal" src="{{ file.path }}" >
+      <!-- </a> -->
+    </div>
+  {% endfor %}
+</div>
+<div class="modal fade" id="imagePreviewModal" tabindex="-1" aria-labelledby="imagePreviewModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered modal-lg">
+    <div class="modal-content bg-dark border-0">
+      <div class="modal-header border-0 pb-0">
+        <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body text-center pt-0">
+        <img src="" id="modalPreviewImage" class="img-fluid rounded" alt="Preview Image">
+      </div>
+    </div>
+  </div>
+</div>
 <script>
   const imagePreviewModal = document.getElementById('imagePreviewModal');
   
@@ -16,26 +38,3 @@ description: Cute pictures of cute corgis.
     modalImage.alt = imageAlt;
   });
 </script>
-<div class="row g-3 row-cols-1 row-cols-sm-3 row-cols-md-4 row-cols-lg-5 row-cols-xl-6">
-  {% assign images = site.static_files | where_exp: "file", "file.path contains '/assets/img/pages/corgipictures/'" | sort: "path" | reverse %}
-  {% for file in images %}
-    <div class="col">
-      <!-- <a href="{{ file.path }}" target="_blank"> -->
-        <img class="img-fluid rounded gallery-preview" data-bs-toggle="modal" data-bs-target="#imagePreviewModal" src="{{ file.path }}" >
-      <!-- </a> -->
-    </div>
-  {% endfor %}
-</div>
-<div class="modal fade" id="imagePreviewModal" tabindex="-1" aria-labelledby="imagePreviewModalLabel" aria-hidden="true">
-  {% assign images = site.static_files | where_exp: "file", "file.path contains '/assets/img/pages/corgipictures/'" %}
-  <div class="modal-dialog modal-dialog-centered modal-lg">
-    <div class="modal-content bg-dark border-0">
-      <div class="modal-header border-0 pb-0">
-        <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
-      </div>
-      <div class="modal-body text-center pt-0">
-        <img src="{{ file.path }}" id="modalPreviewImage" class="img-fluid rounded" alt="Preview Image">
-      </div>
-    </div>
-  </div>
-</div>
