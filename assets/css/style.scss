@@ -37,7 +37,7 @@ tr:nth-child(even) {background-color: #181818;}
 .bg-black {background-color:#101010;}
 .card {border:none;background-color:#181818;}
 .modal-header, .modal-footer {border: none;}
-.modal-fit-image {max-width: max-content;}
+.modal-fit-image {max-width: fit-content;}
 .text-secondary {color:#949494 !important;}
 
 @media (min-width: 1200px) {nav {min-height: 100vh;}}
