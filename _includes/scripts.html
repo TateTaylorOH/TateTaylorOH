@@ -37,7 +37,7 @@
     if (modalImageViewer) {
       modalImageViewer.addEventListener('show.bs.modal', function (event) {
         const triggerImage = event.relatedTarget;
-        const modalImage = modalImageViewer.querySelector('#modal-image-viewer');
+        const modalImage = modalImageViewer.querySelector('#modal-image');
   
         if (triggerImage && modalImage) {
           modalImage.src = triggerImage.src;
