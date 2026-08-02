@@ -21,30 +21,28 @@
       if (window.innerWidth < 768) {
         // Open Mobile page
         img.style.cursor = 'pointer';
-    
+  
         img.addEventListener('click', () => {
           window.location.href = img.src;
         });
       } else {
         // Open Desktop modal
-        img.dataset.bsToggle = 'modal';
-        img.dataset.bsTarget = '#modal-image-viewer';
+        img.style.cursor = 'pointer';
+  
+        img.addEventListener('click', () => {
+          const modalElement = document.getElementById('modal-image-viewer');
+          const modalImage = document.getElementById('modal-image');
+  
+          if (modalElement && modalImage) {
+            modalImage.src = img.src;
+            modalImage.alt = img.alt;
+  
+            const modal = bootstrap.Modal.getOrCreateInstance(modalElement);
+            modal.show();
+          }
+        });
       }
     });
-  
-    const modalImageViewer = document.getElementById('modal-image-viewer');
-  
-    if (modalImageViewer) {
-      modalImageViewer.addEventListener('show.bs.modal', function (event) {
-        const triggerImage = event.relatedTarget;
-        const modalImage = modalImageViewer.querySelector('#modal-image');
-  
-        if (triggerImage && modalImage) {
-          modalImage.src = triggerImage.src;
-          modalImage.alt = triggerImage.alt;
-        }
-      });
-    }
   });
 </script>
 <!-- End Scripts include -->
