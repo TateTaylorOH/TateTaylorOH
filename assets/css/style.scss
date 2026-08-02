@@ -43,3 +43,9 @@ tr:nth-child(even) {background-color: #181818;}
 
 @media (min-width: 1200px) {nav {min-height: 100vh;}}
 @media (min-width: 1920px) {.col-xl-2 {width:12.5%;}.col-xl-10 {width:87.5%;}}
+
+.modal-dialog {max-width: fit-content;}
+.modal-content {width: auto;}
+.modal-body {padding: 0;}
+.modal-image {display: block; max-width: calc(100vw - 3rem); max-height: calc(100vh - 6rem);}
+
