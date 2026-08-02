@@ -5,7 +5,7 @@
     const params = new URLSearchParams(window.location.search);
     const source = params.get("from");
     const modals = {
-      404: "modal-404",
+      404: "popup404",
     };
   
     if (modals[source]) {
@@ -28,16 +28,16 @@
       } else {
         // Open Desktop modal
         img.dataset.bsToggle = 'modal';
-        img.dataset.bsTarget = '#modal-image-viewer';
+        img.dataset.bsTarget = '#imagePreviewModal';
       }
     });
   
-    const modal-image-viewer = document.getElementById('modal-image-viewer');
+    const imagePreviewModal = document.getElementById('imagePreviewModal');
   
-    if (modal-image-viewer) {
-      modal-image-viewer.addEventListener('show.bs.modal', function (event) {
+    if (imagePreviewModal) {
+      imagePreviewModal.addEventListener('show.bs.modal', function (event) {
         const triggerImage = event.relatedTarget;
-        const modalImage = modal-image-viewer.querySelector('#modalPreviewImage');
+        const modalImage = imagePreviewModal.querySelector('#modalPreviewImage');
   
         if (triggerImage && modalImage) {
           modalImage.src = triggerImage.src;
