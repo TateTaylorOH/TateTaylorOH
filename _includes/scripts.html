@@ -34,10 +34,10 @@
   
     const modalImageViewer = document.getElementById('modal-image-viewer');
   
-    if (modal-image-viewer) {
+    if (modalImageViewer) {
       modalImageViewer.addEventListener('show.bs.modal', function (event) {
         const triggerImage = event.relatedTarget;
-        const modalImage = modal-image-viewer.querySelector('#modal-image-viewer');
+        const modalImage = modalImageViewer.querySelector('#modal-image-viewer');
   
         if (triggerImage && modalImage) {
           modalImage.src = triggerImage.src;
