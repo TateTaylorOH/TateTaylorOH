@@ -36,7 +36,10 @@ tr:nth-child(even) {background-color: #181818;}
 
 .bg-black {background-color:#101010;}
 .card {border:none;background-color:#181818;}
+.modal-content {width: auto;}
+.modal-dialog {max-width: fit-content;}
 .modal-header, .modal-footer {border: none;}
+.modal-image {display: block; max-width: calc(100vw - 3rem); max-height: calc(100vh - 6rem);}
 .text-secondary {color:#949494 !important;}
 
 .img-fluid.modal-image {max-height: 85vh; object-fit: contain;}
@@ -44,7 +47,5 @@ tr:nth-child(even) {background-color: #181818;}
 @media (min-width: 1200px) {nav {min-height: 100vh;}}
 @media (min-width: 1920px) {.col-xl-2 {width:12.5%;}.col-xl-10 {width:87.5%;}}
 
-.modal-dialog {max-width: fit-content;}
-.modal-content {width: auto;}
-.modal-image {display: block; max-width: calc(100vw - 3rem); max-height: calc(100vh - 6rem);}
+
 
