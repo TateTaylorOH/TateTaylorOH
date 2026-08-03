@@ -29,6 +29,7 @@ defaults:
       path: "_rickardcalvert/ecss"
     values:
         series: ecss
+        permalink: "/rickardcalvert/ecss/:title"
         
 plugins:
   - jekyll-paginate
