@@ -26,7 +26,7 @@ defaults:
 collections:
   rickardcalvert:
     output: true
-    permalink: /rickardcalvert/
+    permalink: /rickardcalvert/:name/
 
 plugins:
   - jekyll-paginate
