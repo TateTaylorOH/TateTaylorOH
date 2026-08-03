@@ -16,17 +16,13 @@ defaults:
       layout: post
       image_align: center
       permalink: "/posts/:title"
-  - scope:
-      path: "rickardcalvert/ecss/_posts"
-    values:
-      layout: post
-      image_align: center
-      permalink: "/rickardcalvert/ecss/:title"
 
 collections:
   rickardcalvert:
     output: true
-    permalink: /rickardcalvert/:name/
+    layout: post
+    image_align: center
+    permalink: /rickardcalvert/:title/
 
 plugins:
   - jekyll-paginate
