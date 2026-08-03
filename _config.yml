@@ -23,6 +23,11 @@ defaults:
       image_align: center
       permalink: "/rickardcalvert/ecss/:title"
 
+collections:
+  rickardcalvert:
+    output: true
+    permalink: /rickardcalvert/
+
 plugins:
   - jekyll-paginate
   - jekyll-redirect-from
