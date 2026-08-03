@@ -4,6 +4,10 @@ description: I am Tate Taylor, a Skyrim mod author and Wabbajack modlist curator
 url: https://tatetayloroh.com
 excerpt_separator: "<!-- excerpt-end -->"
 
+collections:
+  rickardcalvert:
+    output: true
+
 defaults:
   - scope:
       path: "" # an empty string here means all files in the project
@@ -25,11 +29,7 @@ defaults:
       path: "_rickardcalvert/ecss"
     values:
         series: ecss
-
-collections:
-  rickardcalvert:
-    output: true
-
+        
 plugins:
   - jekyll-paginate
   - jekyll-redirect-from
