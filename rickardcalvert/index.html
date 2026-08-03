@@ -11,10 +11,8 @@ permalink: /rickardcalvert
 <h2>Rickard Calvert in the Isle of Madness</h2>
 <br>
 <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
-	{% assign filtered_rickardcalvert = site.posts | where_exp: "post", "post.categories contains 'rickardcalvert'" %}
-	{% assign filtered_posts = filtered_rickardcalvert | where_exp: "post", "post.categories contains 'ecss'" %}
-	{% assign sorted_posts = filtered_posts | sort: "order" %}
-	{% for post in sorted_posts %}
+	{% assign rickardcalvert = site.rickardcalvert | sort: "order" %}
+	{% for post in rickardcalvert %}
 		{% include cards.html %}
 	{% endfor %}
 </div>
