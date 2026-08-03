@@ -15,6 +15,6 @@ permalink: /rickardcalvert
 	{% assign filtered_posts = filtered_rickardcalvert | where_exp: "post", "post.categories contains 'ecss'" %}
 	{% assign sorted_posts = filtered_posts | sort: "order" %}
 	{% for post in sorted_posts %}
-	{% include cards.html %}
+		{% include cards.html %}
 	{% endfor %}
 </div>
