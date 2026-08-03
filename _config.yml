@@ -16,12 +16,15 @@ defaults:
       layout: post
       image_align: center
       permalink: "/posts/:title"
+    - scope:
+      type: "rickardcalvert"
+    values:
+        layout: post
+        image_align: center
 
 collections:
   rickardcalvert:
     output: true
-    layout: post
-    image_align: center
     permalink: /rickardcalvert/:title/
 
 plugins:
