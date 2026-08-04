@@ -29,6 +29,10 @@ defaults:
     values:
         series: ecss
         permalink: "/rickardcalvert/ecss/:title"
+    - scope:
+      path: "/readme.html" # an empty string here means all files in the project
+    values:
+      title: About Me
         
 plugins:
   - jekyll-paginate
