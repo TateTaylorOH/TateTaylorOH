@@ -1,5 +1,4 @@
 ---
-title: About Me
 ---
 Hello all, my name is Tate Taylor, and I am a Skyrim mod author. I create a random mix of mods and don't really stay within any one category; I just add whatever I want to see in the game.
 
@@ -21,3 +20,4 @@ If you want to look through my work, you can find it on [Nexus Mods](https://www
 4. **Stability is the most important thing.** This rule basically supersedes all the above. If a mod introduces major stability concerns, it will be quickly cut.
 
 If you're interested in learning more about Keizaal, be sure to visit [the website](https://keiza.al/).
+---
