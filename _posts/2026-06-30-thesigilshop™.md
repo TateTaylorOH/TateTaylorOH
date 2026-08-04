@@ -1,7 +1,7 @@
 ---
 title: Introducing The Sigil Shop™!
 author: Tate Taylor
-image: https://tatetayloroh.com/assets/img/posts/2026-06-30-thesigilshop%E2%84%A2/SigilSpoils.png
+image: /assets/img/posts/2026-06-30-thesigilshop%E2%84%A2/SigilSpoils.png
 redirect_from: /blog/2026/06/30/thesigilshop.html/
 ---
 [The Elder Scrolls®: Blades](https://web.archive.org/web/20260326124631/https://play.google.com/store/apps/details?id=com.bethsoft.blade) turned six this year and then promptly died. While we all mourn the loss of a The Elder Scrolls® title of all time, it is important to honor its memory. I am excited to announce that most notable feature from [The Elder Scrolls®: Blades](https://web.archive.org/web/20260326124631/https://play.google.com/store/apps/details?id=com.bethsoft.blade) has now been brought to [The Elder Scrolls V: Skyrim Special Edition](https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/): The Sigil Shop™!
@@ -10,7 +10,7 @@ What *is* the The Sigil Shop™, you may ask? Well, it is a brand new store stoc
 
 Sigils themselves are a rare form of currency that you can only find the the Soul Cairn! If you are wondering what sigils are, so are we! Perhaps try playing [An Elder Scrolls Legend: Battlespire](https://store.steampowered.com/app/1812420/An_Elder_Scrolls_Legend_Battlespire/) for more information.
 
-![](https://tatetayloroh.com/assets/img/posts/2026-06-30-thesigilshop%E2%84%A2/TheSigilShop%E2%84%A2.png)
+![](/assets/img/posts/2026-06-30-thesigilshop%E2%84%A2/TheSigilShop%E2%84%A2.png)
 
 The Sigil Shop™ is stocked will all kinds of exciting new artifacts, all brought over directly from [The Elder Scrolls®: Blades](https://web.archive.org/web/20260326124631/https://play.google.com/store/apps/details?id=com.bethsoft.blade)! More than a dozen new items are available for you to purchase, all faithfully recreated just as they appeared in [The Elder Scrolls®: Blades](https://web.archive.org/web/20260326124631/https://play.google.com/store/apps/details?id=com.bethsoft.blade), right down to them sharing models and textures from [The Elder Scrolls V: Skyrim Special Edition](https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/)!
 
