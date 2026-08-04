@@ -29,10 +29,6 @@ defaults:
     values:
         series: ecss
         permalink: "/rickardcalvert/ecss/:title"
-    - scope:
-      path: "/readme.html"
-    values:
-      title: "About Me"
         
 plugins:
   - jekyll-paginate
