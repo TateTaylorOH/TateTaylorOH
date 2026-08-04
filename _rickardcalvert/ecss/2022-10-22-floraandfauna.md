@@ -1,7 +1,7 @@
 ---
 title: Flora and Fauna
 author: Tate Tayor, edited by Catir and VictorF
-image: https://tatetayloroh.com/assets/img/pages/rickardcalvert/ecss/2022-10-22-floraandfauna/FloraFauna00.png
+image: /assets/img/pages/rickardcalvert/ecss/2022-10-22-floraandfauna/FloraFauna00.png
 order: 3
 redirect_from: /rickardcalvert/ecss/2022/10/22/floraandfauna.html/
 ---
