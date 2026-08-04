@@ -13,7 +13,7 @@ defaults:
     values:
       layout: page
       title: About Me
-      image: "https://tatetayloroh.com/assets/img/thumbnail.png"
+      image: "/assets/img/thumbnail.png"
   - scope:
       type: "posts"
     values:
