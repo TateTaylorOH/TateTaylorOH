@@ -1,7 +1,7 @@
 ---
 title: Gladys, Merlin, and D.E.A.D. Updates
 author: Tate Taylor
-image: https://tatetayloroh.com/assets/img/posts/2024-08-19-gladysmerlindeadupdates/DaeniaCorgi.png
+image: /assets/img/posts/2024-08-19-gladysmerlindeadupdates/DaeniaCorgi.png
 redirect_from: /blog/2024/08/19/gladysmerlindeadupdates.html/
 ---
 Hello everyone! 
@@ -10,8 +10,8 @@ I just wanted to let you all know that I've pushed out a few small updates for [
 
 I hope you all enjoy!
 
-![](https://tatetayloroh.com/assets/img/posts/2024-08-19-gladysmerlindeadupdates/CambrayCorgi.png)
+![](/assets/img/posts/2024-08-19-gladysmerlindeadupdates/CambrayCorgi.png)
 
-![](https://tatetayloroh.com/assets/img/posts/2024-08-19-gladysmerlindeadupdates/Draugr.png)
+![](/assets/img/posts/2024-08-19-gladysmerlindeadupdates/Draugr.png)
 
-![](https://tatetayloroh.com/assets/img/posts/2024-08-19-gladysmerlindeadupdates/UndeadSoldier.png)
+![](/assets/img/posts/2024-08-19-gladysmerlindeadupdates/UndeadSoldier.png)
