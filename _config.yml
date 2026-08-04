@@ -32,7 +32,7 @@ defaults:
     - scope:
       path: "/readme.html"
     values:
-      title: About Me
+      title: "About Me"
         
 plugins:
   - jekyll-paginate
