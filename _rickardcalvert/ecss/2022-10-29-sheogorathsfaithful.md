@@ -1,7 +1,7 @@
 ---
 title: Sheogorath's Faithful
 author: Tate Tayor, edited by Catir and VictorF
-image: https://staticdelivery.nexusmods.com/images/1704/61720101-1667064520.png
+image: /assets/img/pages/rickardcalvert/ecss/2022-10-22-floraandfauna/SheogorathsFaithful00.png
 order: 4
 redirect_from: /rickardcalvert/ecss/2022/10/29/sheogorathsfaithful.html/
 ---
