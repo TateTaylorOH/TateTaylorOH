@@ -20,4 +20,5 @@ If you want to look through my work, you can find it on [Nexus Mods](https://www
 4. **Stability is the most important thing.** This rule basically supersedes all the above. If a mod introduces major stability concerns, it will be quickly cut.
 
 If you're interested in learning more about Keizaal, be sure to visit [the website](https://keiza.al/).
+
 ---
