@@ -11,8 +11,8 @@ defaults:
   - scope:
       path: "" # an empty string here means all files in the project
     values:
-      title: About Me
       layout: page
+      title: About Me
       image: "https://tatetayloroh.com/assets/img/thumbnail.png"
   - scope:
       type: "posts"
