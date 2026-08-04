@@ -18,7 +18,7 @@ redirect_from: /rickardcalvert/ecss/2022/10/22/floraandfauna.html/
     Rickard Calvert
   </h3>
   <br>
-  <img src="https://tatetayloroh.com/assets/img/pages/rickardcalvert/ecss/2022-10-22-floraandfauna/FloraFauna01.png">
+  <img src="/assets/img/pages/rickardcalvert/ecss/2022-10-22-floraandfauna/FloraFauna01.png">
   <br>
   <i>Published 4E 200, Imperial Geographic Society</i>
 </div>
@@ -36,7 +36,7 @@ What you read now is the compilation of that research put into book form for you
 
 <h3 style="text-align:center;">Elytra</h3>
 
-![](https://tatetayloroh.com/assets/img/pages/rickardcalvert/ecss/2022-10-22-floraandfauna/FloraFauna02.png)
+![](/assets/img/pages/rickardcalvert/ecss/2022-10-22-floraandfauna/FloraFauna02.png)
 
 Elytra are large, bug-like creatures that inhabit the entirety of the Shivering Isles. There are two variants: the Northern and Southern Elytra. These variants are split cleanly along the regional Mania - Dementia line. These two types of Elytra seem to be largely identical despite their coloration. Northern Elytra have vibrant orange and green bodies, while the Southern Elytra sport a more blue and black scheme.
 
@@ -46,7 +46,7 @@ Elytra are highly aggressive, and possess deadly poison in an addition to their 
 
 <h3 style="text-align:center;">Flesh Atronach</h3>
 
-![](https://tatetayloroh.com/assets/img/pages/rickardcalvert/ecss/2022-10-22-floraandfauna/FloraFauna03.png)
+![](/assets/img/pages/rickardcalvert/ecss/2022-10-22-floraandfauna/FloraFauna03.png)
 
 Perhaps the most disturbing creature that the Shivering Isles possess is the Flesh Atronach. It is an unholy construct of flesh and sinew, sewn together from the “best bits” of various corpses. The Atronach is given life by binding a lesser daedric entity to the corpse and exerting control of its will.
 
@@ -56,7 +56,7 @@ It is recommended to avoid confrontations with Flesh Atronachs if at all possibl
 
 <h3 style="text-align:center;">Gnarl</h3>
 
-![](https://tatetayloroh.com/assets/img/pages/rickardcalvert/ecss/2022-10-22-floraandfauna/FloraFauna04.png)
+![](/assets/img/pages/rickardcalvert/ecss/2022-10-22-floraandfauna/FloraFauna04.png)
 
 The Gnarl shares many similarities with Tamriel’s own Spriggan. They are both apparent protectors of nature, and both sport similar wooden appearances. However, the Gnarl is much more grim and violent than their mundane counterparts. Their faces are warped into what appears to be an agonized scream, their bodies are twisted in unnatural ways. Eyes can even be seen growing like flowers on certain Gnarl. Like the Elytra, they have both Mania and Dementia regional variants, with coloration suitable for their locale.
 
@@ -64,7 +64,7 @@ These creatures appear to serve as caretakers of the “Root”, a colossal inte
 
 <h3 style="text-align:center;">Grummite</h3>
 
-![](https://tatetayloroh.com/assets/img/pages/rickardcalvert/ecss/2022-10-22-floraandfauna/FloraFauna05.png)
+![](/assets/img/pages/rickardcalvert/ecss/2022-10-22-floraandfauna/FloraFauna05.png)
 
 The Grummite is perhaps the most interesting inhabitant of the Realm of Madness. They resemble bipedal frog-men. The Grummite has three distinct stages of life: they are first born as Poliwogs, small tadpole-like fish that swim amongst the Isle’s waterways. Poliwogs then grow into Baliwogs, quadrapedic lizard-like beasts with a nasty bite, and make their way to land. Finally the Baliwog grows into the mature, bipedal Grummite.
 
@@ -74,7 +74,7 @@ An individual Grummite is only rarely a threat, but their tendency to work toget
 
 <h3 style="text-align:center;">Hunger</h3>
 
-![](https://tatetayloroh.com/assets/img/pages/rickardcalvert/ecss/2022-10-22-floraandfauna/FloraFauna06.png)
+![](/assets/img/pages/rickardcalvert/ecss/2022-10-22-floraandfauna/FloraFauna06.png)
 
 Hungers are not exclusive to the Shivering Isles, and their presence here is most curious. These creatures are monstrous in appearance and ability. They have thin, unnatural frames and nightmarish facial features consisting of terribly sharp teeth. The most prominent part of a Hunger is perhaps their long tongue, which seemingly is always snaking out of their mouth.
 
@@ -82,7 +82,7 @@ These daedric monstrosities are one of the most dangerous creatures on the Isles
 
 <h3 style="text-align:center;">Scalon</h3>
 
-![](https://tatetayloroh.com/assets/img/pages/rickardcalvert/ecss/2022-10-22-floraandfauna/FloraFauna07.png)
+![](/assets/img/pages/rickardcalvert/ecss/2022-10-22-floraandfauna/FloraFauna07.png)
 
 The Scalon is a hulking, muscular, fish-like creature often found near water. They are fantastic swimmers, aided in part by the prominent dorsal fin on their back. Like several other creatures, there are two variants of Scalon split between Mania and Dementia. The Scalon of Mania are a vibrant orange color accented by hints of green, while their Dementia counterparts are a solid, dull blue-gray.
 
@@ -90,7 +90,7 @@ These monsters are massive, and they hit hard. As if their strength wasn’t eno
 
 <h3 style="text-align:center;">Shroom Beetle</h3>
 
-![](https://tatetayloroh.com/assets/img/pages/rickardcalvert/ecss/2022-10-22-floraandfauna/FloraFauna08.png)
+![](/assets/img/pages/rickardcalvert/ecss/2022-10-22-floraandfauna/FloraFauna08.png)
 
 The most surprising animal on the Isles is that of the Shroom Beetle. Originally hailing from Morrowind, the Shroom Beetle was believed to have been wiped out several hundred years ago. To my great relief, this doesn’t seem to be the case. These critters seem to have adapted perfectly to the alien environment of the Isles, and have even developed their own color variations which match the mushrooms on their back with those found in the regions of Mania and Dementia.
 
@@ -100,7 +100,7 @@ These programs have received much criticism from the Synod claiming that this pr
 
 <h3 style="text-align:center;">Flora</h3>
 
-![](https://tatetayloroh.com/assets/img/pages/rickardcalvert/ecss/2022-10-22-floraandfauna/FloraFauna09.png)
+![](/assets/img/pages/rickardcalvert/ecss/2022-10-22-floraandfauna/FloraFauna09.png)
 
 While the creatures of the Shivering Isles may be more interesting to discuss, it would be amiss to not mention the various fascinating bits of plant life present on this plane. Mania and Dementia have wildly different ecosystems: one is a vibrant and colorful highland with trees of every color, while Dementia is a marshy lowland with an oppressively gloomy atmosphere. As such, there is a wide assortment of plants on offer.
 
@@ -114,6 +114,6 @@ The Isles’ Root caverns have their own set of unique flora. In Mania, the subt
 
 I hope all that have read this guide have come out of it knowing more than when they began. The Shivering Isles are a truly unique place quite unlike anywhere I’ve been before, even other planes of Oblivion itself. I aim to expand this work in the future as I return the Isles to discover their more interesting and eccentric denizens. Until next time, this has been Rickard Calvert. Remember, if you’re not exploring, you’re not living!
 
-![](https://tatetayloroh.com/assets/img/pages/rickardcalvert/ecss/2022-10-22-floraandfauna/FloraFauna10.png)
+![](/assets/img/pages/rickardcalvert/ecss/2022-10-22-floraandfauna/FloraFauna10.png)
 
 *Now, with his research notes completed, tune in next week to see what happens next in* **[RICKARD CALVERT IN THE ISLE OF MADNESS: PART IV - SHEOGORATH’S FAITHFUL](https://tatetayloroh.com/rickardcalvert/ecss/2022/10/29/sheogorathsfaithful.html)**, *premiering Saturday at 1:00 PM EDT!*
