@@ -1,7 +1,7 @@
 ---
 title: Thoron's Faithful
 author: Tate Tayor, edited by Catir and VictorF
-image: https://tatetayloroh.com/assets/img/pages/rickardcalvert/ecss/2022-11-5-thoronsfaithful/ThoronsFaithful00.png
+image: /assets/img/pages/rickardcalvert/ecss/2022-11-5-thoronsfaithful/ThoronsFaithful00.png
 order: 5
 redirect_from:
   - /rickardcalvert/ecss/2022/11/05/thoronsfaithful.html/
