@@ -30,7 +30,7 @@ defaults:
         series: ecss
         permalink: "/rickardcalvert/ecss/:title"
     - scope:
-      path: "/readme.html" # an empty string here means all files in the project
+      path: "/readme.html"
     values:
       title: About Me
         
