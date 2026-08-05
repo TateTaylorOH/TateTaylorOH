@@ -1,9 +1,9 @@
 ---
-title: Sheogorath's Faithful
-author: Tate Tayor, edited by Catir and VictorF
-image: /assets/img/pages/rickardcalvert/ecss/2022-10-29-sheogoraths-faithful/SheogorathsFaithful00.png
+title: "Sheogorath's Faithful"
+author: "Tate Tayor, edited by Catir and VictorF"
+image: "/assets/img/pages/rickardcalvert/ecss/2022-10-29-sheogoraths-faithful/SheogorathsFaithful00.png"
 order: 4
-redirect_from: /rickardcalvert/ecss/2022/10/29/sheogorathsfaithful.html/
+redirect_from: "/rickardcalvert/ecss/2022/10/29/sheogorathsfaithful.html"
 ---
 I closed my journal after finishing a sketch of a particularly bulbous glowing plant. It was invigorating to catalog so many mysterious creatures and unfamiliar flora; I’d not felt this good since my 3-month stay on Cathnoquey. With my research notes completed, I knew that I’d be better equipped than ever to explore these weird and wonderful lands. I stood and looked up at the weird orange-yellow clouds that dotted the sky above me. What a place to be shipwrecked.
 
