@@ -1,5 +1,5 @@
 ---
-title: "Thoron's Faithful
+title: "Thoron's Faithful"
 author: "Tate Tayor, edited by Catir and VictorF"
 image: "/assets/img/pages/rickardcalvert/ecss/2022-11-5-thorons-faithful/ThoronsFaithful00.png"
 order: 5
