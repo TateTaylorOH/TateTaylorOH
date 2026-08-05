@@ -2,7 +2,7 @@
 title: "Skyrim: Extended Cut - Saints and Seducers 1.1.0 Update"
 author: "Tate Taylor"
 image: "/assets/img/posts/2025-11-11-skyrim-extended-cut-saints-and-seducers-110-update/Staadylora.png"
-redirect_from: "/blog/2025/11/11ecss110.html"
+redirect_from: "/blog/2025/11/11/ecss110.html"
 ---
 I can't believe it has been three years since the release of [Skyrim: Extended Cut - Saints and Seducers](https://www.nexusmods.com/skyrimspecialedition/mods/72772). It feels like just yesterday that I was anxiously waiting to see what people would think of our work. Since then I've been blown away by the reception from the community. Saints and Seducers is definitely my proudest piece of work and I'm glad that everyone seems to love it just as much as I do.
 
