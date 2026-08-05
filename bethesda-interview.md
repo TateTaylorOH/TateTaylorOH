@@ -1,5 +1,6 @@
 ---
 title: "Bethesda Interview"
+description: "June 2022 Monthly Modder interview with Tate Taylor."
 image_align: "center"
 ---
 ![Hero](/assets/img/posts/2022-06-28-monthly-modder-tatetayloroh/LargeHero_JuneModder.png)
