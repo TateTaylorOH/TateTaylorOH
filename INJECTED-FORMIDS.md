@@ -53,3 +53,5 @@ description: "A list of injected formIDs used in Tate Taylor's mods."
 | 01DE5038 | LocSetFalmerRuin | [C.O.I.N. - Coins of Interesting Nature](https://www.nexusmods.com/skyrimspecialedition/mods/51439) |
 | 01DE5039 | LocSetAyleidRuin | [C.O.I.N. - Coins of Interesting Nature](https://www.nexusmods.com/skyrimspecialedition/mods/51439) |
 | 01DE5040 | LocSetRootCave | [C.O.I.N. - Coins of Interesting Nature](https://www.nexusmods.com/skyrimspecialedition/mods/51439) |
+| 01DE5041 | LocSetArgonianRuin | [C.O.I.N. - Coins of Interesting Nature](https://www.nexusmods.com/skyrimspecialedition/mods/51439) |
+| 01DE5042 | DES_Vosona | [C.O.I.N. - Coins of Interesting Nature](https://www.nexusmods.com/skyrimspecialedition/mods/51439) |
