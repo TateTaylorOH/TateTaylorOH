@@ -1,8 +1,8 @@
 ---
-title: C.O.I.N. 3.0.0 Released
-author: Tate Taylor
-image: /assets/img/posts/2024-08-28-coin-300-released/COIN3.png
-redirect_from: /blog/2024/08/28/coin3.html/
+title: "C.O.I.N. 3.0.0 Released"
+author: "Tate Taylor"
+image: "/assets/img/posts/2024-08-28-coin-300-released/COIN3.png"
+redirect_from: "/blog/2024/08/28/coin3.html"
 ---
 I've released a big 3.0.0 update for C.O.I.N.!
 
