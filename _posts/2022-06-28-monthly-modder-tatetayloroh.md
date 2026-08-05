@@ -7,9 +7,9 @@ image: /assets/img/posts/2022-06-28-monthly-modder-tatetayloroh/1Y1HUYEpDpTUvugI
 
 ---
 
-Many mod authors may own and love their pets, but TateTaylorOH takes his devotion to a new level in the form of his mods "Gladys the Corgi" [Xbox](https://bethesda.net/en/mods/skyrim/mod-detail/4217662) and "Merlin the Corgi" [Xbox](https://bethesda.net/en/mods/skyrim/mod-detail/4236473), which insert his real life dogs into Skyrim as pet companions, each with their own unique abilities to assist any Dragonborn - Gladys to cheerfully "carry your burdens" and Merlin to transform into whatever elemental form will most help you in combat.
+Many mod authors may own and love their pets, but TateTaylorOH takes his devotion to a new level in the form of his mods "Gladys the Corgi" ([Xbox](https://bethesda.net/en/mods/skyrim/mod-detail/4217662)) and "Merlin the Corgi" ([Xbox](https://bethesda.net/en/mods/skyrim/mod-detail/4236473)), which insert his real life dogs into Skyrim as pet companions, each with their own unique abilities to assist any Dragonborn - Gladys to cheerfully "carry your burdens" and Merlin to transform into whatever elemental form will most help you in combat.
 
-In addition to capturing the physical likeness of the real life Gladys and Merlin in these mods, TateTaylorOH [Bethesda.net](https://creations.bethesda.net/en/skyrim/all?author_displayname=TateTaylorOH), [Nexus](https://www.nexusmods.com/users/61720101/) also recorded their real barks to use in the voice acting for the companion mods. He tells us more about his furry muses, his other integration mods, and the larger modding community in this month's modder interview.
+In addition to capturing the physical likeness of the real life Gladys and Merlin in these mods, TateTaylorOH ([Bethesda.net](https://creations.bethesda.net/en/skyrim/all?author_displayname=TateTaylorOH), [Nexus](https://www.nexusmods.com/users/61720101/)) also recorded their real barks to use in the voice acting for the companion mods. He tells us more about his furry muses, his other integration mods, and the larger modding community in this month's modder interview.
 
 {% include youtube.html id="KPsrB8ZPaV0" %}
 
@@ -61,7 +61,7 @@ Beyond the actual act of modding, I also love the community. There are a lot of 
 **Any mods authors you'd like to recommend?**
 
 I could name off some of my absolute favorite authors like JaySerpa or EpicCrab, but instead I want to recommend a few authors I don't think get the attention they deserve:  
-Jelidity [Bethesda.net](https://creations.bethesda.net/en/skyrim/all?author_displayname=Jelidity), [Nexus](https://www.nexusmods.com/users/4569617) is someone I've worked with a lot recently, she is a great collaborator and is always making interesting content. Like me she has done Creation Club integration mods but also neat lore-based mods like Eastern Dwemer Towers in Solstheim and Pocket Mammoths. I'd also be remiss not to mention Amber Refossilized and Stalhrim Refrozen, she loves her multilayer parallax.
+Jelidity ([Bethesda.net](https://creations.bethesda.net/en/skyrim/all?author_displayname=Jelidity), [Nexus](https://www.nexusmods.com/users/4569617)) is someone I've worked with a lot recently, she is a great collaborator and is always making interesting content. Like me she has done Creation Club integration mods but also neat lore-based mods like Eastern Dwemer Towers in Solstheim and Pocket Mammoths. I'd also be remiss not to mention Amber Refossilized and Stalhrim Refrozen, she loves her multilayer parallax.
 
 Parapets ([Nexus](https://www.nexusmods.com/users/39501725)) does a lot of DLL work and everything they make is just very cool. My favorites would probably be their clothing crafting mod More Craftable Equipment or the recent DLL mod Dynamic Armor Variants that allows you to do things like toggle a hood up and down without swapping between two different armor pieces.
 
