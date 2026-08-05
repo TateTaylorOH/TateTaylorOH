@@ -5,10 +5,10 @@
   {% if page.url == "/" or page.url == "/index.html" %}
     {% seo title=false %}
     <title>{{ site.title }}</title>
-    {% elsif paginator.page > 1 %}
+  {% elsif paginator.page > 1 %}
     {% seo title=false %}
     <title>{{ site.title }} - Page {{ paginator.page }}</title>
-    {% else %}
+  {% else %}
     {% seo %}
   {% endif %}
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
