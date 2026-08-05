@@ -7,6 +7,8 @@ Many mod authors may own and love their pets, but TateTaylorUSA takes his devoti
 
 In addition to capturing the physical likeness of the real life Gladys and Merlin in these mods, TateTaylorUSA [Bethesda.net](https://bethesda.net/en/mods/skyrim?author_username=TateTaylorUSA&number_results=20&order=desc&page=1&product=skyrim),[Nexus](https://www.nexusmods.com/users/61720101/)) also recorded their real barks to use in the voice acting for the companion mods. He tells us more about his furry muses, his other integration mods, and the larger modding community in this month’s modder interview.
 
+{% include youtube.html id="KPsrB8ZPaV0" %}
+
 **Two of your standout mods are Gladys and Merlin, the corgi companions. Can you tell us a little about the originals, and how they inspired the more fantastic abilities of these Skyrim followers?**
 
 We got Gladys in late 2019, a day after we moved into our new home. I’ll be honest; I wasn’t Gladys’ biggest fan for a while. However, as she got older and I got used to all her corgiisms she really became my dog. Merlin we got in late 2020 because we wanted to get Gladys a friend. Having one dog can be exhausting but, seemingly against logic, having two is easier because they can both play together.  
@@ -62,3 +64,5 @@ Parapets ([Nexus](https://www.nexusmods.com/users/39501725)) does a lot of DLL w
 ButaneBoss ([Nexus](https://www.nexusmods.com/users/21325879)) doesn’t have a lot of mods but I do enjoy what he has released, namely Ancient Nord Armo(u)ry EXTREME, which adds a ton of new Ancient Nord Armor variants. His modpage images are also super whacky which makes looking at his content a special experience.
 
 AndrealphusVIII ([Nexus](https://www.nexusmods.com/users/5646623)) has made everything from minor tweaks to technically impressive overhauls. I think my favorite mod from him is Vittorias’ Alternate Wedding where you can attend Vittoria Vici’s wedding peacefully if you’ve destroyed the Dark Brotherhood. Worldspace Transition Tweaks is also really impressive, being able to see Solstheim from the mainland is so cool! I’d also like to mention Bring Meeko to Lod because that man needs a dog.
+
+{% include youtube.html id="hzHIfaf_zg" %}
