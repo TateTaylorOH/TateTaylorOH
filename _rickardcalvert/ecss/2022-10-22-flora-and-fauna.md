@@ -1,9 +1,9 @@
 ---
-title: Flora and Fauna
-author: Tate Tayor, edited by Catir and VictorF
-image: /assets/img/pages/rickardcalvert/ecss/2022-10-22-flora-and-fauna/FloraFauna00.png
+title: "Flora and Fauna"
+author: "Tate Tayor, edited by Catir and VictorF"
+image: "/assets/img/pages/rickardcalvert/ecss/2022-10-22-flora-and-fauna/FloraFauna00.png"
 order: 3
-redirect_from: /rickardcalvert/ecss/2022/10/22/floraandfauna.html/
+redirect_from: "/rickardcalvert/ecss/2022/10/22/floraandfauna.html"
 ---
 <div style="text-align:center;">
   <h1>
