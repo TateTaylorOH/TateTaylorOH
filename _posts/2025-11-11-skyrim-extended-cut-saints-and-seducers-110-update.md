@@ -1,0 +1,26 @@
+---
+title: Skyrim Extended Cut - Saints and Seducers 1.1.0 Update
+author: Tate Taylor
+image: /assets/img/posts/2025-11-11-skyrim-extended-cut-saints-and-seducers-110-update/Staadylora.png
+redirect_from: /blog/2026/05/02/houserulebanners.html/
+---
+I can't believe it has been three years since the release of [Skyrim: Extended Cut - Saints and Seducers](https://www.nexusmods.com/skyrimspecialedition/mods/72772). It feels like just yesterday that I was anxiously waiting to see what people would think of our work. Since then I've been blown away by the reception from the community. Saints and Seducers is definitely my proudest piece of work and I'm glad that everyone seems to love it just as much as I do.
+
+For a while now we've been working on a sort of "definitive" update that would expand on some of the underused areas of the mod and iron out all the little niggles we've had with it since release. I am really happy with how it turned out and I hope you all enjoy the new stuff we've added!
+
+Here are some thing you can expect from the update:
+- An expanded epilogue with new dialogue and dynamic changes to the Asylum
+- A redesigned final dungeon with new encounters and secrets
+- Remastered weather and environments
+- New dialogue for the Lucien and Shirley modded followers
+- Fishing integration powered by Fishing Extension Framework
+- Fixes for dozens of bugs, great and small
+- And much more...
+
+*The full changelog for Patch 1.1 is available [here](https://www.nexusmods.com/skyrimspecialedition/articles/11070).*
+
+Thank you all so much for your support over the years, it really means the world to me. I hope you all enjoy your return to the Isles!
+
+![](/assets/img/posts/2025-11-11-skyrim-extended-cut-saints-and-seducers-110-update/Mania.png)
+
+![](/assets/img/posts/2025-11-11-skyrim-extended-cut-saints-and-seducers-110-update/Dementia.png)

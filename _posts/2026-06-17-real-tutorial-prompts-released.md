@@ -1,7 +1,7 @@
 ---
 title: Real Tutorial Prompts Released
 author: Tate Taylor
-image: /assets/img/posts/2026-06-17-realtutorialprompts/RealTutorialPrompts.png
+image: /assets/img/posts/2026-06-17-real-tutorial-prompts-released/RealTutorialPrompts.png
 redirect_from: /blog/2026/06/17/realtutorialprompts.html/
 ---
 It has long annoyed me that the [new tutorials](/assets/img/mods/RealTutorials/FakeTutorial.png) added by Anniversary Edition aren't [actually tutorials](/assets/img/mods/RealTutorials/Tutorial.jpg). For a long time this wasn't really something that could be addressed because Vanilla tutorial prompts couldn't be accessed by traditional Papyrus means.

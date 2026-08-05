@@ -1,7 +1,7 @@
 ---
 title: Gibberish Released
 author: Tate Taylor
-image: /assets/img/posts/2024-08-28-gibberish/Gibberish.png
+image: /assets/img/posts/2024-08-28-gibberish-released/Gibberish.png
 redirect_from: /blog/2024/08/28/gibberish.html/
 ---
 I've released Gibberish, a mod that will change the currency you spend in the Shivering Isles from septims to gibbers!

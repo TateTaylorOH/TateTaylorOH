@@ -1,7 +1,7 @@
 ---
 title: Red Cross Ukrainian Relief Effort
 author: Tate Taylor
-image: /assets/img/posts/2022-03-03-ukrainianreliefeffort/UkraineCharity.jpg
+image: /assets/img/posts/22022-03-03-red-cross-ukrainian-relief-effort/UkraineCharity.jpg
 redirect_from: /blog/2022/03/03/ukrainianreliefeffort.html/
 ---
 For the month of March I will be forgoing all Donation Points I would normally earn on my mods and instead put them towards the Red Cross Ukrainian Relief Effort to support victims of war.

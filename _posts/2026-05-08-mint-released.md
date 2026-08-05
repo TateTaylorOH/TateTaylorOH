@@ -1,7 +1,7 @@
 ---
 title: M.I.N.T. Released
 author: Tate Taylor
-image: /assets/img/posts/2026-05-08-mint/MINT.png
+image: /assets/img/posts/2026-05-08-mint-released/MINT.png
 redirect_from: /blog/2026/05/08/mint.html/
 ---
 About two years ago I created several mods using [Currency Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/127686) that added new functional currencies to the game; Morrowind Mint and Gibberish perhaps being the most well-known examples. I am quite fond of these mods as they add a lot of fun mechanical immersion to the game. Last month I was working on some updates for these mods when I became annoyed while looking at how they function under the hood. Each Currency Swapper mod had a ton of repeated code that was inefficient and honestly kind of sloppy. With that, this mod was born.
@@ -12,7 +12,7 @@ This mod has been designed to directly compliment [Coins of Interesting Nature (
 
 Going forward C.O.I.N. will be the mod that covers all defunct ancient coins while M.I.N.T. will cover coins that are still in circulation as legal tender. If using [Inventory Interface Information Injector](https://www.nexusmods.com/skyrimspecialedition/mods/85702), you will be able to see this distinction in the UI.
 
-![](/assets/img/posts/2026-05-08-mint/I4.png)
+![](/assets/img/posts/2026-05-08-mint-released/I4.png)
 
 Coins in C.O.I.N. will continue to operate as they always have, converting to their value in gold when picked up, but coins in M.I.N.T. will instead sit in your inventory until you are able to spend them at relevant vendors or services. I am quite happy with this distinction and I think it gives players some options in how exactly they want to interact with my currency mods!
 
@@ -20,13 +20,13 @@ There's been a few changes to the my Currency Swapper mods now that they are par
 
 As you've probably already seen, the sancar has gotten a new asset courtesy of [ButaneBoss](https://www.nexusmods.com/profile/ButaneBoss)! I am really happy with how the new sancar turned out and I think I really captures the essence of the Third Aldmeri Dominion.
 
-![](/assets/img/posts/2026-05-08-mint/Sancar.png)
+![](/assets/img/posts/2026-05-08-mint-released/Sancar.png)
 
 This big overhaul was also important to ensure that I have an easier time extending support to other mods in the future. I am already planning to support all of the regional currencies that [Beyond Skyrim](https://beyondskyrim.org/) will add!
 
 I am really excited to for the future of M.I.N.T. and how you'll need to eventually juggle different currencies as your pass between places like the Empire, Morrowind and beyond!
 
-![](/assets/img/posts/2026-05-08-mint/TradeWinds.png)
+![](/assets/img/posts/2026-05-08-mint-released/TradeWinds.png)
 
 I hope you enjoy this update, I'm glad to have it out for everyone to enjoy. Get out there and earn some clinky shiny coins! 
 

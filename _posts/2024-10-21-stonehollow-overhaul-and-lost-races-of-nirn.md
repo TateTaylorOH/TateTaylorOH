@@ -1,7 +1,7 @@
 ---
 title: Stonehollow Overhaul and Lost Races of Nirn
 author: Tate Taylor
-image: /assets/img/posts/2024-10-21-stonehollowlron/UniqueStonehollowComparison.gif
+image: /assets/img/posts/2024-10-21-stonehollow-overhaul-and-lost-races-of-nirn/UniqueStonehollowComparison.gif
 redirect_from: /blog/2024/10/21/stonehollowlron.html/
 ---
 Hi everyone, I just finished work on a few things!
@@ -10,7 +10,7 @@ First and foremost there's Stonehollow Overhaul, a mod that reworks the titular 
 
 [**Download Link**](https://www.nexusmods.com/skyrimspecialedition/mods/131619)
 
-![](/assets/img/posts/2024-10-21-stonehollowlron/LRON.png)
+![](/assets/img/posts/2024-10-21-stonehollow-overhaul-and-lost-races-of-nirn/LRON.png)
 
 The other big thing I've released in a complete overhaul of my race mod. It is now know as Lost Races of Nirn. The mod will no longer be designed exclusively around Aetherius, instead the base abilities will be in-line with vanilla with additional patches for Aetherius and Scion.
 

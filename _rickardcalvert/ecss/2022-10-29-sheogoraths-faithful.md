@@ -1,7 +1,7 @@
 ---
 title: Sheogorath's Faithful
 author: Tate Tayor, edited by Catir and VictorF
-image: /assets/img/pages/rickardcalvert/ecss/2022-10-29-sheogorathsfaithful/SheogorathsFaithful00.png
+image: /assets/img/pages/rickardcalvert/ecss/2022-10-29-sheogoraths-faithful/SheogorathsFaithful00.png
 order: 4
 redirect_from: /rickardcalvert/ecss/2022/10/29/sheogorathsfaithful.html/
 ---
@@ -15,7 +15,7 @@ Even though I couldn’t move my head I was able to make out the forms of three 
 
 One of them must have rolled me over, and suddenly I was laying on my back facing upward. The three women peered down at me.
 
-![](/assets/img/pages/rickardcalvert/ecss/2022-10-29-sheogorathsfaithful/SheogorathsFaithful01.png)
+![](/assets/img/pages/rickardcalvert/ecss/2022-10-29-sheogoraths-faithful/SheogorathsFaithful01.png)
 
 “What is this? He is not a prisoner,” said one.  
 “How do you know? They all look the same to me,” replied another.  
@@ -36,7 +36,7 @@ These mysterious women had made a mistake. They must have assumed that the bindi
 
 They led me over a hill and along a short ridge, alongside the massive walls I’d observed earlier, until we reached a fortified camp. They pushed me past some simple fences and into a paved clearing. At the back of the clearing, massive doors made of solid brown wood were set into the wall. I wondered vaguely what was on the other side.
 
-![](/assets/img/pages/rickardcalvert/ecss/2022-10-29-sheogorathsfaithful/SheogorathsFaithful02.png)
+![](/assets/img/pages/rickardcalvert/ecss/2022-10-29-sheogoraths-faithful/SheogorathsFaithful02.png)
 
 I took a moment to observe the area around me. Simple barricades and shacks ringed the clearing, which appeared to be a small checkpoint. A few barrels and target dummies lined what I assumed was a training yard of some point. Most interesting was a sign that simply read:
 
@@ -56,7 +56,7 @@ The Warden smiled, much like a wolf who's sighted a small, limping animal.
 
 She took me by the front of my shirt and hurled me on the pavement.
 
-![](/assets/img/pages/rickardcalvert/ecss/2022-10-29-sheogorathsfaithful/SheogorathsFaithful03.png)
+![](/assets/img/pages/rickardcalvert/ecss/2022-10-29-sheogoraths-faithful/SheogorathsFaithful03.png)
 
 “How did you get into the Asylum, mortal? Answer me!”
 
@@ -75,7 +75,7 @@ Startled, the creatures around me froze for a second, allowing me to get a small
 “Kill him!” yelled Chuna.  
 “Capture him!" yelled Vika.
 
-![](/assets/img/pages/rickardcalvert/ecss/2022-10-29-sheogorathsfaithful/SheogorathsFaithful04.png)
+![](/assets/img/pages/rickardcalvert/ecss/2022-10-29-sheogoraths-faithful/SheogorathsFaithful04.png)
 
 Golden arrows began to rain down around me and blasts of red magic danced dangerously close to me. I kept running and didn’t look back. I’m no stranger to unwanted pursuit, and I lost a good friend in Black Marsh to an Argonian gator when my friend decided to see if we had “lost the bugger yet.” I took a sharp corner and dove into a thicket of multi-colored trees. The humanoids were persistent and followed close behind.
 
@@ -92,6 +92,6 @@ I jumped as I heard a voice from inside the thicket directly in front of me.
 
 “I see you have met our captors.” it said.
 
-![](/assets/img/pages/rickardcalvert/ecss/2022-10-29-sheogorathsfaithful/SheogorathsFaithful05.png)
+![](/assets/img/pages/rickardcalvert/ecss/2022-10-29-sheogoraths-faithful/SheogorathsFaithful05.png)
 
 *Who has appeared to Rickard in this dark hour? Find out next time in the finale of* **[RICKARD CALVERT IN THE ISLE OF MADNESS: PART V - THORON’S FAITHFUL](https://tatetayloroh.com/rickardcalvert/ecss/2022/11/05/thoronsfaithful.html)**, *premiering Saturday at 1:00 PM EDT!*

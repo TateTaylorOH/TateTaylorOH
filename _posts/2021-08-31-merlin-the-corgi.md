@@ -8,4 +8,4 @@ Jelidity has kindly provided me with a Cardigan Corgi asset for Merlin.
 
 I am happy to announce that development on "Merlin the Corgi" has begun.
 
-![](/assets/img/posts/2021-08-31-merlin/Merlin2.png)
+![](/assets/img/posts/2021-08-31-merlin-the-corgi/Merlin2.png)
