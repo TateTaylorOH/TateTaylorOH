@@ -3,7 +3,7 @@ title: "Bethesda Interview"
 description: "June 2022 Bethesda Monthly Modder interview with Tate Taylor."
 image_align: "center"
 ---
-![Hero](/assets/img/posts/2022-06-28-monthly-modder-tatetayloroh/LargeHero_JuneModder.png)
+![Hero](/assets/img/bethesda-interview/LargeHero_JuneModder.png)
 
 *Originally published on [Bethesda.net](https://bethesda.net/en-US/news/monthly-modder-tatetaylorusa) on June 28, 2022.*
 
@@ -23,7 +23,7 @@ I didn't want to rehash Gladys when I made Merlin, so I decided to do something 
 
 I intend on porting Gladys and Merlin over to every Bethesda game from Skyrim on. The guys at Fallout: London are rigging up the Gladys model to use in their own mod. When they're done they're going to hand it over to me and soon thereafter some corgis will be available in the Commonwealth. I think I'll continue with the theme of making Gladys a normal dog and Merlin a _special dog_ (cyborgi?) limited to mainly combat roles.
 
-![In-game Gladys and Merlin](/assets/img/posts/2022-06-28-monthly-modder-tatetayloroh/In-game_Gladys_and_Merlin.png)
+![In-game Gladys and Merlin](/assets/img/bethesda-interview/In-game_Gladys_and_Merlin.png)
 
 **How do Gladys and Merlin respond to hearing their own voice acting in the game?**
 
@@ -31,7 +31,7 @@ Merlin doesn't really seem to care, but that is about in-character for him. It w
 
 Gladys on the other hand is a loaf of nerves. Sometimes when she hears herself in Skyrim she feels the need to yell back. I had no issues getting Gladys to bark for her "lines".
 
-![IRL Gladys and Merlin](/assets/img/posts/2022-06-28-monthly-modder-tatetayloroh/IRL_Gladys_and_Merlin.png)
+![IRL Gladys and Merlin](/assets/img/bethesda-interview/IRL_Gladys_and_Merlin.png)
 
 **You also do a lot of integration mods. What are your goals here?**
 
@@ -40,7 +40,7 @@ Recently I've been exploring some more ambitious overhauls of Creation Club cont
 
 Outside of the Creation Club I usually tweak a lot of the mods I use to make them fit into my personal load order better. I don't publish most of these, but I did end up posting Beyond Skyrim in Skyrim, which has much the same goals as the projects I mentioned above. Just this time for integrating Beyond Skyrim content into the vanilla game.
 
-![Knight of the North](/assets/img/posts/2022-06-28-monthly-modder-tatetayloroh/Knight_of_the_North.png)
+![Knight of the North](/assets/img/bethesda-interview/Knight_of_the_North.png)
 
 **You're part of a larger mod project, Skyrim Extended Cut, any surprises in how your modding process changed?**
 
@@ -49,7 +49,7 @@ I became friends with the project lead, Catir, and after a while joined the proj
 
 Since then I've found myself doing more direct collaborations than ever before; I have collaborated with Catir, EpicCrab, Simon Magus, Jelidity and VictorF extensively. Right now it feels like I am always working on or planning something with Jelidity.
 
-![Extended Cut Miraak Promo](/assets/img/posts/2022-06-28-monthly-modder-tatetayloroh/Extended_Cut_Miraak_Promo.png)
+![Extended Cut Miraak Promo](/assets/img/bethesda-interview/Extended_Cut_Miraak_Promo.png)
 
 **What is your favorite part of modding?**
 
@@ -57,7 +57,7 @@ I've always wanted to tell stories, but I have never found my writing skills to 
 
 Beyond the actual act of modding, I also love the community. There are a lot of great people and good friends I have met since I started making content. Just the other day I had the pleasure of meeting Grandma Shirley in person!
 
-![WIP Point of Interest](/assets/img/posts/2022-06-28-monthly-modder-tatetayloroh/WIP_Point_of_Interest.png)
+![WIP Point of Interest](/assets/img/bethesda-interview/WIP_Point_of_Interest.png)
 
 **Any mods authors you'd like to recommend?**
 

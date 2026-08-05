@@ -2,7 +2,7 @@
 layout: "default"
 title: "Rickard Calvert"
 description: "Follow the journey of Rickard Calvert, adventurer extraordinaire!"
-image: "/assets/img/pages/rickardcalvert/thumbnail.png"
+image: "/assets/img/pages/rickard-calvert/thumbnail.png"
 redirect_from: "/rickardcalvert.html"
 ---
 <h1>The Adventures of Rickard Calvert</h1>
@@ -11,7 +11,7 @@ redirect_from: "/rickardcalvert.html"
 <h2>Rickard Calvert in the Isle of Madness</h2>
 <br>
 <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
-	{% assign rickardcalvert = site.rickardcalvert | where: "series", "ecss" | sort: "order" %}
+	{% assign rickard-calvert = site.rickard-calvert | where: "series", "ecss" | sort: "order" %}
 	{% for post in rickardcalvert %}
 		{% include cards.html %}
 	{% endfor %}

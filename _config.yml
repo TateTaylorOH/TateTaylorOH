@@ -21,12 +21,12 @@ defaults:
       image_align: "center"
       permalink: "/posts/:title"
   - scope:
-      type: "rickardcalvert"
+      type: "rickard-calvert"
     values:
         layout: "post"
         image_align: "center"
   - scope:
-      path: "_rickardcalvert/ecss"
+      path: "_rickard-calvert/ecss"
     values:
         series: "ecss"
         permalink: "/rickardcalvert/ecss/:title"

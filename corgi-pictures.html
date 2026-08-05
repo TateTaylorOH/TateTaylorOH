@@ -5,7 +5,7 @@ description: "Cute pictures of cute corgis."
 redirect_from: "/corgipictures.html"
 ---
 <div class="row g-3 row-cols-1 row-cols-sm-3 row-cols-md-4 row-cols-lg-5 row-cols-xl-6">
-{% assign images = site.static_files | where_exp: "file", "file.path contains '/assets/img/pages/corgipictures/'" | sort: "path" | reverse %}
+{% assign images = site.static_files | where_exp: "file", "file.path contains '/assets/img/pages/corgi-pictures/'" | sort: "path" | reverse %}
 {% for file in images %}
   <div id="article-content" class="col">
     <img class="img-fluid rounded" src="{{ file.path }}" alt="Corgi picture" loading="lazy">
