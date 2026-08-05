@@ -4,32 +4,38 @@
 
   <url>
        <loc>https://tatetayloroh.com/</loc>
-       <lastmod>2026-07-27T19:00:00+00:00</lastmod>
+       <lastmod>2026-08-05T13:00:00+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>1.0000</priority>
   </url>
   <url>
        <loc>https://tatetayloroh.com/readme</loc>
-       <lastmod>2026-07-27T19:00:00+00:00</lastmod>
+       <lastmod>2026-08-05T13:00:00+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.9750</priority>
   </url>
   <url>
-       <loc>https://tatetayloroh.com/corgipictures</loc>
-       <lastmod>2026-07-27T19:00:00+00:00</lastmod>
+       <loc>https://tatetayloroh.com/corgi-pictures</loc>
+       <lastmod>2026-08-05T13:00:00+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.9500</priority>
   </url>
   <url>
-       <loc>https://tatetayloroh.com/rickardcalvert</loc>
-       <lastmod>2026-07-27T19:00:00+00:00</lastmod>
+       <loc>https://tatetayloroh.com/rickard-calvert</loc>
+       <lastmod>2026-08-05T13:00:00+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.9250</priority>
   </url>
-  <url>
-       <loc>https://tatetayloroh.com/screenshotguide</loc>
-       <lastmod>2026-07-27T19:00:00+00:00</lastmod>
+    <url>
+       <loc>https://tatetayloroh.com/bethesda-interview</loc>
+       <lastmod>2026-08-05T13:00:00+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.9000</priority>
+  </url>
+  <url>
+       <loc>https://tatetayloroh.com/screenshot-guide</loc>
+       <lastmod>2026-08-05T13:00:00+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8750</priority>
   </url>
 </urlset>
