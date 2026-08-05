@@ -1,11 +1,11 @@
 ---
-title: Thoron's Faithful
-author: Tate Tayor, edited by Catir and VictorF
-image: /assets/img/pages/rickardcalvert/ecss/2022-11-5-thorons-faithful/ThoronsFaithful00.png
+title: "Thoron's Faithful
+author: "Tate Tayor, edited by Catir and VictorF"
+image: "/assets/img/pages/rickardcalvert/ecss/2022-11-5-thorons-faithful/ThoronsFaithful00.png"
 order: 5
 redirect_from:
-  - /rickardcalvert/ecss/2022/11/05/thoronsfaithful.html/
-  - /rickardcalvert/ecss/2022/11/5/thoronsfaithful.html/
+  - "/rickardcalvert/ecss/2022/11/05/thoronsfaithful.html"
+  - "/rickardcalvert/ecss/2022/11/5/thoronsfaithful.html"
 ---
 I looked up to see a man, hidden in the shadows of the vegetation. He was not like the golden and purpled-skinned beings that I'd just been accosted by. Instead, he appeared to be human.  
 He spoke. "So, what transgression led you to be imprisoned here?"
