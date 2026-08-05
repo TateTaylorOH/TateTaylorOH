@@ -1,8 +1,8 @@
 ---
-title: Morrowind Mint, Elven Supremacy, and more!
-author: Tate Taylor
-image: /assets/img/posts/2024-09-21-morrowind-mint-elven-supremacy-and-more/MorrowindMint.png
-redirect_from: /blog/2024/09/21/morrowindmintandmore.html/
+title: "Morrowind Mint, Elven Supremacy, and more!"
+author: "Tate Taylor"
+image: "/assets/img/posts/2024-09-21-morrowind-mint-elven-supremacy-and-more/MorrowindMint.png"
+redirect_from: "/blog/2024/09/21/morrowindmintandmore.html"
 ---
 A lot of updates all at once! First and foremost C.O.I.N. 3.1.0 has been released and will represent a paradigm shift for the mod. Since Currency Swapper has been such a great resource to implement multiple currencies, I've made the decision to focus C.O.I.N. solely around ancient coins you find in ruins. All coins that represent modern legal tender (medes, sancar, ulfrics) has been deprecated in the mod. Support for these coins (including the MCM menu) has been retained in order for third-party submods to continue to use them.
 
