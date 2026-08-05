@@ -2,12 +2,12 @@
 <head>
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  {% if paginator.page > 1 %}
-    <title>{{ site.title }} - Page {{ paginator.page }}</title>
-  {% endif %}
   {% if page.url == "/" or page.url == "/index.html" %}
     {% seo title=false %}
     <title>{{ site.title }}</title>
+    {% elsif paginator.page > 1 %}
+    {% seo title=false %}
+    <title>{{ site.title }} - Page {{ paginator.page }}</title>
     {% else %}
     {% seo %}
   {% endif %}
