@@ -29,7 +29,7 @@ defaults:
       path: "_rickard-calvert/ecss"
     values:
         series: "ecss"
-        permalink: "/rickardcalvert/ecss/:title"
+        permalink: "/rickard-calvert/ecss/:title"
         
 plugins:
   - jekyll-paginate
