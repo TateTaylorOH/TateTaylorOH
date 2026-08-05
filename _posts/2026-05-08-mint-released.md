@@ -1,8 +1,8 @@
 ---
-title: M.I.N.T. Released
-author: Tate Taylor
-image: /assets/img/posts/2026-05-08-mint-released/MINT.png
-redirect_from: /blog/2026/05/08/mint.html/
+title: "M.I.N.T. Released"
+author: "Tate Taylor"
+image: "/assets/img/posts/2026-05-08-mint-released/MINT.png"
+redirect_from: "/blog/2026/05/08/mint.html"
 ---
 About two years ago I created several mods using [Currency Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/127686) that added new functional currencies to the game; Morrowind Mint and Gibberish perhaps being the most well-known examples. I am quite fond of these mods as they add a lot of fun mechanical immersion to the game. Last month I was working on some updates for these mods when I became annoyed while looking at how they function under the hood. Each Currency Swapper mod had a ton of repeated code that was inefficient and honestly kind of sloppy. With that, this mod was born.
 
