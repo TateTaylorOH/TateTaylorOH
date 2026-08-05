@@ -3,11 +3,10 @@ title: "Bethesda Interview"
 image: "/assets/img/posts/2022-06-28-monthly-modder-tatetayloroh/1Y1HUYEpDpTUvugIToD8Eu-LargeHero_JuneModder.png"
 image_align: "center"
 ---
+![Hero](/assets/img/posts/2022-06-28-monthly-modder-tatetayloroh/1Y1HUYEpDpTUvugIToD8Eu-LargeHero_JuneModder.png)
 <div style="text-align:center;"><i>Originally published on <a href="https://bethesda.net/en-US/news/monthly-modder-tatetaylorusa">Bethesda.net</a> on June 28, 2022.</i></div>
 
 ---
-![Hero](/assets/img/posts/2022-06-28-monthly-modder-tatetayloroh/1Y1HUYEpDpTUvugIToD8Eu-LargeHero_JuneModder.png)
-
 Many mod authors may own and love their pets, but TateTaylorOH takes his devotion to a new level in the form of his mods "Gladys the Corgi" ([Xbox](https://bethesda.net/en/mods/skyrim/mod-detail/4217662)) and "Merlin the Corgi" ([Xbox](https://bethesda.net/en/mods/skyrim/mod-detail/4236473)), which insert his real life dogs into Skyrim as pet companions, each with their own unique abilities to assist any Dragonborn - Gladys to cheerfully "carry your burdens" and Merlin to transform into whatever elemental form will most help you in combat.
 
 In addition to capturing the physical likeness of the real life Gladys and Merlin in these mods, TateTaylorOH ([Bethesda.net](https://creations.bethesda.net/en/skyrim/all?author_displayname=TateTaylorOH), [Nexus](https://www.nexusmods.com/users/61720101/)) also recorded their real barks to use in the voice acting for the companion mods. He tells us more about his furry muses, his other integration mods, and the larger modding community in this month's modder interview.
