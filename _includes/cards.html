@@ -2,7 +2,7 @@
 <div class="col">
   <div class="card h-100">
     {% if post.image %}
-      <img src="{{ post.image | relative_url }}" class="card-img-top" alt="{{ post.title }}">
+      <a href="{{ post.url | relative_url }}"><img src="{{ post.image | relative_url }}" class="card-img-top" alt="{{ post.title }}"></a>
     {% endif %}
     <div class="card-body">
       <h5 class="card-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h5>
