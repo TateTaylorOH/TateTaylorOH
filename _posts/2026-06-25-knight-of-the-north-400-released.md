@@ -1,8 +1,8 @@
 ---
-title: Knight of the North 4.0.0 Released
-author: Tate Taylor
-image: /assets/img/posts/2026-06-25-knight-of-the-north-400-released/SirAreldur.png
-redirect_from: /blog/2026/06/25/kotn4.html/
+title: "Knight of the North 4.0.0 Released"
+author: "Tate Taylor"
+image: "/assets/img/posts/2026-06-25-knight-of-the-north-400-released/SirAreldur.png"
+redirect_from: "/blog/2026/06/25/kotn4.html"
 ---
 Knight of the North is one of my oldest mods and was definitely an ambitious undertaking at the time I made it. To be honest it was a bit *too* ambitious for where my skillset was then. I've gotten several bug reports about it over the past year or so and upon opening the mod up to fix it I was honestly kinda shocked how poorly made it was. It worked, but it was glued together with duct tape an a dream. I decided instead of trying to continue band-aiding bugs as they came but I'd just bite the bullet and rebuilt the mod from scratch using all the knowledge I've learned since the initial release in 2021.
 
