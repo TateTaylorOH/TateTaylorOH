@@ -1,8 +1,8 @@
 ---
-title: Gladys, Merlin, and D.E.A.D. Updates
-author: Tate Taylor
-image: /assets/img/posts/2024-08-19-gladys-merlin-and-dead-updates/DaeniaCorgi.png
-redirect_from: /blog/2024/08/19/gladysmerlindeadupdates.html/
+title: "Gladys, Merlin, and D.E.A.D. Updates"
+author: "Tate Taylor"
+image: "/assets/img/posts/2024-08-19-gladys-merlin-and-dead-updates/DaeniaCorgi.png"
+redirect_from: "/blog/2024/08/19/gladysmerlindeadupdates.html"
 ---
 Hello everyone! 
 
