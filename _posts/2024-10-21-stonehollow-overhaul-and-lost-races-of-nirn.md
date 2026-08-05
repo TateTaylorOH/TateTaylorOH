@@ -1,8 +1,8 @@
 ---
-title: Stonehollow Overhaul and Lost Races of Nirn
-author: Tate Taylor
-image: /assets/img/posts/2024-10-21-stonehollow-overhaul-and-lost-races-of-nirn/UniqueStonehollowComparison.gif
-redirect_from: /blog/2024/10/21/stonehollowlron.html/
+title: "Stonehollow Overhaul and Lost Races of Nirn"
+author: "Tate Taylor"
+image: "/assets/img/posts/2024-10-21-stonehollow-overhaul-and-lost-races-of-nirn/UniqueStonehollowComparison.gif"
+redirect_from: "/blog/2024/10/21/stonehollowlron.html"
 ---
 Hi everyone, I just finished work on a few things!
 
