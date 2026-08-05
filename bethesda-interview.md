@@ -3,7 +3,7 @@ title: "Bethesda Interview"
 image: "/assets/img/posts/2022-06-28-monthly-modder-tatetayloroh/1Y1HUYEpDpTUvugIToD8Eu-LargeHero_JuneModder.png"
 image_align: "center"
 ---
-<div style="text-align:center;">*Originally published on [Bethesda.net](https://bethesda.net/en-US/news/monthly-modder-tatetaylorusa) on June 28, 2022.*</div>
+<div style="text-align:center;"><i>Originally published on <a href="https://bethesda.net/en-US/news/monthly-modder-tatetaylorusa">Bethesda.net</a> on June 28, 2022.</i></div>
 
 ---
 ![Hero](/assets/img/posts/2022-06-28-monthly-modder-tatetayloroh/1Y1HUYEpDpTUvugIToD8Eu-LargeHero_JuneModder.png)
