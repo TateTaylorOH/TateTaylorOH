@@ -1,6 +1,5 @@
 ---
 title: "Bethesda Interview"
-image: "/assets/img/posts/2022-06-28-monthly-modder-tatetayloroh/LargeHero_JuneModder.png"
 image_align: "center"
 ---
 ![Hero](/assets/img/posts/2022-06-28-monthly-modder-tatetayloroh/LargeHero_JuneModder.png)
