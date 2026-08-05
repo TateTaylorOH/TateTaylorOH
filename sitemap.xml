@@ -15,10 +15,10 @@
        <priority>0.9750</priority>
   </url>
   <url>
-       <loc>https://tatetayloroh.com/corgi-pictures</loc>
+       <loc>https://tatetayloroh.com/bethesda-interview</loc>
        <lastmod>2026-08-05T13:00:00+00:00</lastmod>
        <changefreq>daily</changefreq>
-       <priority>0.9500</priority>
+       <priority>0.9000</priority>
   </url>
   <url>
        <loc>https://tatetayloroh.com/rickard-calvert</loc>
@@ -26,11 +26,11 @@
        <changefreq>daily</changefreq>
        <priority>0.9250</priority>
   </url>
-    <url>
-       <loc>https://tatetayloroh.com/bethesda-interview</loc>
+  <url>
+       <loc>https://tatetayloroh.com/corgi-pictures</loc>
        <lastmod>2026-08-05T13:00:00+00:00</lastmod>
        <changefreq>daily</changefreq>
-       <priority>0.9000</priority>
+       <priority>0.9500</priority>
   </url>
   <url>
        <loc>https://tatetayloroh.com/screenshot-guide</loc>
