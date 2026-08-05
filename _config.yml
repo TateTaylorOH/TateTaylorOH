@@ -1,6 +1,6 @@
-title: Tate Taylor
-description: I am Tate Taylor, a Skyrim mod author and Wabbajack modlist curator.
-url: https://tatetayloroh.com
+title: "Tate Taylor"
+description: "I am Tate Taylor, a Skyrim mod author and Wabbajack modlist curator."
+url: "https://tatetayloroh.com"
 excerpt_separator: "<!-- excerpt-end -->"
 
 collections:
@@ -11,24 +11,24 @@ defaults:
   - scope:
       path: "" # an empty string here means all files in the project
     values:
-      layout: page
-      title: About Me
+      layout: "page"
+      title: "About Me"
       image: "/assets/img/thumbnail.png"
   - scope:
       type: "posts"
     values:
-      layout: post
-      image_align: center
+      layout: "post"
+      image_align: "center"
       permalink: "/posts/:title"
   - scope:
       type: "rickardcalvert"
     values:
-        layout: post
-        image_align: center
+        layout: "post"
+        image_align: "center"
   - scope:
       path: "_rickardcalvert/ecss"
     values:
-        series: ecss
+        series: "ecss"
         permalink: "/rickardcalvert/ecss/:title"
         
 plugins:
