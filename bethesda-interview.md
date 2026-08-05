@@ -1,6 +1,7 @@
 ---
 title: "Bethesda Interview"
 image: "/assets/img/posts/2022-06-28-monthly-modder-tatetayloroh/1Y1HUYEpDpTUvugIToD8Eu-LargeHero_JuneModder.png"
+image_align: "center"
 ---
 *Originally published on [Bethesda.net](https://bethesda.net/en-US/news/monthly-modder-tatetaylorusa) on June 28, 2022.*
 
