@@ -1,6 +1,7 @@
 ---
 layout: "post"
 title: "Bethesda Interview"
+author: "Bethesda Game Studios"
 date: "2022-06-28"
 image: "/assets/img/posts/2022-06-28-monthly-modder-tatetayloroh/1Y1HUYEpDpTUvugIToD8Eu-LargeHero_JuneModder.png"
 image_align: "center"
