@@ -1,8 +1,8 @@
 ---
-title: Keizaal 8.0.0 Released
-author: Tate Taylor
-image: /assets/img/posts/2024-09-30-keizaal-800-released/Keizaal8.png
-redirect_from: /blog/2024/09/30/keizaal8.html/
+title: "Keizaal 8.0.0 Released"
+author: "Tate Taylor"
+image: "/assets/img/posts/2024-09-30-keizaal-800-released/Keizaal8.png"
+redirect_from: "/blog/2024/09/30/keizaal8.html"
 ---
 At long last, [Keizaal](https://www.nexusmods.com/skyrimspecialedition/mods/68997) 8.0.0 is out!
 
