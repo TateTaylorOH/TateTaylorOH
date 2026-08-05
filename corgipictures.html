@@ -1,7 +1,7 @@
 ---
-layout: default
-title: Corgi Pictures
-description: Cute pictures of cute corgis.
+layout: "default"
+title: "Corgi Pictures"
+description: "Cute pictures of cute corgis."
 ---
 <div class="row g-3 row-cols-1 row-cols-sm-3 row-cols-md-4 row-cols-lg-5 row-cols-xl-6">
 {% assign images = site.static_files | where_exp: "file", "file.path contains '/assets/img/pages/corgipictures/'" | sort: "path" | reverse %}
