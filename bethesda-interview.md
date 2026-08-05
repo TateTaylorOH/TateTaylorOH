@@ -1,12 +1,11 @@
 ---
-layout: "post"
 title: "Bethesda Interview"
-author: "Bethesda Game Studios"
-date: "2022-06-28"
 image: "/assets/img/posts/2022-06-28-monthly-modder-tatetayloroh/LargeHero_JuneModder.png"
 image_align: "center"
 ---
-*Originally published on [Bethesda.net](https://bethesda.net/en-US/news/monthly-modder-tatetaylorusa).*
+![Hero](/assets/img/posts/2022-06-28-monthly-modder-tatetayloroh/LargeHero_JuneModder.png)
+
+*Originally published on [Bethesda.net](https://bethesda.net/en-US/news/monthly-modder-tatetaylorusa) on June 28, 2022.*
 
 ---
 Many mod authors may own and love their pets, but TateTaylorOH takes his devotion to a new level in the form of his mods "Gladys the Corgi" ([Xbox](https://bethesda.net/en/mods/skyrim/mod-detail/4217662)) and "Merlin the Corgi" ([Xbox](https://bethesda.net/en/mods/skyrim/mod-detail/4236473)), which insert his real life dogs into Skyrim as pet companions, each with their own unique abilities to assist any Dragonborn - Gladys to cheerfully "carry your burdens" and Merlin to transform into whatever elemental form will most help you in combat.
