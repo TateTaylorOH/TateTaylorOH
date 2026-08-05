@@ -12,7 +12,7 @@ redirect_from: "/rickardcalvert.html"
 <br>
 <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
 	{% assign rickard-calvert = site.rickard-calvert | where: "series", "ecss" | sort: "order" %}
-	{% for post in rickardcalvert %}
+	{% for post in rickard-calvert %}
 		{% include cards.html %}
 	{% endfor %}
 </div>
