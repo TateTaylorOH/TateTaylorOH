@@ -4,7 +4,7 @@ url: "https://tatetayloroh.com"
 excerpt_separator: "<!-- excerpt-end -->"
 
 collections:
-  rickardcalvert:
+  rickard-calvert:
     output: true
 
 defaults:
