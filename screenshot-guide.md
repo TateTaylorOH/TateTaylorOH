@@ -2,6 +2,7 @@
 title: "Screenshot Guide"
 description: "Basic tips and tricks for better screenshotting."
 image_align: "center"
+permalink: "/screenshot-guide"
 redirect_from: 
   - "/SCREENSHOTGUIDE.html"
   - "/screenshotguide.html"
