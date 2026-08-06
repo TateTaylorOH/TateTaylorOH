@@ -1,6 +1,7 @@
 ---
 title: "Bethesda Interview"
 description: "June 2022 Bethesda Monthly Modder interview with Tate Taylor."
+permalink: "/bethesda-interview"
 image_align: "center"
 ---
 ![Hero](/assets/img/pages/bethesda-interview/LargeHero_JuneModder.png)
