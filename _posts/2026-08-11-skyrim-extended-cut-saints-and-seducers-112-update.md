@@ -10,6 +10,7 @@ I hope you enjoy, you can see a full changelog below!
 - Added an Installed Content entry for Skyrim Extended Cut - Saints and Seducers.
 - Removed unused masters from the Fishing and Staff of Sheogorath integration patches.
 - Updated the position of the barred door in the Solitude Sewers.
+- Updated the ECSS Resource Pack for Mod Authors to include up
 - (PC Only) Updated the Corgi bestiary entry to reflect Bethesda's new official Corgi lore.
 - Fixed an issue that could cause DynDoLOD to generate file path errors.
 - Fixed an issue where exploration and discovery music was too loud, drowning out dialogue and other audio.
@@ -18,6 +19,7 @@ I hope you enjoy, you can see a full changelog below!
 - Fixed an issue where loot chests in Borogove and the Drowned Ruin didn't respawn.
 - Fixed an issue where Sees-the-Moon's dialogue could be stuck in an endless loop.
 - Fixed an issue where several objects had duplicates placed in the same spot.
+- Fixed an issue where the player's Shadow could spawn out of bounds.
 - Fixed a number of navmesh and navigation info issues that could cause SSEEdit to generate errors.
 - Fixed a number of mesh material and collision issues.
 - Fixed a number of other minor bugs and issues.
