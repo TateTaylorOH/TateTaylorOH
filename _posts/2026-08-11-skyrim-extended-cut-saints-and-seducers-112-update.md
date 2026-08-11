@@ -10,7 +10,7 @@ I hope you enjoy, you can see a full changelog below!
 - Added an Installed Content entry for Skyrim Extended Cut - Saints and Seducers.
 - Removed unused masters from the Fishing and Staff of Sheogorath integration patches.
 - Updated the position of the barred door in the Solitude Sewers.
-- Updated the ECSS Resource Pack for Mod Authors to include up
+- Updated the ECSS Resource Pack for Mod Authors.
 - (PC Only) Updated the Corgi bestiary entry to reflect Bethesda's new official Corgi lore.
 - Fixed an issue that could cause DynDoLOD to generate file path errors.
 - Fixed an issue where exploration and discovery music was too loud, drowning out dialogue and other audio.
