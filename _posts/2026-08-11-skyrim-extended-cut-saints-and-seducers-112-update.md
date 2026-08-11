@@ -21,3 +21,5 @@ I hope you enjoy, you can see a full changelog below!
 - Fixed a number of navmesh and navigation info issues that could cause SSEEdit to generate errors.
 - Fixed a number of mesh material and collision issues.
 - Fixed a number of other minor bugs and issues.
+
+**[Download Link](https://www.nexusmods.com/skyrimspecialedition/mods/72772)**
