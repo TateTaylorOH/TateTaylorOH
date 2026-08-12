@@ -11,6 +11,7 @@ I hope you enjoy, you can see a full changelog below!
 - Removed unused masters from the Fishing and Staff of Sheogorath integration patches.
 - Updated the position of the barred door in the Solitude Sewers.
 - Updated the ECSS Resource Pack for Mod Authors.
+- (PC Only) Added support for Quest Journal Overhaul﻿.
 - (PC Only) Updated the Corgi bestiary entry to reflect Bethesda's new official Corgi lore.
 - Fixed an issue that could cause DynDoLOD to generate file path errors.
 - Fixed an issue where exploration and discovery music was too loud, drowning out dialogue and other audio.
