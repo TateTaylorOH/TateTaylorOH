@@ -21,6 +21,7 @@ I hope you enjoy, you can see a full changelog below!
 - Fixed an issue where Sees-the-Moon's dialogue could be stuck in an endless loop.
 - Fixed an issue where several objects had duplicates placed in the same spot.
 - Fixed an issue where the player's Shadow could spawn out of bounds.
+- Fixed an issue where directional markers were visible at the barriers of the Asylum for Xbox players.
 - Fixed a number of navmesh and navigation info issues that could cause SSEEdit to generate errors.
 - Fixed a number of mesh material and collision issues.
 - Fixed a number of other minor bugs and issues.
