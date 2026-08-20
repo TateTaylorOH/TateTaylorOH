@@ -5,7 +5,7 @@ image: "/assets/img/posts/2026-08-20-keizaal-down-following-skyrim-version-1799-
 ---
 Due to the recent Skyrim updated, Keizaal is down until further notice.
 
-I will not be able to get version 8 compiled and back online as I am in the middle of prepping version 9 and I don't currently have access to v8.
+I will not be able to get version 8 compiled and back online as I am in the middle of prepping version 9 and I don't currently have access to version 8.
 
 I will do everything in my power to get Keizaal 9 released as soon as possible so that the modlist is installable again. However, that is probably still several weeks out. I'm still resolving some conflicts and putting on finishing touches on the list before I am comfortable with a release.
 
