@@ -1,7 +1,7 @@
 ---
 title: "Keizaal Down Following Skyrim Version 1.7.99 Release"
 author: "Tate Taylor"
-image: "/assets/img/posts/2026-08-20-keizaal-down-following-skyrim-version-1799-release.md/Keizaal.png"
+image: "/assets/img/posts/2026-08-20-keizaal-down-following-skyrim-version-1799-release/Keizaal.png"
 ---
 Due to the recent Skyrim updated, Keizaal is down until further notice.
 
