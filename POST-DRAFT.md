@@ -2,6 +2,7 @@
 title: "Keizaal 9.0.0 Released"
 author: "Tate Taylor"
 image: "/assets/img/posts/2026-11-11-keizaal-900-released/Keizaal9.png"
+layout: "post"
 ---
 Keizaal 9.0.0 is out!
 
