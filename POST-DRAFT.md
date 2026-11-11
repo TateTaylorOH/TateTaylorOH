@@ -22,3 +22,4 @@ There’s no reason to believe full releases from Beyond Skyrim won't be include
 
 A number of smaller mods will also be removed in this update. Keizaal includes many small “immersion” mods that most players will never notice. These take up space in the modlist and create more opportunities for issues to arise.
 
+That's all for now. I hope you all enjoy the new update!
